@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.exe
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.deps.json
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.runtimeconfig.json
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.dll
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.pdb
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.AssemblyInfo.cs
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.sourcelink.json
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.dll
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\refint\EventExample.dll
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.pdb
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.genruntimeconfig.cache
+D:\workspace\csharp\Demo_d17\EventExample\EventExample\obj\Debug\net8.0-windows\ref\EventExample.dll

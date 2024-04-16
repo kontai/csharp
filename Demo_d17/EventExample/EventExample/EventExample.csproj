@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="Method1.cs" />
+		<Compile Remove="Method2.cs" />
+		<Compile Remove="SimpleEvent.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="Method2.cs" />
+		<None Include="SimpleEvent.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="Method1.cs" />
+	</ItemGroup>
+
+</Project>
