@@ -1,0 +1,17 @@
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\bin\Debug\net8.0-windows\WindowsFormExampl.exe
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\bin\Debug\net8.0-windows\WindowsFormExampl.deps.json
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\bin\Debug\net8.0-windows\WindowsFormExampl.runtimeconfig.json
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\bin\Debug\net8.0-windows\WindowsFormExampl.dll
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\bin\Debug\net8.0-windows\WindowsFormExampl.pdb
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.MyForm.resources
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.csproj.GenerateResource.cache
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.AssemblyInfoInputs.cache
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.AssemblyInfo.cs
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.csproj.CoreCompileInputs.cache
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.sourcelink.json
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.dll
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\refint\WindowsFormExampl.dll
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.pdb
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\WindowsFormExampl.genruntimeconfig.cache
+C:\Users\kontai\workspace\csharp\WindowsFormExampl\WindowsFormExampl\obj\Debug\net8.0-windows\ref\WindowsFormExampl.dll

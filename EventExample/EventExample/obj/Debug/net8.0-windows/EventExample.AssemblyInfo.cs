@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CH8")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EventExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+700c6882073d75d2b925283152d07f85a548c9e8")]
-[assembly: System.Reflection.AssemblyProductAttribute("CH8")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CH8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f52a269805c8dd12190b2dba7377933a88062f")]
+[assembly: System.Reflection.AssemblyProductAttribute("EventExample")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EventExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // 由 MSBuild WriteCodeFragment 類別產生。
 

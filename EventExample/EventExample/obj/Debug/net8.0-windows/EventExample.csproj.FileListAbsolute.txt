@@ -1,0 +1,15 @@
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.exe
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.deps.json
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.runtimeconfig.json
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.dll
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\bin\Debug\net8.0-windows\EventExample.pdb
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.AssemblyInfoInputs.cache
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.AssemblyInfo.cs
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.csproj.CoreCompileInputs.cache
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.sourcelink.json
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.dll
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\refint\EventExample.dll
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.pdb
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\EventExample.genruntimeconfig.cache
+C:\Users\kontai\workspace\csharp\EventExample\EventExample\obj\Debug\net8.0-windows\ref\EventExample.dll
