@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A523E2FC-17FB-4A22-BEC4-AA83CF33B244}|CH8\\CH8.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch8\\ch8\\baserefwithvirtualexample .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A523E2FC-17FB-4A22-BEC4-AA83CF33B244}|CH8\\CH8.csproj|solutionrelative:ch8\\baserefwithvirtualexample .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A523E2FC-17FB-4A22-BEC4-AA83CF33B244}|CH8\\CH8.csproj|C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\ch8\\baserefexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A523E2FC-17FB-4A22-BEC4-AA83CF33B244}|CH8\\CH8.csproj|solutionrelative:ch8\\baserefexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A523E2FC-17FB-4A22-BEC4-AA83CF33B244}|CH8\\CH8.csproj|C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\ch8\\maskbasememberexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A523E2FC-17FB-4A22-BEC4-AA83CF33B244}|CH8\\CH8.csproj|solutionrelative:ch8\\maskbasememberexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRefWithVirtualExample .cs",
+              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\BaseRefWithVirtualExample .cs",
+              "RelativeDocumentMoniker": "CH8\\BaseRefWithVirtualExample .cs",
+              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\BaseRefWithVirtualExample .cs",
+              "RelativeToolTip": "CH8\\BaseRefWithVirtualExample .cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:49:56.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRefExample.cs",
+              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\BaseRefExample.cs",
+              "RelativeDocumentMoniker": "CH8\\BaseRefExample.cs",
+              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\BaseRefExample.cs",
+              "RelativeToolTip": "CH8\\BaseRefExample.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:25:31.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaskBaseMemberExample.cs",
+              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\MaskBaseMemberExample.cs",
+              "RelativeDocumentMoniker": "CH8\\MaskBaseMemberExample.cs",
+              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\MaskBaseMemberExample.cs",
+              "RelativeToolTip": "CH8\\MaskBaseMemberExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:08:12.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

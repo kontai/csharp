@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="LocalFunctionExample.cs" />
+		<Compile Remove="NamedParameterExample.cs" />
+		<Compile Remove="OptionalParameterExample.cs" />
+		<Compile Remove="OutParameterExample.cs" />
+		<Compile Remove="OverloadingExampl.cs" />
+		<Compile Remove="ParamsArraysEzample.cs" />
+		<Compile Remove="RefLocalAndRefReturn.cs" />
+		<Compile Remove="RefParameterExample.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="LocalFunctionExample.cs" />
+		<None Include="NamedParameterExample.cs" />
+		<None Include="OutParameterExample.cs" />
+		<None Include="OverloadingExampl.cs" />
+		<None Include="ParamsArraysEzample.cs" />
+		<None Include="RefLocalAndRefReturn.cs" />
+		<None Include="RefParameterExample.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="OptionalParameterExample.cs" />
+	</ItemGroup>
+
+</Project>

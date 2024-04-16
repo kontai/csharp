@@ -1,0 +1,15 @@
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\bin\Debug\net8.0\CH3.exe
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\bin\Debug\net8.0\CH3.deps.json
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\bin\Debug\net8.0\CH3.runtimeconfig.json
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\bin\Debug\net8.0\CH3.dll
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\bin\Debug\net8.0\CH3.pdb
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\CH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\CH3.AssemblyInfoInputs.cache
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\CH3.AssemblyInfo.cs
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\CH3.csproj.CoreCompileInputs.cache
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\CH3.sourcelink.json
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\CH3.dll
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\refint\CH3.dll
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\CH3.pdb
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\CH3.genruntimeconfig.cache
+C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH3\CH3\obj\Debug\net8.0\ref\CH3.dll
