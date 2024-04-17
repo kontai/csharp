@@ -9,12 +9,18 @@
 
   <ItemGroup>
     <Compile Remove="BaseRefExample.cs" />
+    <Compile Remove="BaseRefWithVirtualExample .cs" />
+    <Compile Remove="ConstracorInitializeExample.cs" />
     <Compile Remove="MaskBaseMemberExample.cs" />
+    <Compile Remove="MultiOverrideDerivedExample.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="BaseRefExample.cs" />
+    <None Include="BaseRefWithVirtualExample .cs" />
+    <None Include="ConstracorInitializeExample.cs" />
     <None Include="MaskBaseMemberExample.cs" />
+    <None Include="MultiOverrideDerivedExample.cs" />
   </ItemGroup>
 
 </Project>
