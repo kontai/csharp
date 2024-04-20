@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\CH9.csproj": {}
+    "E:\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\CH9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\CH9.csproj": {
+    "E:\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\CH9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\CH9.csproj",
+        "projectUniqueName": "E:\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\CH9.csproj",
         "projectName": "CH9",
-        "projectPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\CH9.csproj",
-        "packagesPath": "C:\\Users\\kontai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\obj\\",
+        "projectPath": "E:\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\CH9.csproj",
+        "packagesPath": "C:\\Users\\tai\\.nuget\\packages\\",
+        "outputPath": "E:\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kontai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tai\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
