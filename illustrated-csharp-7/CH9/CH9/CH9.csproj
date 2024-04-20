@@ -7,4 +7,22 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="CustomerDefinedTransExample.cs" />
+    <Compile Remove="NameofOpExample.cs" />
+    <Compile Remove="OperatorOverloadExample.cs" />
+    <Compile Remove="SefIncrementOpExample.cs" />
+    <Compile Remove="TypeofOpExample.cs" />
+    <Compile Remove="VerbatimStringExample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="CustomerDefinedTransExample.cs" />
+    <None Include="NameofOpExample.cs" />
+    <None Include="OperatorOverloadExample.cs" />
+    <None Include="SefIncrementOpExample.cs" />
+    <None Include="TypeofOpExample.cs" />
+    <None Include="VerbatimStringExample.cs" />
+  </ItemGroup>
+
 </Project>
