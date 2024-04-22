@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E59D2AB-AC78-4685-BD0B-D30020267241}|CH10\\CH10.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch10\\ch10\\forloopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E59D2AB-AC78-4685-BD0B-D30020267241}|CH10\\CH10.csproj|solutionrelative:ch10\\forloopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E59D2AB-AC78-4685-BD0B-D30020267241}|CH10\\CH10.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch10\\ch10\\usingstatementexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E59D2AB-AC78-4685-BD0B-D30020267241}|CH10\\CH10.csproj|solutionrelative:ch10\\usingstatementexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ForLoopExample.cs",
-              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH10\\CH10\\ForLoopExample.cs",
-              "RelativeDocumentMoniker": "CH10\\ForLoopExample.cs",
-              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH10\\CH10\\ForLoopExample.cs",
-              "RelativeToolTip": "CH10\\ForLoopExample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAwAAAAIAAAA",
+              "Title": "UsingStatementExample.cs",
+              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH10\\CH10\\UsingStatementExample.cs",
+              "RelativeDocumentMoniker": "CH10\\UsingStatementExample.cs",
+              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH10\\CH10\\UsingStatementExample.cs",
+              "RelativeToolTip": "CH10\\UsingStatementExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T15:52:18.386Z",
+              "WhenOpened": "2024-04-22T00:02:40.366Z",
               "EditorCaption": ""
             }
           ]

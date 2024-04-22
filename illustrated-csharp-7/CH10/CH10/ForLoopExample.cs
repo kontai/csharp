@@ -11,10 +11,13 @@ namespace CH10
     {
         public static void Main()
         {
-            int ia = 0;
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 10; i++)        //變量i是局部的，仅在for迴圈內有效
             {
                 Console.WriteLine(i);
+            }
+            for (int i = 10; i > 0; i--)
+            {
+
             }
         }
     }

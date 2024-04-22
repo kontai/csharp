@@ -7,4 +7,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ForLoopExample.cs" />
+    <Compile Remove="SwitchExample.cs" />
+    <Compile Remove="UsingStatementExample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ForLoopExample.cs" />
+    <None Include="SwitchExample.cs" />
+    <None Include="UsingStatementExample.cs" />
+  </ItemGroup>
+
 </Project>
