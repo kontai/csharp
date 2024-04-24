@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{471A2162-F5FF-4B94-B986-CE5E91B4598F}|CH13\\CH13.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch13\\ch13\\arrayrankexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471A2162-F5FF-4B94-B986-CE5E91B4598F}|CH13\\CH13.csproj|solutionrelative:ch13\\arrayrankexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{471A2162-F5FF-4B94-B986-CE5E91B4598F}|CH13\\CH13.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch13\\ch13\\jaggedarrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471A2162-F5FF-4B94-B986-CE5E91B4598F}|CH13\\CH13.csproj|solutionrelative:ch13\\jaggedarrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArrayRankExample.cs",
-              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH13\\CH13\\ArrayRankExample.cs",
-              "RelativeDocumentMoniker": "CH13\\ArrayRankExample.cs",
-              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH13\\CH13\\ArrayRankExample.cs",
-              "RelativeToolTip": "CH13\\ArrayRankExample.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBwAAAAIAAAA",
+              "Title": "JaggedArrayExample.cs",
+              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH13\\CH13\\JaggedArrayExample.cs",
+              "RelativeDocumentMoniker": "CH13\\JaggedArrayExample.cs",
+              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH13\\CH13\\JaggedArrayExample.cs",
+              "RelativeToolTip": "CH13\\JaggedArrayExample.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA7wB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T03:02:50.775Z",
+              "WhenOpened": "2024-04-24T00:54:53.073Z",
               "EditorCaption": ""
             }
           ]

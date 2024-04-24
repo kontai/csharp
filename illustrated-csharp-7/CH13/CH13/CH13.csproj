@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ArrayInitializeExample.cs" />
+    <Compile Remove="ArrayRankExample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="ArrayInitializeExample.cs" />
+    <None Include="ArrayRankExample.cs" />
+  </ItemGroup>
+
 </Project>
