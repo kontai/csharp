@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+    <Compile Remove="CustomerDefinedTransExample.cs" />
+    <Compile Remove="NameofOpExample.cs" />
+    <Compile Remove="OperatorOverloadExample.cs" />
+    <Compile Remove="SefIncrementOpExample.cs" />
+    <Compile Remove="TypeofOpExample.cs" />
+=======
+>>>>>>> 67d401013f63d28de42f0428b1eac5cbe759f5a7
+    <Compile Remove="VerbatimStringExample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+    <None Include="CustomerDefinedTransExample.cs" />
+    <None Include="NameofOpExample.cs" />
+    <None Include="OperatorOverloadExample.cs" />
+    <None Include="SefIncrementOpExample.cs" />
+    <None Include="TypeofOpExample.cs" />
+=======
+>>>>>>> 67d401013f63d28de42f0428b1eac5cbe759f5a7
+    <None Include="VerbatimStringExample.cs" />
+  </ItemGroup>
+
+</Project>

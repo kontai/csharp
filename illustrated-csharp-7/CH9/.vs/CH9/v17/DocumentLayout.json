@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E6E6EB-C94D-45A2-A642-169D22CEF91B}|CH9\\CH9.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch9\\ch9\\nameofopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E6E6EB-C94D-45A2-A642-169D22CEF91B}|CH9\\CH9.csproj|solutionrelative:ch9\\nameofopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E6E6EB-C94D-45A2-A642-169D22CEF91B}|CH9\\CH9.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch9\\ch9\\verbatimstringexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E6E6EB-C94D-45A2-A642-169D22CEF91B}|CH9\\CH9.csproj|solutionrelative:ch9\\verbatimstringexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E6E6EB-C94D-45A2-A642-169D22CEF91B}|CH9\\CH9.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch9\\ch9\\typeofopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E6E6EB-C94D-45A2-A642-169D22CEF91B}|CH9\\CH9.csproj|solutionrelative:ch9\\typeofopexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+=======
+  "WorkspaceRootPath": "E:\\workspace\\csharp\\illustrated-csharp-7\\CH9\\",
+  "Documents": [],
+>>>>>>> 67d401013f63d28de42f0428b1eac5cbe759f5a7
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NameofOpExample.cs",
+              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\NameofOpExample.cs",
+              "RelativeDocumentMoniker": "CH9\\NameofOpExample.cs",
+              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\NameofOpExample.cs",
+              "RelativeToolTip": "CH9\\NameofOpExample.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCUAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:31:04.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerbatimStringExample.cs",
+              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\VerbatimStringExample.cs",
+              "RelativeDocumentMoniker": "CH9\\VerbatimStringExample.cs",
+              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\VerbatimStringExample.cs",
+              "RelativeToolTip": "CH9\\VerbatimStringExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:30:55.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeofOpExample.cs",
+              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\TypeofOpExample.cs",
+              "RelativeDocumentMoniker": "CH9\\TypeofOpExample.cs",
+              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH9\\CH9\\TypeofOpExample.cs",
+              "RelativeToolTip": "CH9\\TypeofOpExample.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:30:50.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

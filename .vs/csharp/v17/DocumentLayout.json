@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "D:\\workspace\\csharp\\",
+=======
+  "WorkspaceRootPath": "E:\\workspace\\csharp\\",
+>>>>>>> 138250b3c0a8a0e50e8ff57c21b17c8a80321023
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -22,6 +26,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             }
           ]
         }
