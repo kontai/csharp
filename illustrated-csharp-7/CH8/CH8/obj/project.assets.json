@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\CH8.csproj",
+      "projectUniqueName": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\CH8.csproj",
       "projectName": "CH8",
-      "projectPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\CH8.csproj",
+      "projectPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\CH8.csproj",
       "packagesPath": "C:\\Users\\kontai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\obj\\",
+      "outputPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH8\\CH8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

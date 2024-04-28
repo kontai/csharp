@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH13\\",
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{471A2162-F5FF-4B94-B986-CE5E91B4598F}|CH13\\CH13.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch13\\ch13\\jaggedarrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471A2162-F5FF-4B94-B986-CE5E91B4598F}|CH13\\CH13.csproj|solutionrelative:ch13\\jaggedarrayexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{471A2162-F5FF-4B94-B986-CE5E91B4598F}|CH13\\CH13.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch13\\ch13\\arraywithrefexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471A2162-F5FF-4B94-B986-CE5E91B4598F}|CH13\\CH13.csproj|solutionrelative:ch13\\arraywithrefexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -29,20 +37,16 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JaggedArrayExample.cs",
-              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH13\\CH13\\JaggedArrayExample.cs",
-              "RelativeDocumentMoniker": "CH13\\JaggedArrayExample.cs",
-              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH13\\CH13\\JaggedArrayExample.cs",
-              "RelativeToolTip": "CH13\\JaggedArrayExample.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA7wB4AAAAMAAAA",
+              "Title": "ArrayWithRefExample.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH13\\CH13\\ArrayWithRefExample.cs",
+              "RelativeDocumentMoniker": "CH13\\ArrayWithRefExample.cs",
+              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH13\\CH13\\ArrayWithRefExample.cs",
+              "RelativeToolTip": "CH13\\ArrayWithRefExample.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T00:54:53.073Z",
+              "WhenOpened": "2024-04-27T10:55:56.345Z",
               "EditorCaption": ""
             }
           ]

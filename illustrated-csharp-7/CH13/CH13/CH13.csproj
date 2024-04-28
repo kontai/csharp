@@ -10,11 +10,17 @@
   <ItemGroup>
     <Compile Remove="ArrayInitializeExample.cs" />
     <Compile Remove="ArrayRankExample.cs" />
+    <Compile Remove="ArrayUsefulMember.cs" />
+    <Compile Remove="ForeachJaggedArray.cs" />
+    <Compile Remove="JaggedArrayExample.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="ArrayInitializeExample.cs" />
     <None Include="ArrayRankExample.cs" />
+    <None Include="ArrayUsefulMember.cs" />
+    <None Include="ForeachJaggedArray.cs" />
+    <None Include="JaggedArrayExample.cs" />
   </ItemGroup>
 
 </Project>

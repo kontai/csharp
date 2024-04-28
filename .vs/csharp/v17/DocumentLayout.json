@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\",
+=======
   "WorkspaceRootPath": "E:\\workspace\\csharp\\",
+>>>>>>> 138250b3c0a8a0e50e8ff57c21b17c8a80321023
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -8,12 +12,16 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 237,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",

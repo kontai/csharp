@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CH4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fb052c7cabed727a75c6ffa9d6c967807d4cfe2")]
+=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b7e64e6e1f6b051cf0de6440c4f0c11cb68f73d")]
+>>>>>>> 138250b3c0a8a0e50e8ff57c21b17c8a80321023
 [assembly: System.Reflection.AssemblyProductAttribute("CH4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CH4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
