@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\bin\Debug\net8.0\MethodParam2.exe
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\bin\Debug\net8.0\MethodParam2.deps.json
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\bin\Debug\net8.0\MethodParam2.runtimeconfig.json
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\bin\Debug\net8.0\MethodParam2.dll
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\bin\Debug\net8.0\MethodParam2.pdb
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\MethodParam2.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\MethodParam2.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\MethodParam2.AssemblyInfo.cs
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\MethodParam2.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\MethodParam2.sourcelink.json
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\MethodParam2.dll
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\refint\MethodParam2.dll
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\MethodParam2.pdb
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\MethodParam2.genruntimeconfig.cache
+D:\workspace\csharp\Demo_d16\MethodParam2\MethodParam2\obj\Debug\net8.0\ref\MethodParam2.dll
