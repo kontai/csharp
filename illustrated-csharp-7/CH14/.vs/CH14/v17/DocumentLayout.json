@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EA4076A-E29B-4305-B61E-D1D2A51DEE15}|CH14\\CH14.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch14\\ch14\\retunvaluesdelegator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA4076A-E29B-4305-B61E-D1D2A51DEE15}|CH14\\CH14.csproj|solutionrelative:ch14\\retunvaluesdelegator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EA4076A-E29B-4305-B61E-D1D2A51DEE15}|CH14\\CH14.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch14\\ch14\\combindelegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA4076A-E29B-4305-B61E-D1D2A51DEE15}|CH14\\CH14.csproj|solutionrelative:ch14\\combindelegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EA4076A-E29B-4305-B61E-D1D2A51DEE15}|CH14\\CH14.csproj|D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\ch14\\delegateintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EA4076A-E29B-4305-B61E-D1D2A51DEE15}|CH14\\CH14.csproj|solutionrelative:ch14\\delegateintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3EA4076A-E29B-4305-B61E-D1D2A51DEE15}|CH14\\CH14.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch14\\ch14\\lambdaexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA4076A-E29B-4305-B61E-D1D2A51DEE15}|CH14\\CH14.csproj|solutionrelative:ch14\\lambdaexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,40 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RetunValuesDelegator.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\CH14\\RetunValuesDelegator.cs",
-              "RelativeDocumentMoniker": "CH14\\RetunValuesDelegator.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\CH14\\RetunValuesDelegator.cs",
-              "RelativeToolTip": "CH14\\RetunValuesDelegator.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAgwDwAAAAAAAAA",
+              "Title": "LambdaExample.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\CH14\\LambdaExample.cs",
+              "RelativeDocumentMoniker": "CH14\\LambdaExample.cs",
+              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\CH14\\LambdaExample.cs",
+              "RelativeToolTip": "CH14\\LambdaExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T09:56:49.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CombinDelegateExample.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\CH14\\CombinDelegateExample.cs",
-              "RelativeDocumentMoniker": "CH14\\CombinDelegateExample.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\CH14\\CombinDelegateExample.cs",
-              "RelativeToolTip": "CH14\\CombinDelegateExample.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAAADsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T07:06:28.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DelegateIntro.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\CH14\\DelegateIntro.cs",
-              "RelativeDocumentMoniker": "CH14\\DelegateIntro.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH14\\CH14\\DelegateIntro.cs",
-              "RelativeToolTip": "CH14\\DelegateIntro.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAA0wB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T01:52:23.951Z",
+              "WhenOpened": "2024-04-29T01:45:25.133Z",
               "EditorCaption": ""
             }
           ]
