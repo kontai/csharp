@@ -1,0 +1,15 @@
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\CH15.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\CH15.AssemblyInfoInputs.cache
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\CH15.AssemblyInfo.cs
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\CH15.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\CH15.sourcelink.json
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\bin\Debug\net8.0\CH15.exe
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\bin\Debug\net8.0\CH15.deps.json
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\bin\Debug\net8.0\CH15.runtimeconfig.json
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\bin\Debug\net8.0\CH15.dll
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\bin\Debug\net8.0\CH15.pdb
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\CH15.dll
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\refint\CH15.dll
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\CH15.pdb
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\CH15.genruntimeconfig.cache
+D:\workspace\csharp\illustrated-csharp-7\CH15\CH15\obj\Debug\net8.0\ref\CH15.dll
