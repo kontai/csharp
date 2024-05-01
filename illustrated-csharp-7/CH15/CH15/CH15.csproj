@@ -9,10 +9,12 @@
 
   <ItemGroup>
     <Compile Remove="Increment.cs" />
+    <Compile Remove="IncrementWithEventHandler.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="Increment.cs" />
+    <None Include="IncrementWithEventHandler.cs" />
   </ItemGroup>
 
 </Project>

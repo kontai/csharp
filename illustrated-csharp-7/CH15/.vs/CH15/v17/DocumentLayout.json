@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH15\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC20CF2D-F09A-443C-B298-8DC52F2D33EA}|CH15\\CH15.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch15\\ch15\\incrementwitheventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC20CF2D-F09A-443C-B298-8DC52F2D33EA}|CH15\\CH15.csproj|solutionrelative:ch15\\incrementwitheventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC20CF2D-F09A-443C-B298-8DC52F2D33EA}|CH15\\CH15.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch15\\ch15\\increment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC20CF2D-F09A-443C-B298-8DC52F2D33EA}|CH15\\CH15.csproj|solutionrelative:ch15\\increment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC20CF2D-F09A-443C-B298-8DC52F2D33EA}|CH15\\CH15.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch15\\ch15\\eventremoveexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC20CF2D-F09A-443C-B298-8DC52F2D33EA}|CH15\\CH15.csproj|solutionrelative:ch15\\eventremoveexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IncrementWithEventHandler.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH15\\CH15\\IncrementWithEventHandler.cs",
-              "RelativeDocumentMoniker": "CH15\\IncrementWithEventHandler.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH15\\CH15\\IncrementWithEventHandler.cs",
-              "RelativeToolTip": "CH15\\IncrementWithEventHandler.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAIBHwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T02:18:19.999Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -51,15 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Increment.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH15\\CH15\\Increment.cs",
-              "RelativeDocumentMoniker": "CH15\\Increment.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH15\\CH15\\Increment.cs",
-              "RelativeToolTip": "CH15\\Increment.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAkwCsAAAAXAAAA",
+              "DocumentIndex": 0,
+              "Title": "EventRemoveExample.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH15\\CH15\\EventRemoveExample.cs",
+              "RelativeDocumentMoniker": "CH15\\EventRemoveExample.cs",
+              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH15\\CH15\\EventRemoveExample.cs",
+              "RelativeToolTip": "CH15\\EventRemoveExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T00:35:30.631Z",
+              "WhenOpened": "2024-05-01T01:46:50.005Z",
               "EditorCaption": ""
             }
           ]
