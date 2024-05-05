@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\BaseClass.csproj": {}
+    "D:\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\BaseClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\BaseClass.csproj": {
+    "D:\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\BaseClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\BaseClass.csproj",
+        "projectUniqueName": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\BaseClass.csproj",
         "projectName": "BaseClass",
-        "projectPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\BaseClass.csproj",
+        "projectPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\BaseClass.csproj",
         "packagesPath": "C:\\Users\\kontai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\obj\\",
+        "outputPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH8\\BaseClass\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

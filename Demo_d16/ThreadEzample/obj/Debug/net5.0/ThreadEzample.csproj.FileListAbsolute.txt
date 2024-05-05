@@ -1,5 +1,0 @@
-D:\workspace\csharp\Demo_d16\ThreadEzample\obj\Debug\net5.0\ThreadEzample.GeneratedMSBuildEditorConfig.editorconfig
-D:\workspace\csharp\Demo_d16\ThreadEzample\obj\Debug\net5.0\ThreadEzample.AssemblyInfoInputs.cache
-D:\workspace\csharp\Demo_d16\ThreadEzample\obj\Debug\net5.0\ThreadEzample.AssemblyInfo.cs
-D:\workspace\csharp\Demo_d16\ThreadEzample\obj\Debug\net5.0\ThreadEzample.csproj.CoreCompileInputs.cache
-D:\workspace\csharp\Demo_d16\ThreadEzample\obj\Debug\net5.0\ThreadEzample.sourcelink.json

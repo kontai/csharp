@@ -1,28 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch6\\ch6\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|solutionrelative:ch6\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch6\\ch6\\ch6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|solutionrelative:ch6\\ch6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch6\\ch6\\namedparameterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|solutionrelative:ch6\\namedparameterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch6\\ch6\\overloadingexampl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|solutionrelative:ch6\\overloadingexampl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|c:\\users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\ch6\\ch6\\reflocalandrefreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C96B2E0-2E7D-4687-AC6E-0F129422F566}|CH6\\CH6.csproj|solutionrelative:ch6\\reflocalandrefreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH6\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,60 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Demo.cs",
-              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\Demo.cs",
-              "RelativeDocumentMoniker": "CH6\\Demo.cs",
-              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\Demo.cs",
-              "RelativeToolTip": "CH6\\Demo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T07:12:35.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NamedParameterExample.cs",
-              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\NamedParameterExample.cs",
-              "RelativeDocumentMoniker": "CH6\\NamedParameterExample.cs",
-              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\NamedParameterExample.cs",
-              "RelativeToolTip": "CH6\\NamedParameterExample.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwCEAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T06:36:43.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OverloadingExampl.cs",
-              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\OverloadingExampl.cs",
-              "RelativeDocumentMoniker": "CH6\\OverloadingExampl.cs",
-              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\OverloadingExampl.cs",
-              "RelativeToolTip": "CH6\\OverloadingExampl.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAywCQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T06:24:35.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CH6",
-              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\CH6.csproj",
-              "RelativeDocumentMoniker": "CH6\\CH6.csproj",
-              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\CH6.csproj",
-              "RelativeToolTip": "CH6\\CH6.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-14T02:23:36.232Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -94,20 +21,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RefLocalAndRefReturn.cs",
-              "DocumentMoniker": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\RefLocalAndRefReturn.cs",
-              "RelativeDocumentMoniker": "CH6\\RefLocalAndRefReturn.cs",
-              "ToolTip": "C:\\Users\\kontai\\workspace\\csharp\\illustrated-csharp-7\\CH6\\CH6\\RefLocalAndRefReturn.cs",
-              "RelativeToolTip": "CH6\\RefLocalAndRefReturn.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T02:23:55.626Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

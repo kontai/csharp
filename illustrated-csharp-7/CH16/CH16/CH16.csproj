@@ -8,11 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ExplicitIterfaceImp.cs" />
+    <Compile Remove="MyInterface.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="SortMyClass.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="ExplicitIterfaceImp.cs" />
+    <None Include="MyInterface.cs" />
     <None Include="Program.cs" />
+    <None Include="SortMyClass.cs" />
   </ItemGroup>
 
 </Project>
