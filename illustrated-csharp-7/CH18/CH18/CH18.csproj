@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Program.cs" />
+    <Compile Remove="StackGenericExample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Program.cs" />
+    <None Include="StackGenericExample.cs" />
+  </ItemGroup>
+
 </Project>
