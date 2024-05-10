@@ -24,7 +24,7 @@ namespace CH8
 
     internal static class ExtensionMethods
     {
-        public static double Average(this MyData data)
+        public static double Average(this MyData data)  //擴展方法 ， 必須是靜態類static class , 靜態方法static method ,和this 闗鍵字
         {
             return data.Sum() / 3;
         }

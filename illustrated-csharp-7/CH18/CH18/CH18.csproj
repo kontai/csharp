@@ -8,13 +8,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ConstraintGeneric.cs" />
+    <Compile Remove="DelegateGeneric.cs" />
+    <Compile Remove="ExendMethodGeneric.cs" />
+    <Compile Remove="MethodGeneric.cs" />
+    <Compile Remove="MethodGenericExample.cs" />
     <Compile Remove="Program.cs" />
     <Compile Remove="StackGenericExample.cs" />
+    <Compile Remove="StructGeneric.cs" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="ConstraintGeneric.cs" />
+    <None Include="DelegateGeneric.cs" />
+    <None Include="ExendMethodGeneric.cs" />
+    <None Include="MethodGeneric.cs" />
+    <None Include="MethodGenericExample.cs" />
     <None Include="Program.cs" />
     <None Include="StackGenericExample.cs" />
+    <None Include="StructGeneric.cs" />
   </ItemGroup>
 
 </Project>
