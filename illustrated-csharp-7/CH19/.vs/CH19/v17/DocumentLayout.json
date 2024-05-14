@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH19\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C37E2D1-BE19-4BFD-93D7-E2C203B779AD}|CH19\\CH19.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch19\\ch19\\ienumexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C37E2D1-BE19-4BFD-93D7-E2C203B779AD}|CH19\\CH19.csproj|solutionrelative:ch19\\ienumexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C37E2D1-BE19-4BFD-93D7-E2C203B779AD}|CH19\\CH19.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch19\\ch19\\iteratorprameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C37E2D1-BE19-4BFD-93D7-E2C203B779AD}|CH19\\CH19.csproj|solutionrelative:ch19\\iteratorprameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IEnumExample.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH19\\CH19\\IEnumExample.cs",
-              "RelativeDocumentMoniker": "CH19\\IEnumExample.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH19\\CH19\\IEnumExample.cs",
-              "RelativeToolTip": "CH19\\IEnumExample.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAiwCgAAAAMAAAA",
+              "Title": "IteratorPrameter.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH19\\CH19\\IteratorPrameter.cs",
+              "RelativeDocumentMoniker": "CH19\\IteratorPrameter.cs",
+              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH19\\CH19\\IteratorPrameter.cs",
+              "RelativeToolTip": "CH19\\IteratorPrameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T00:47:47.09Z",
+              "WhenOpened": "2024-05-14T02:22:26.328Z",
               "EditorCaption": ""
             }
           ]
