@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="AnonymousClass.cs" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AnonymousClass.cs" />
+    <None Include="Program.cs" />
+  </ItemGroup>
+
 </Project>
