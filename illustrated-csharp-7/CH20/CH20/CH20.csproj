@@ -9,12 +9,22 @@
 
   <ItemGroup>
     <Compile Remove="AnonymousClass.cs" />
+    <Compile Remove="joinEzxampl.cs" />
+    <Compile Remove="LinQQueryExample.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="查詢主體中片段\fromExample.cs" />
+    <Compile Remove="查詢主體中片段\letExample.cs" />
+    <Compile Remove="查詢主體中片段\whereExample.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="AnonymousClass.cs" />
+    <None Include="JoinEzxampl.cs" />
+    <None Include="LinQQueryExample.cs" />
     <None Include="Program.cs" />
+    <None Include="查詢主體中片段\fromExample.cs" />
+    <None Include="查詢主體中片段\letExample.cs" />
+    <None Include="查詢主體中片段\whereExample.cs" />
   </ItemGroup>
 
 </Project>
