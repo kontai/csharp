@@ -9,9 +9,14 @@
 
   <ItemGroup>
     <Compile Remove="AnonymousClass.cs" />
+    <Compile Remove="GroupByExample.cs" />
+    <Compile Remove="IntoExample.cs" />
     <Compile Remove="joinEzxampl.cs" />
     <Compile Remove="LinQQueryExample.cs" />
+    <Compile Remove="orderbyExample.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="selectExample.cs" />
+    <Compile Remove="StandartQueryExample.cs" />
     <Compile Remove="查詢主體中片段\fromExample.cs" />
     <Compile Remove="查詢主體中片段\letExample.cs" />
     <Compile Remove="查詢主體中片段\whereExample.cs" />
@@ -19,9 +24,14 @@
 
   <ItemGroup>
     <None Include="AnonymousClass.cs" />
+    <None Include="GroupByExample.cs" />
+    <None Include="IntoExample.cs" />
     <None Include="JoinEzxampl.cs" />
     <None Include="LinQQueryExample.cs" />
+    <None Include="orderbyExample.cs" />
     <None Include="Program.cs" />
+    <None Include="selectExample.cs" />
+    <None Include="StandartQueryExample.cs" />
     <None Include="查詢主體中片段\fromExample.cs" />
     <None Include="查詢主體中片段\letExample.cs" />
     <None Include="查詢主體中片段\whereExample.cs" />
