@@ -17,6 +17,8 @@
     <Compile Remove="Program.cs" />
     <Compile Remove="selectExample.cs" />
     <Compile Remove="StandartQueryExample.cs" />
+    <Compile Remove="XML\AddNodes.cs" />
+    <Compile Remove="XML\XMLwithLINQ.cs" />
     <Compile Remove="查詢主體中片段\fromExample.cs" />
     <Compile Remove="查詢主體中片段\letExample.cs" />
     <Compile Remove="查詢主體中片段\whereExample.cs" />
@@ -32,6 +34,8 @@
     <None Include="Program.cs" />
     <None Include="selectExample.cs" />
     <None Include="StandartQueryExample.cs" />
+    <None Include="XML\AddNodes.cs" />
+    <None Include="XML\XMLwithLINQ.cs" />
     <None Include="查詢主體中片段\fromExample.cs" />
     <None Include="查詢主體中片段\letExample.cs" />
     <None Include="查詢主體中片段\whereExample.cs" />
