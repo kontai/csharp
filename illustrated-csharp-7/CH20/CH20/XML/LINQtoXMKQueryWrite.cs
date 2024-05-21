@@ -2,7 +2,7 @@
 
 namespace CH20.XML;
 
-public class LINQtoXMKQuery
+public class LINQtoXMKQueryWrite
 {
     public static void Main(string[] args)
     {
@@ -21,5 +21,6 @@ public class LINQtoXMKQuery
         );
         Console.WriteLine(xd);
         xd.Save("SimpleSample.xml");
+
     }
 }
