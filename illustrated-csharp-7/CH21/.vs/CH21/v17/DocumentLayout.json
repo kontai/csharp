@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\ch21\\asyncexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|solutionrelative:ch21\\asyncexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\ch21\\noasyncexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|solutionrelative:ch21\\noasyncexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\ch21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\taskrun4typedeleg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|solutionrelative:ch21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\taskrun4typedeleg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,27 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AsyncExample.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\AsyncExample.cs",
-              "RelativeDocumentMoniker": "CH21\\AsyncExample.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\AsyncExample.cs",
-              "RelativeToolTip": "CH21\\AsyncExample.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAiwCwAAAApAAAA",
+              "Title": "TaskRun4TypeDeleg.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\TaskRun4TypeDeleg.cs",
+              "RelativeDocumentMoniker": "CH21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\TaskRun4TypeDeleg.cs",
+              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\TaskRun4TypeDeleg.cs",
+              "RelativeToolTip": "CH21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\TaskRun4TypeDeleg.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA9wBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T02:47:35.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NoAsyncExample.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\NoAsyncExample.cs",
-              "RelativeDocumentMoniker": "CH21\\NoAsyncExample.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\NoAsyncExample.cs",
-              "RelativeToolTip": "CH21\\NoAsyncExample.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T02:31:57.891Z",
+              "WhenOpened": "2024-05-24T01:14:57.926Z",
               "EditorCaption": ""
             }
           ]
