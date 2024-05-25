@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\ch21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\taskrun4typedeleg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|solutionrelative:ch21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\taskrun4typedeleg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\ch21\\await\u7684\u7570\u5E38\u8655\u7406\\exceptawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|solutionrelative:ch21\\await\u7684\u7570\u5E38\u8655\u7406\\exceptawait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\ch21\\\u53D6\u6D88\u7570\u6B65\u64CD\u4F5C\\cancellationtokenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|solutionrelative:ch21\\\u53D6\u6D88\u7570\u6B65\u64CD\u4F5C\\cancellationtokenexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -29,28 +41,29 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptAwait.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\await\u7684\u7570\u5E38\u8655\u7406\\ExceptAwait.cs",
+              "RelativeDocumentMoniker": "CH21\\await\u7684\u7570\u5E38\u8655\u7406\\ExceptAwait.cs",
+              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\await\u7684\u7570\u5E38\u8655\u7406\\ExceptAwait.cs",
+              "RelativeToolTip": "CH21\\await\u7684\u7570\u5E38\u8655\u7406\\ExceptAwait.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:11:32.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskRun4TypeDeleg.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\TaskRun4TypeDeleg.cs",
-              "RelativeDocumentMoniker": "CH21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\TaskRun4TypeDeleg.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\TaskRun4TypeDeleg.cs",
-              "RelativeToolTip": "CH21\\\u7570\u6B65\u65B9\u6CD5\\\u81EA\u5B9A\u7FA9await\\TaskRun4TypeDeleg.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIA9wBsAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CancellationTokenExample.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\\u53D6\u6D88\u7570\u6B65\u64CD\u4F5C\\CancellationTokenExample.cs",
+              "RelativeDocumentMoniker": "CH21\\\u53D6\u6D88\u7570\u6B65\u64CD\u4F5C\\CancellationTokenExample.cs",
+              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\\u53D6\u6D88\u7570\u6B65\u64CD\u4F5C\\CancellationTokenExample.cs",
+              "RelativeToolTip": "CH21\\\u53D6\u6D88\u7570\u6B65\u64CD\u4F5C\\CancellationTokenExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T01:14:57.926Z",
+              "WhenOpened": "2024-05-25T07:57:25.824Z",
               "EditorCaption": ""
             }
           ]

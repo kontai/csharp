@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Remove="AsyncExample.cs" />
     <Compile Remove="NoAsyncExample.cs" />
+    <Compile Remove="取消異步操作\CancellationTokenExample.cs" />
     <Compile Remove="異步方法\TaskT.cs" />
     <Compile Remove="異步方法\TaskVoid.cs" />
     <Compile Remove="異步方法\ValueTaseT.cs" />
@@ -20,6 +21,7 @@
   <ItemGroup>
     <None Include="AsyncExample.cs" />
     <None Include="NoAsyncExample.cs" />
+    <None Include="取消異步操作\CancellationTokenExample.cs" />
     <None Include="異步方法\TaskT.cs" />
     <None Include="異步方法\TaskVoid.cs" />
     <None Include="異步方法\ValueTaseT.cs" />
