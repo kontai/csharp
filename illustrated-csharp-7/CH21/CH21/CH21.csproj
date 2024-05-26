@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="AsyncExample.cs" />
+    <Compile Remove="await的異常處理\ExceptAwait.cs" />
     <Compile Remove="NoAsyncExample.cs" />
     <Compile Remove="取消異步操作\CancellationTokenExample.cs" />
     <Compile Remove="異步方法\TaskT.cs" />
@@ -16,10 +17,15 @@
     <Compile Remove="異步方法\ValueTaseT.cs" />
     <Compile Remove="異步方法\自定義await\TaskRun4TypeDeleg.cs" />
     <Compile Remove="異步方法\自定義await\TaskRunExample.cs" />
+    <Compile Remove="等待任務TaskWait\WaitExample.cs" />
+    <Compile Remove="等待任務TaskWait\WaitLLAnyExample.cs" />
+    <Compile Remove="等待任務TaskWait\同步等待\WaitExample.cs" />
+    <Compile Remove="等待任務TaskWait\延遲\TaskDelayExample.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="AsyncExample.cs" />
+    <None Include="await的異常處理\ExceptAwait.cs" />
     <None Include="NoAsyncExample.cs" />
     <None Include="取消異步操作\CancellationTokenExample.cs" />
     <None Include="異步方法\TaskT.cs" />
@@ -27,6 +33,13 @@
     <None Include="異步方法\ValueTaseT.cs" />
     <None Include="異步方法\自定義await\TaskRun4TypeDeleg.cs" />
     <None Include="異步方法\自定義await\TaskRunExample.cs" />
+    <None Include="等待任務TaskWait\同步等待\WaitExample.cs" />
+    <None Include="等待任務TaskWait\同步等待\WaitLLAnyExample.cs" />
+    <None Include="等待任務TaskWait\延遲\TaskDelayExample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="等待任務TaskWait\異步等待\" />
   </ItemGroup>
 
 </Project>

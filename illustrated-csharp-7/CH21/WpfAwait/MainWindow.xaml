@@ -1,0 +1,44 @@
+﻿<Window
+    x:Class="WpfAwait.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:WpfAwait"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="progressBar"
+    Width="280"
+    Height="150"
+    mc:Ignorable="d">
+    <StackPanel>
+        <Button
+            Name="btnProcess"
+            Width="100"
+            Margin="10,15,10,10"
+            HorizontalAlignment="Right"
+            Click="btnProcess_Click">
+            Process
+        </Button>
+        <Button
+            Name="btnCancel"
+            Width="100"
+            Margin="10,0"
+            HorizontalAlignment="Right"
+            Click="btnCancel_Click">
+            Cancel
+        </Button>
+        <StackPanel Orientation="Horizontal">
+            <Label
+                x:Name="progressValues"
+                Width="30"
+                Height="20"
+                Margin="0,0,0,10"
+                FontSize="16"
+                RenderTransformOrigin="3.058,2.096" />
+            <ProgressBar
+                x:Name="progressBar"
+                Width="200"
+                Height="20"
+                Margin="40,1,0,0" />
+        </StackPanel>
+    </StackPanel>
+</Window>
