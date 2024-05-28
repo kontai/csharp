@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncLambda", "AsyncLambda\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAwait", "WpfAwait\WpfAwait.csproj", "{BB1AE1E5-8B6F-4B5B-AB87-9FC1209EE160}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWorker", "SimpleWorker\SimpleWorker.csproj", "{EC2F1EF6-5102-4743-B957-8A1180B4AA85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BB1AE1E5-8B6F-4B5B-AB87-9FC1209EE160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB1AE1E5-8B6F-4B5B-AB87-9FC1209EE160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB1AE1E5-8B6F-4B5B-AB87-9FC1209EE160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2F1EF6-5102-4743-B957-8A1180B4AA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2F1EF6-5102-4743-B957-8A1180B4AA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2F1EF6-5102-4743-B957-8A1180B4AA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2F1EF6-5102-4743-B957-8A1180B4AA85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
