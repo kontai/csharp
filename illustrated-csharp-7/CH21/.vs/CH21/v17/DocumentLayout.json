@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC2F1EF6-5102-4743-B957-8A1180B4AA85}|SimpleWorker\\SimpleWorker.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\simpleworker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC2F1EF6-5102-4743-B957-8A1180B4AA85}|SimpleWorker\\SimpleWorker.csproj|solutionrelative:simpleworker\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC2F1EF6-5102-4743-B957-8A1180B4AA85}|SimpleWorker\\SimpleWorker.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\simpleworker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EC2F1EF6-5102-4743-B957-8A1180B4AA85}|SimpleWorker\\SimpleWorker.csproj|solutionrelative:simpleworker\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|d:\\workspace\\csharp\\illustrated-csharp-7\\ch21\\ch21\\\u4E26\u884C\u5FAA\u74B0\\parallerforexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475F36B6-B311-49D0-9C7A-DAE115D315F6}|CH21\\CH21.csproj|solutionrelative:ch21\\\u4E26\u884C\u5FAA\u74B0\\parallerforexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\SimpleWorker\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "SimpleWorker\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\SimpleWorker\\MainWindow.xaml.cs",
-              "RelativeToolTip": "SimpleWorker\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAIA3wE4AAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T01:28:30.319Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -63,14 +46,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\SimpleWorker\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "SimpleWorker\\MainWindow.xaml",
-              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\SimpleWorker\\MainWindow.xaml",
-              "RelativeToolTip": "SimpleWorker\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-28T01:28:42.635Z",
+              "DocumentIndex": 0,
+              "Title": "ParallerForExample.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\\u4E26\u884C\u5FAA\u74B0\\ParallerForExample.cs",
+              "RelativeDocumentMoniker": "CH21\\\u4E26\u884C\u5FAA\u74B0\\ParallerForExample.cs",
+              "ToolTip": "D:\\workspace\\csharp\\illustrated-csharp-7\\CH21\\CH21\\\u4E26\u884C\u5FAA\u74B0\\ParallerForExample.cs",
+              "RelativeToolTip": "CH21\\\u4E26\u884C\u5FAA\u74B0\\ParallerForExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T01:02:47.365Z",
               "EditorCaption": ""
             }
           ]
