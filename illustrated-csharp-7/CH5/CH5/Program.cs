@@ -23,14 +23,5 @@
 
         }
 
-        class DayTemp
-        {
-
-            public int High, Low;
-            public int Average()
-            {
-                return (High + Low) / 2;
-            }
-        }
     }
 }

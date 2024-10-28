@@ -4,3 +4,6 @@ Console.WriteLine("The value: {0,10}.",500);    //一共輸出10位數,正數代
 Console.WriteLine("The value: {0,10:F4}", 500);  //一共輸出10位數,以浮
 Console.WriteLine("1024 hex: {0:x}",1024);
 Console.WriteLine("1024 hex: {0:n}",1024);
+
+string dec2hex=string.Format("{0}十六進制是:{0:x}",100);
+Console.WriteLine(dec2hex);

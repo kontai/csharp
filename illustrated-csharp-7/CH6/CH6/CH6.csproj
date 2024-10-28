@@ -8,6 +8,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<Compile Remove="Demo.cs" />
 		<Compile Remove="LocalFunctionExample.cs" />
 		<Compile Remove="NamedParameterExample.cs" />
 		<Compile Remove="OptionalParameterExample.cs" />
@@ -19,17 +20,18 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<None Include="Demo.cs" />
 		<None Include="LocalFunctionExample.cs" />
 		<None Include="NamedParameterExample.cs" />
 		<None Include="OutParameterExample.cs" />
 		<None Include="OverloadingExampl.cs" />
 		<None Include="ParamsArraysEzample.cs" />
 		<None Include="RefLocalAndRefReturn.cs" />
-		<None Include="RefParameterExample.cs" />
 	</ItemGroup>
 
 	<ItemGroup>
 		<None Include="OptionalParameterExample.cs" />
+		<None Include="RefParameterExample.cs" />
 	</ItemGroup>
 
 </Project>

@@ -10,7 +10,7 @@ namespace CH6
     {
         static void Main(string[] args)
         {
-            //c#7.0之前,out方法掉之前要先聲明變量
+            //c#7.0之前,out方法調用之前要先聲明變量
             //MyClass a1 = null;
             //int a2;
             //MyMethod(out a1, out a2);

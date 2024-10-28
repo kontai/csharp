@@ -16,6 +16,11 @@ public class ParallerForExample
 
         const int maxVlaue = 50;
         int[] squares = new int[maxVlaue];
-        Parallel.For(0, maxVlaue, i => squares[i] = i * i);
+        Parallel.For(0, maxVlaue, i => squares[i] = i * i); //Parallel.For並行循環
+        for (int i = 0; i < maxVlaue; i++)
+        {
+            Console.WriteLine($"squares[{i}]: {squares[i]}");
+        }
+
     }
 }
