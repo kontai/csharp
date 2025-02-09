@@ -8,10 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CH7
-<<<<<<< HEAD
 build_property.ProjectDir = D:\workspace\csharp\illustrated-csharp-7\CH7\CH7\
-=======
-build_property.ProjectDir = E:\workspace\csharp\illustrated-csharp-7\CH7\CH7\
->>>>>>> 138250b3c0a8a0e50e8ff57c21b17c8a80321023
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
