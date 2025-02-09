@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\EzCSharp\\01-MyFirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1532572C-D982-42EC-BB9D-EE69B5A6F5A4}|01-MyFirstProject\\01-MyFirstProject.csproj|d:\\workspace\\csharp\\ezcsharp\\01-myfirstproject\\01-myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1532572C-D982-42EC-BB9D-EE69B5A6F5A4}|01-MyFirstProject\\01-MyFirstProject.csproj|solutionrelative:01-myfirstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1E10CD-7DE9-4C3F-ADA1-F0FF9B4644B2}|CSharpCalc\\CSharpCalc.csproj|d:\\workspace\\csharp\\ezcsharp\\01-myfirstproject\\csharpcalc\\mycalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB1E10CD-7DE9-4C3F-ADA1-F0FF9B4644B2}|CSharpCalc\\CSharpCalc.csproj|solutionrelative:csharpcalc\\mycalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCalc.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\EzCSharp\\01-MyFirstProject\\CSharpCalc\\MyCalc.cs",
+              "RelativeDocumentMoniker": "CSharpCalc\\MyCalc.cs",
+              "ToolTip": "D:\\workspace\\csharp\\EzCSharp\\01-MyFirstProject\\CSharpCalc\\MyCalc.cs",
+              "RelativeToolTip": "CSharpCalc\\MyCalc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:51:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\EzCSharp\\01-MyFirstProject\\01-MyFirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "01-MyFirstProject\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\EzCSharp\\01-MyFirstProject\\01-MyFirstProject\\Program.cs",
+              "RelativeToolTip": "01-MyFirstProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T07:46:34.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\bin\Debug\05-OOP.exe.config
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\bin\Debug\05-OOP.exe
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\bin\Debug\05-OOP.pdb
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\obj\Debug\05-OOP.csproj.AssemblyReference.cache
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\obj\Debug\05-OOP.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\obj\Debug\05-OOP.exe
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\obj\Debug\05-OOP.pdb
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\obj\Debug\_05_OOP._08WinForm.Form1.resources
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\obj\Debug\05-OOP.csproj.GenerateResource.cache
+D:\workspace\csharp\EzCSharp\05-OOP\05-OOP\obj\Debug\_05_OOP._08WinForm.From1Extends.resources

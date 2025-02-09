@@ -1,0 +1,12 @@
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\bin\Debug\net8.0\MyCalCulator.deps.json
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\bin\Debug\net8.0\MyCalCulator.dll
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\bin\Debug\net8.0\MyCalCulator.pdb
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\MyCalCulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\MyCalCulator.AssemblyInfoInputs.cache
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\MyCalCulator.AssemblyInfo.vb
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\MyCalCulator.vbproj.CoreCompileInputs.cache
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\MyCalCulator.sourcelink.json
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\MyCalCulator.dll
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\refint\MyCalCulator.dll
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\MyCalCulator.pdb
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCalCulator\obj\Debug\net8.0\ref\MyCalCulator.dll

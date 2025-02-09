@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAwait", "WpfAwait\WpfAwa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWorker", "SimpleWorker\SimpleWorker.csproj", "{EC2F1EF6-5102-4743-B957-8A1180B4AA85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APM舊式的異步方法", "APM舊式的異步方法\APM舊式的異步方法.csproj", "{9745608F-1189-45B6-801C-9A95ACD2EBE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EC2F1EF6-5102-4743-B957-8A1180B4AA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC2F1EF6-5102-4743-B957-8A1180B4AA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC2F1EF6-5102-4743-B957-8A1180B4AA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9745608F-1189-45B6-801C-9A95ACD2EBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9745608F-1189-45B6-801C-9A95ACD2EBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9745608F-1189-45B6-801C-9A95ACD2EBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9745608F-1189-45B6-801C-9A95ACD2EBE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

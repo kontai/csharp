@@ -1,0 +1,11 @@
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\obj\Debug\netstandard2.0\MyCal.vbproj.AssemblyReference.cache
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\obj\Debug\netstandard2.0\MyCal.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\obj\Debug\netstandard2.0\MyCal.AssemblyInfoInputs.cache
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\obj\Debug\netstandard2.0\MyCal.AssemblyInfo.vb
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\obj\Debug\netstandard2.0\MyCal.vbproj.CoreCompileInputs.cache
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\obj\Debug\netstandard2.0\MyCal.sourcelink.json
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\bin\Debug\netstandard2.0\MyCal.deps.json
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\bin\Debug\netstandard2.0\MyCal.dll
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\bin\Debug\netstandard2.0\MyCal.pdb
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\obj\Debug\netstandard2.0\MyCal.dll
+D:\workspace\csharp\EzCSharp\01-MyFirstProject\MyCal\obj\Debug\netstandard2.0\MyCal.pdb
