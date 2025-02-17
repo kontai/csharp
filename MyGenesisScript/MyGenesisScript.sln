@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGenesisScript", "MyGenesisScript\MyGenesisScript.csproj", "{A6F333E2-4019-4E68-9DF2-A6A37078E025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{60FDA52B-786A-46E8-93DD-005CB8532234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F333E2-4019-4E68-9DF2-A6A37078E025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F333E2-4019-4E68-9DF2-A6A37078E025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F333E2-4019-4E68-9DF2-A6A37078E025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F333E2-4019-4E68-9DF2-A6A37078E025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60FDA52B-786A-46E8-93DD-005CB8532234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60FDA52B-786A-46E8-93DD-005CB8532234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60FDA52B-786A-46E8-93DD-005CB8532234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60FDA52B-786A-46E8-93DD-005CB8532234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B479E9D6-4F5F-464A-A96F-90C49F8944ED}
+	EndGlobalSection
+EndGlobal

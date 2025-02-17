@@ -13,3 +13,5 @@ D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\refint\TestProject.
 D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.pdb
 D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+D:\workspace\csharp\TestProject\TestProject\bin\Debug\net8.0\TestProject.xml
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.xml

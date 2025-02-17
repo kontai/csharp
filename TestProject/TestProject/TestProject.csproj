@@ -5,6 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,6 +17,7 @@
   <ItemGroup>
     <Compile Remove="Demo01.cs" />
     <Compile Remove="Demo02.cs" />
+    <Compile Remove="Demo_Anonymous.cs" />
     <Compile Remove="Demo_AssertClass.cs" />
     <Compile Remove="Demo_delegate.cs" />
     <Compile Remove="Demo_delegate2_Instance and Static Method Targets.cs" />
@@ -23,9 +25,18 @@
     <Compile Remove="Demo_delegate4_Generic Delegate Types.cs" />
     <Compile Remove="Demo_delegate5_Compatibility.cs" />
     <Compile Remove="Demo_Evemt1_Standart_event_patten.cs" />
+    <Compile Remove="Demo_Evenet01-Intro.cs" />
+    <Compile Remove="Demo_exteinsion_method.cs" />
     <Compile Remove="Demo_Interface.cs" />
+    <Compile Remove="Demo_Iterator01.cs" />
+    <Compile Remove="Demo_Nullable.cs" />
     <Compile Remove="Demo_Struct.cs" />
+    <Compile Remove="Demo_Tuple.cs" />
     <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Demo_Anonymous.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -34,9 +45,14 @@
     <None Include="Demo_delegate4_Generic Delegate Types.cs" />
     <None Include="Demo_delegate5_Compatibility.cs" />
     <None Include="Demo_Evemt1_Standart_event_patten.cs" />
+    <None Include="Demo_Evenet01-Intro.cs" />
+    <None Include="Demo_exteinsion_method.cs" />
     <None Include="Demo_Interface.cs" />
+    <None Include="Demo_Iterator01.cs" />
+    <None Include="Demo_Nullable.cs" />
     <None Include="Demo_Struct.cs" />
     <None Include="Demo_delegate2_Instance and Static Method Targets.cs" />
+    <None Include="Demo_Tuple.cs" />
   </ItemGroup>
 
   <ItemGroup>

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\TestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\demo_evemt1_standart_event_patten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\demo_evemt1_standart_event_patten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\demo_tuple_destruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\demo_tuple_destruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,9 +13,29 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 273,
           "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
@@ -34,40 +54,30 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Demo_Evemt1_Standart_event_patten.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_Evemt1_Standart_event_patten.cs",
-              "RelativeDocumentMoniker": "TestProject\\Demo_Evemt1_Standart_event_patten.cs",
-              "ToolTip": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_Evemt1_Standart_event_patten.cs",
-              "RelativeToolTip": "TestProject\\Demo_Evemt1_Standart_event_patten.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBgAAAAdAAAAAAAAAA==",
+              "Title": "Demo_Tuple_Destruction.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_Tuple_Destruction.cs",
+              "RelativeDocumentMoniker": "TestProject\\Demo_Tuple_Destruction.cs",
+              "ToolTip": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_Tuple_Destruction.cs",
+              "RelativeToolTip": "TestProject\\Demo_Tuple_Destruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T09:11:00.394Z",
+              "WhenOpened": "2025-02-14T01:46:21.535Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
