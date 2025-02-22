@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Preprocessor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ca01012d0f1525033e9c3ad7e4e4f90f04f55b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a324ce639abee9bd6eea3ba5f0dca581b30418b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Preprocessor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Preprocessor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
