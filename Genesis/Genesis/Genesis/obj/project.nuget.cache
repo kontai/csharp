@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FZ2h6dOSKJw=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\Genesis\\Genesis\\Genesis\\Genesis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kontai\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

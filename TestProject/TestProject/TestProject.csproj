@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+<<<<<<< HEAD
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
@@ -7,13 +8,22 @@
     <Nullable>enable</Nullable>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>
+=======
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+>>>>>>> 67df189041dffce6968d4d33b9dc89e94201c443
 
-  <ItemGroup>
-    <Compile Remove="bak\**" />
-    <EmbeddedResource Remove="bak\**" />
-    <None Remove="bak\**" />
-  </ItemGroup>
+	<ItemGroup>
+		<Compile Remove="bak\**" />
+		<EmbeddedResource Remove="bak\**" />
+		<None Remove="bak\**" />
+	</ItemGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <Compile Remove="Demo01.cs" />
     <Compile Remove="Demo02.cs" />
@@ -54,9 +64,34 @@
     <None Include="Demo_delegate2_Instance and Static Method Targets.cs" />
     <None Include="Demo_Tuple.cs" />
   </ItemGroup>
+=======
+	<ItemGroup>
+		<Compile Remove="Demo01.cs" />
+		<Compile Remove="Demo02.cs" />
+		<Compile Remove="Demo_AssertClass.cs" />
+		<Compile Remove="Demo_delegate.cs" />
+		<Compile Remove="Demo_delegate2_Instance and Static Method Targets.cs" />
+		<Compile Remove="Demo_delegate3_Multicast delegate example.cs" />
+		<Compile Remove="Demo_delegate4_Generic Delegate Types.cs" />
+		<Compile Remove="Demo_delegate5_Compatibility.cs" />
+		<Compile Remove="Demo_Evemt1_Standart_event_patten.cs" />
+		<Compile Remove="Demo_Interface.cs" />
+		<Compile Remove="Program.cs" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <Resource Include="Demo_delegate.cs" />
-  </ItemGroup>
+	<ItemGroup>
+		<None Include="Demo_AssertClass.cs" />
+		<None Include="Demo_delegate3_Multicast delegate example.cs" />
+		<None Include="Demo_delegate4_Generic Delegate Types.cs" />
+		<None Include="Demo_delegate5_Compatibility.cs" />
+		<None Include="Demo_Evemt1_Standart_event_patten.cs" />
+		<None Include="Demo_Interface.cs" />
+		<None Include="Demo_delegate2_Instance and Static Method Targets.cs" />
+	</ItemGroup>
+>>>>>>> 67df189041dffce6968d4d33b9dc89e94201c443
+
+	<ItemGroup>
+		<Resource Include="Demo_delegate.cs" />
+	</ItemGroup>
 
 </Project>
