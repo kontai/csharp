@@ -1,0 +1,14 @@
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\bin\Debug\WpfApp7.exe
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\bin\Debug\WpfApp7.pdb
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7.csproj.AssemblyReference.cache
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\MainWindow.g.cs
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\App.g.cs
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\MainWindow.baml
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7.g.resources
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.cache
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7.exe
+D:\workspace\csharp\WPF\MyFirstWpfApplication\WpfApp7\obj\Debug\WpfApp7.pdb

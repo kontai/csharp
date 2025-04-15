@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Background="DimGray">
+    <Grid>
+        <Button Name="okButton" Width="100" Height="60" FontSize="20" Click="Button_on_click">ok</Button>
+    <StackPanel>
+        <Label Target="{x:Reference box}" Content="用戶名" Foreground="White"></Label>
+            <TextBox x:Name="box" >test label</TextBox>
+            <TextBox x:Name="box2" >test label2</TextBox>
+    </StackPanel>
+    </Grid>
+</Window>

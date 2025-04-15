@@ -1,5 +1,0 @@
-D:\workspace\csharp\MyGenesisScript\MyGenesisScript\obj\Debug\net8.0\MyGenesisScript.GeneratedMSBuildEditorConfig.editorconfig
-D:\workspace\csharp\MyGenesisScript\MyGenesisScript\obj\Debug\net8.0\MyGenesisScript.AssemblyInfoInputs.cache
-D:\workspace\csharp\MyGenesisScript\MyGenesisScript\obj\Debug\net8.0\MyGenesisScript.AssemblyInfo.cs
-D:\workspace\csharp\MyGenesisScript\MyGenesisScript\obj\Debug\net8.0\MyGenesisScript.csproj.CoreCompileInputs.cache
-D:\workspace\csharp\MyGenesisScript\MyGenesisScript\obj\Debug\net8.0\MyGenesisScript.sourcelink.json

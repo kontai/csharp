@@ -1,0 +1,6 @@
+D:\workspace\csharp\GenesisDemo\GenesisDemo\bin\Debug\GenesisDemo.exe
+D:\workspace\csharp\GenesisDemo\GenesisDemo\bin\Debug\GenesisDemo.pdb
+D:\workspace\csharp\GenesisDemo\GenesisDemo\obj\Debug\Genesis_TombStone.csproj.AssemblyReference.cache
+D:\workspace\csharp\GenesisDemo\GenesisDemo\obj\Debug\Genesis_TombStone.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\GenesisDemo\GenesisDemo\obj\Debug\GenesisDemo.exe
+D:\workspace\csharp\GenesisDemo\GenesisDemo\obj\Debug\GenesisDemo.pdb

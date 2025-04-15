@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01-FileStream.cs" />
+    <Compile Remove="02-Path.cs" />
+    <Compile Remove="03-MemoryStream.cs" />
+    <Compile Remove="04-BufferedStream.cs" />
+    <Compile Remove="05-Stream Adapters.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01-FileStream.cs" />
+    <None Include="02-Path.cs" />
+    <None Include="03-MemoryStream.cs" />
+    <None Include="04-BufferedStream.cs" />
+    <None Include="05-Stream Adapters.cs" />
+  </ItemGroup>
+
+</Project>

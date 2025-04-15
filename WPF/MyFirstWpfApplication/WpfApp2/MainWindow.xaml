@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    <Window.Resources>
+        <Style x:Key="{x:Type Button}" TargetType="{x:Type Button}">
+            <Setter Property="Width" Value="60"></Setter>
+            <Setter Property="Height" Value="36"></Setter>
+            <Setter Property="Margin" Value="5"></Setter>
+
+        </Style>
+    </Window.Resources>
+    <StackPanel>
+        <local:MyButton Content="Show" UserWindowType="{x:Type TypeName=local:MyWindow}" Margin="5" />
+        <Button Content="button1"></Button>
+        <Button Content="button2"></Button>
+        <Button Content="button3"></Button>
+        <Button Content="button4" Style="{x:Null}"></Button> <!-- This button will not have the style applied -->
+        <ListBox Margin="5">
+            <ListBox.ItemsSource>
+            <x:Array Type="sys:String">
+                <sys:String>Tim</sys:String>
+                <sys:String>Tom</sys:String>
+                <sys:String>Victor</sys:String>
+            </x:Array>
+            </ListBox.ItemsSource>
+        </ListBox>
+    </StackPanel>
+</Window>
