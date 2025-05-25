@@ -11,7 +11,7 @@ namespace GenesisInterface
 {
     class Program
     {
-        static void Main(string[] args)
+        public void tomb_stone( double trim_size,double ts_size)
         {
             #region Initialization
 
@@ -41,9 +41,9 @@ namespace GenesisInterface
             }
 
             //刮除多少on 1pad防焊
-            const double trim_size = 2;
+            //const double trim_size = 2;
             //墓碑大小
-            const double ts_size = 1;
+            //const double ts_size = 1;
             //layer list
             List<string> layerList = new List<string>();
             //soldermask layer

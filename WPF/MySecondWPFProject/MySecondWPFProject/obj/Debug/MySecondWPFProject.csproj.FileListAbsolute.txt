@@ -1,0 +1,14 @@
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\bin\Debug\MySecondWPFProject.exe
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\bin\Debug\MySecondWPFProject.pdb
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject.csproj.AssemblyReference.cache
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MainWindow.g.cs
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\App.g.cs
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject_MarkupCompile.cache
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject_MarkupCompile.lref
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MainWindow.baml
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject.g.resources
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject.Properties.Resources.resources
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject.csproj.GenerateResource.cache
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject.exe
+D:\workspace\csharp\WPF\MySecondWPFProject\MySecondWPFProject\obj\Debug\MySecondWPFProject.pdb

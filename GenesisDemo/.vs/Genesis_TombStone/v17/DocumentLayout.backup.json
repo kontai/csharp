@@ -3,12 +3,34 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\GenesisDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D35778C1-AA55-4079-B57E-DD51371B0C12}|GenesisDemo\\GenesisDemo.csproj|d:\\workspace\\csharp\\genesisdemo\\genesisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D35778C1-AA55-4079-B57E-DD51371B0C12}|GenesisDemo\\GenesisDemo.csproj|solutionrelative:genesisdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|D:\\workspace\\csharp\\GenesisDemo\\tombstonewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|solutionrelative:tombstonewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D35778C1-AA55-4079-B57E-DD51371B0C12}|GenesisDemo\\GenesisDemo.csproj|D:\\workspace\\csharp\\GenesisDemo\\genesisdemo\\gentools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D35778C1-AA55-4079-B57E-DD51371B0C12}|GenesisDemo\\GenesisDemo.csproj|solutionrelative:genesisdemo\\gentools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|D:\\workspace\\csharp\\GenesisDemo\\tombstonewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|solutionrelative:tombstonewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|D:\\workspace\\csharp\\GenesisDemo\\tombstonewpf\\tombstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|solutionrelative:tombstonewpf\\tombstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TombStoneWPF||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|D:\\workspace\\csharp\\GenesisDemo\\tombstonewpf\\other.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|solutionrelative:tombstonewpf\\other.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|D:\\workspace\\csharp\\GenesisDemo\\tombstonewpf\\gentools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|solutionrelative:tombstonewpf\\gentools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|D:\\workspace\\csharp\\GenesisDemo\\tombstonewpf\\genesisinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|solutionrelative:tombstonewpf\\genesisinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D340C76-0F9C-49F8-B866-54F898AABFF1}|TombStoneWPF\\TombStoneWPF.csproj|d:\\workspace\\csharp\\genesisdemo\\tombstonewpf\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +39,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 273,
-          "SelectedChildIndex": 11,
+          "DockedWidth": 251,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,33 +88,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\GenesisDemo\\Program.cs",
-              "RelativeDocumentMoniker": "GenesisDemo\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\GenesisDemo\\Program.cs",
-              "RelativeToolTip": "GenesisDemo\\Program.cs",
-              "ViewState": "AgIAACUBAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TombStoneWPF",
+              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\TombStoneWPF.csproj",
+              "RelativeDocumentMoniker": "TombStoneWPF\\TombStoneWPF.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\TombStoneWPF.csproj",
+              "RelativeToolTip": "TombStoneWPF\\TombStoneWPF.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-22T02:24:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TombStone.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\TombStone.cs",
+              "RelativeDocumentMoniker": "TombStoneWPF\\TombStone.cs",
+              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\TombStone.cs",
+              "RelativeToolTip": "TombStoneWPF\\TombStone.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAwCwBAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T01:22:26.604Z",
+              "WhenOpened": "2025-04-21T01:00:00.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Other.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\Other.cs",
+              "RelativeDocumentMoniker": "TombStoneWPF\\Other.cs",
+              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\Other.cs",
+              "RelativeToolTip": "TombStoneWPF\\Other.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:40:19.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenTools.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\GenTools.cs",
+              "RelativeDocumentMoniker": "TombStoneWPF\\GenTools.cs",
+              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\GenTools.cs",
+              "RelativeToolTip": "TombStoneWPF\\GenTools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:40:15.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenesisInterface.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\GenesisInterface.cs",
+              "RelativeDocumentMoniker": "TombStoneWPF\\GenesisInterface.cs",
+              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\GenesisInterface.cs",
+              "RelativeToolTip": "TombStoneWPF\\GenesisInterface.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T00:40:04.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TombStoneWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\MainWindow.xaml",
+              "RelativeToolTip": "TombStoneWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-20T10:23:40.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GenTools.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\GenesisDemo\\GenTools.cs",
-              "RelativeDocumentMoniker": "GenesisDemo\\GenTools.cs",
-              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\GenesisDemo\\GenTools.cs",
-              "RelativeToolTip": "GenesisDemo\\GenTools.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABvAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TombStoneWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\workspace\\csharp\\GenesisDemo\\TombStoneWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TombStoneWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA4wDgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T01:21:24.132Z"
+              "WhenOpened": "2025-04-20T10:23:40.497Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 127,
+          "DockedWidth": 295,
           "SelectedChildIndex": -1,
           "Children": [
             {

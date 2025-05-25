@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\bin\Debug\net8.0\ch2.exe
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\bin\Debug\net8.0\ch2.deps.json
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\bin\Debug\net8.0\ch2.runtimeconfig.json
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\bin\Debug\net8.0\ch2.dll
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\bin\Debug\net8.0\ch2.pdb
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ch2.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ch2.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ch2.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ch2.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ch2.sourcelink.json
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ch2.dll
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\refint\ch2.dll
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ch2.pdb
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ch2.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\C12_in_a_Nutshell\ch2\ch2\obj\Debug\net8.0\ref\ch2.dll

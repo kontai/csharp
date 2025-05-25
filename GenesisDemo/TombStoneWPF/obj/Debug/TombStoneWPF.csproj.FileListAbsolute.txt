@@ -1,0 +1,15 @@
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\bin\Debug\TombStoneWPF.exe
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\bin\Debug\TombStoneWPF.pdb
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF.csproj.AssemblyReference.cache
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\MainWindow.g.cs
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\App.g.cs
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF_MarkupCompile.cache
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF_MarkupCompile.lref
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\MainWindow.baml
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF.g.resources
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF.Properties.Resources.resources
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF.csproj.GenerateResource.cache
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF.exe
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\obj\Debug\TombStoneWPF.pdb
+D:\workspace\csharp\GenesisDemo\TombStoneWPF\bin\Debug\TombStoneWPF.exe.config
