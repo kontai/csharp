@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+//TODO: 防焊不保留copper
 namespace TombStoneWPF
 {
     internal class TombStone
@@ -156,7 +157,6 @@ namespace TombStoneWPF
                 Gen.COM($"affected_layer,name={tombstone},mode=single,affected=yes");
                 Gen.COM(GenTools.CONTOURIZE);
                 GenTools.Clear_Layers();
-
                 //選擇外層
                 if (count == 1)
                     Gen.COM($"affected_layer,name={outlayer.First()},mode=single,affected=yes");

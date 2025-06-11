@@ -1,4 +1,5 @@
-﻿using System.Globalization;
+﻿using System.Collections.Concurrent;
+using System.Globalization;
 using System.Text;
 using System.Threading.Channels;
 
@@ -100,5 +101,39 @@ internal class ch2
 }
 */
 
-StringBuilder sb=new();
-StringBuilder sb2=new("Test");
+// Null-forgiving 運算子 (!) 的範例
+//string? nullableString = null;
+//int length = nullableString!.Length; // 告訴編譯器："我確定這裡 nullableString 不會是 null"
+//Console.WriteLine(length);
+
+/*// 陣列索引運算子 [0] 的範例
+string[] names = ["Alice", "Bob", "Charlie"];
+string firstPerson = names[0]; // 取得第一個元素
+
+// 綜合範例
+class Person
+{
+    public string? Name { get; set; }
+
+    public void PrintUpperName()
+    {
+        // 使用 ! 告訴編譯器我們確定 Name 不是 null
+        Console.WriteLine(Name!.ToUpper());
+    }
+}
+
+// 使用 nullable 型別和陣列的綜合範例
+Person?[] people = [new Person { Name = "David" }];
+string upperName = people[0]!.Name!.ToUpper();*/
+
+int cardNumber = 10;
+
+string cardName = cardNumber switch
+{
+ 13 => "King",
+ 12 => "Queen",
+ 11 => "Jack",
+ _ => "Pip card" // equivalent to 'default'
+};
+
+Console.WriteLine(cardName);
