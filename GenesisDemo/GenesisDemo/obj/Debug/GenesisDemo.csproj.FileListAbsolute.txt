@@ -1,6 +1,0 @@
-D:\workspace\csharp\GenesisDemo\GenesisDemo\bin\Debug\GenesisDemo.exe
-D:\workspace\csharp\GenesisDemo\GenesisDemo\bin\Debug\GenesisDemo.pdb
-D:\workspace\csharp\GenesisDemo\GenesisDemo\obj\Debug\GenesisDemo.csproj.AssemblyReference.cache
-D:\workspace\csharp\GenesisDemo\GenesisDemo\obj\Debug\GenesisDemo.csproj.CoreCompileInputs.cache
-D:\workspace\csharp\GenesisDemo\GenesisDemo\obj\Debug\GenesisDemo.exe
-D:\workspace\csharp\GenesisDemo\GenesisDemo\obj\Debug\GenesisDemo.pdb

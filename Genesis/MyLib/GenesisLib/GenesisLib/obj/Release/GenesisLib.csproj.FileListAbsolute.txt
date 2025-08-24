@@ -1,0 +1,6 @@
+D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\bin\Release\GenesisLib.dll
+D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\bin\Release\GenesisLib.pdb
+D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\obj\Release\GenesisLib.csproj.AssemblyReference.cache
+D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\obj\Release\GenesisLib.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\obj\Release\GenesisLib.dll
+D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\obj\Release\GenesisLib.pdb

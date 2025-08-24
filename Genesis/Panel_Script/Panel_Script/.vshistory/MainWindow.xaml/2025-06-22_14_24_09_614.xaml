@@ -1,0 +1,45 @@
+﻿<Window x:Class="Panel_Script.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Panel_Script"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="MainWindow" Height="378" Width="741">
+    <Grid>
+        <TextBlock HorizontalAlignment="Center" Height="29" Margin="0,10,0,0" TextWrapping="Wrap"
+                   VerticalAlignment="Top" Width="127" FontFamily="Yu Gothic UI Semibold">
+            <Run Language="zh-tw" Text="瑞太褔板框程式" />
+        </TextBlock>
+        <TextBox x:Name="six"  HorizontalAlignment="Left" Margin="275,108,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="120"  />
+        <TextBox x:Name="siy" HorizontalAlignment="Left" Margin="502,109,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="120"  />
+        <Label Content="成型尺寸(X)" HorizontalAlignment="Left" Margin="170,105,0,0" VerticalAlignment="Top" />
+        <Label Content="成型尺寸(Y)" HorizontalAlignment="Left" Margin="392,104,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="wix" HorizontalAlignment="Left" Margin="275,146,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="120"  />
+        <TextBox x:Name="wiy" HorizontalAlignment="Left" Margin="502,147,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="120"  />
+        <Label Content="下料尺寸(X)" HorizontalAlignment="Left" Margin="170,143,0,0" VerticalAlignment="Top" />
+        <Label Content="下料尺寸(Y)" HorizontalAlignment="Left" Margin="392,142,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="xstep_num"  HorizontalAlignment="Left" Margin="275,183,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="ystep_num" HorizontalAlignment="Left" Margin="492,184,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="120" />
+        <Label Content="排板數(X)" HorizontalAlignment="Left" Margin="170,180,0,0" VerticalAlignment="Top" />
+        <Label Content="排板數(Y)" HorizontalAlignment="Left" Margin="392,179,0,0" VerticalAlignment="Top" />
+        <TextBox x:Name="xstep_spec" HorizontalAlignment="Left" Margin="275,219,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="120" />
+        <TextBox x:Name="ystep_spec" HorizontalAlignment="Left" Margin="492,219,0,0" TextWrapping="Wrap" Text=""
+                 VerticalAlignment="Top" Width="120" />
+        <Label Content="排間距板(X)" HorizontalAlignment="Left" Margin="170,215,0,0" VerticalAlignment="Top" />
+        <Label Content="排板間距(Y)" HorizontalAlignment="Left" Margin="392,215,0,0" VerticalAlignment="Top" />
+        <Button x:Name="run_btn" Content="執行" Margin="0,0,104,16" Background="Aquamarine" Click="onclick_run_btn" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="73" FontFamily="Microsoft YaHei UI"/>
+        <ComboBox x:Name="stpSlect" HorizontalAlignment="Left" Margin="335,56,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="stpSlect_SelectionChanged"/>
+        <Label Content=" 工作排板" HorizontalAlignment="Left" Margin="233,52,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="shipRotate" HorizontalAlignment="Left" Margin="654,107,0,0" VerticalAlignment="Top" Width="41" Height="27" SelectionChanged="shipRotate_SelectionChanged" />
+        <Button x:Name="exit_btn" Content="退出" Margin="0,0,18,16" Background="#FFDB7070" Click="onclick_exit_btn" HorizontalAlignment="Right" VerticalAlignment="Bottom" Width="73" FontFamily="Microsoft YaHei UI"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\bin\Debug\net9.0\CH8_IComparaable.exe
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\bin\Debug\net9.0\CH8_IComparaable.deps.json
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\bin\Debug\net9.0\CH8_IComparaable.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\bin\Debug\net9.0\CH8_IComparaable.dll
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\bin\Debug\net9.0\CH8_IComparaable.pdb
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\CH8_IComparaable.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\CH8_IComparaable.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\CH8_IComparaable.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\CH8_IComparaable.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\CH8_IComparaable.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\CH8_IComparaable.dll
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\refint\CH8_IComparaable.dll
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\CH8_IComparaable.pdb
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\CH8_IComparaable.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH8_IComparaable\obj\Debug\net9.0\ref\CH8_IComparaable.dll

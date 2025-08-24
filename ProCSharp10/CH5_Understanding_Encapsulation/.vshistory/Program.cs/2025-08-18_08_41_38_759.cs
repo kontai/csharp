@@ -1,0 +1,1 @@
+﻿     static string SayHello() => "Hello";

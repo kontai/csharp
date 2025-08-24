@@ -1,0 +1,69 @@
+﻿<Window x:Class="part2_Building_a_WPF_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:part2_Building_a_WPF_Application"
+        mc:Ignorable="d"
+        SizeToContent="WidthAndHeight"
+        FontSize="19" FontStyle="Italic"
+        Title="MainWindow" Height="500" Width="auto">
+    <StackPanel Background="Aqua">
+        <!--    <Button Visibility="Collapsed">Hidden Button</Button> -->
+        <!--<Button Visibility="visible">Hidden Button</Button>
+    <Button>Below a Hidden Button</Button>-->
+
+        <!-- HorizontalAlignment is the alignment of the control within its parent container -->
+        <Button HorizontalAlignment="Left" VerticalAlignment="Bottom" Background="Red">Left</Button>
+        <Button HorizontalAlignment="Center" Background="Orange">Center</Button>
+        <Button HorizontalAlignment="Right" Background="Yellow">Right</Button>
+        <Button HorizontalAlignment="Stretch" Background="Lime">Stretch</Button>
+
+        <!-- HorizontalContentAlignment is the alignment of the content within the control -->
+        <Button HorizontalContentAlignment="Left" Background="Red">Left</Button>
+        <Button HorizontalContentAlignment="Center" Background="Orange">Center</Button>
+        <Button HorizontalContentAlignment="Right" Background="Yellow">Right</Button>
+        <Button HorizontalContentAlignment="Stretch" Background="Lime">Stretch</Button>
+
+        <!--RenderTransform is used to apply transformations like rotation, scaling, etc.-->
+        <Button>
+            1
+        </Button>
+        <Button>
+            <Button.LayoutTransform>
+                <RotateTransform Angle="45" />
+            </Button.LayoutTransform>
+            2
+        </Button>
+        <Button RenderTransformOrigin="0.5,0.5" Background="orange">
+            <Button.RenderTransform>
+                <RotateTransform Angle="45" />
+            </Button.RenderTransform>
+            Rotated 45°
+        </Button>
+        <Button>
+            3
+        </Button>
+        <StackPanel Width="100">
+            <Button Background="Red">No Scaling</Button>
+            <Button Background="Orange">
+                <Button.RenderTransform>
+                    <ScaleTransform ScaleX="2" CenterX="70" CenterY="0" />
+                </Button.RenderTransform>
+                X
+            </Button>
+            <Button Background="Yellow">
+                <Button.RenderTransform>
+                    <ScaleTransform ScaleX="2" ScaleY="2" CenterX="-10" CenterY="-50" />
+                </Button.RenderTransform>
+                X + Y
+            </Button>
+            <Button Background="Lime" Padding="3">
+                <Button.RenderTransform>
+                    <ScaleTransform ScaleY="2" CenterX="70" CenterY="0" />
+                </Button.RenderTransform>
+                Y
+            </Button>
+        </StackPanel>
+    </StackPanel>
+</Window>

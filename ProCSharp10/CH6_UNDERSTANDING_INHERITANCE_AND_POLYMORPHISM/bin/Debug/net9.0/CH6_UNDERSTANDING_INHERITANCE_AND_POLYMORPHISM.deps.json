@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CH6_UNDERSTANDING_INHERITANCE_AND_POLYMORPHISM/1.0.0": {
+        "runtime": {
+          "CH6_UNDERSTANDING_INHERITANCE_AND_POLYMORPHISM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH6_UNDERSTANDING_INHERITANCE_AND_POLYMORPHISM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
