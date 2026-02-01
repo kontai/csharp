@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="01_Simple_program/01_Simple_program.csproj" />
+  <Project Path="02_System_Environment/02_System_Environment.csproj" />
+  <Project Path="03_Console_class/03_Console_class.csproj" Id="b6baa30f-756c-49e1-9b90-ec770fd9c8be" />
+  <Project Path="04_Console_format/04_Console_format.csproj" Id="f0d2f160-71eb-4dcc-8861-d4cc185553d8" />
+  <Project Path="05_string_format/05_string_format.csproj" Id="9bd9bc85-3e5a-4a30-b618-0ee75c7f5e30" />
+  <Project Path="06_default Literal/06_default Literal.csproj" Id="69099ac9-0fea-4de2-a82b-b06d500ca19e" />
+  <Project Path="07各內建類型的成員函數/07各內建類型的成員函數.csproj" Id="e669b31b-5c14-45c0-88ff-aaab809794ef" />
+  <Project Path="08_Parse From String/08_Parse From String.csproj" Id="b7411da1-e4af-42db-a929-3eebd6478e63" />
+</Solution>

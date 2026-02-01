@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\bin\Debug\net9.0\08_Parse From String.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\bin\Debug\net9.0\08_Parse From String.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\bin\Debug\net9.0\08_Parse From String.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\bin\Debug\net9.0\08_Parse From String.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\bin\Debug\net9.0\08_Parse From String.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\08_Parse From String.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\08_Parse From String.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\08_Parse From String.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\08_Parse From String.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\08_Parse From String.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\08_Parse From String.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\refint\08_Parse From String.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\08_Parse From String.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\08_Parse From String.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net9.0\ref\08_Parse From String.dll

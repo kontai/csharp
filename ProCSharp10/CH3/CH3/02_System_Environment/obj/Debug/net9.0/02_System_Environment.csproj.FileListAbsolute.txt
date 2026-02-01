@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\bin\Debug\net9.0\02_System_Environment.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\bin\Debug\net9.0\02_System_Environment.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\bin\Debug\net9.0\02_System_Environment.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\bin\Debug\net9.0\02_System_Environment.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\bin\Debug\net9.0\02_System_Environment.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\02_System_Environment.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\02_System_Environment.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\02_System_Environment.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\02_System_Environment.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\02_System_Environment.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\02_System_Environment.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\refint\02_System_Environment.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\02_System_Environment.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\02_System_Environment.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\02_System_Environment\obj\Debug\net9.0\ref\02_System_Environment.dll
