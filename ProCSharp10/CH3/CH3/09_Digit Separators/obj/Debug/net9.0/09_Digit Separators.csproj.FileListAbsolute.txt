@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\bin\Debug\net9.0\09_Digit Separators.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\bin\Debug\net9.0\09_Digit Separators.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\bin\Debug\net9.0\09_Digit Separators.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\bin\Debug\net9.0\09_Digit Separators.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\bin\Debug\net9.0\09_Digit Separators.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\09_Digit Separators.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\09_Digit Separators.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\09_Digit Separators.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\09_Digit Separators.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\09_Digit Separators.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\09_Digit Separators.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\refint\09_Digit Separators.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\09_Digit Separators.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\09_Digit Separators.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\09_Digit Separators\obj\Debug\net9.0\ref\09_Digit Separators.dll
