@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +43,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Bookmark",
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "08_Parse From String\\Program.cs",
               "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\08_Parse From String\\Program.cs",
               "RelativeToolTip": "08_Parse From String\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T14:23:47.741Z",
               "EditorCaption": ""
@@ -71,8 +75,7 @@
               "RelativeToolTip": "07\u5404\u5167\u5EFA\u985E\u578B\u7684\u6210\u54E1\u51FD\u6578\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T14:19:56.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T14:19:56.486Z"
             },
             {
               "$type": "Document",
@@ -84,8 +87,7 @@
               "RelativeToolTip": "06_default Literal\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAEwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T14:11:37.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T14:11:37.136Z"
             },
             {
               "$type": "Document",
@@ -97,8 +99,7 @@
               "RelativeToolTip": "05_string_format\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T13:35:43.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T13:35:43.063Z"
             },
             {
               "$type": "Document",
@@ -110,8 +111,7 @@
               "RelativeToolTip": "04_Console_format\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T13:18:35.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T13:18:35.275Z"
             },
             {
               "$type": "Document",
@@ -123,8 +123,7 @@
               "RelativeToolTip": "03_Console_class\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T12:53:55.7Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-01T12:53:55.7Z"
             }
           ]
         }
