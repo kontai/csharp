@@ -1,5 +1,0 @@
-C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH8\UserBaseClass\obj\Debug\net8.0\UserBaseClass.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH8\UserBaseClass\obj\Debug\net8.0\UserBaseClass.AssemblyInfoInputs.cache
-C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH8\UserBaseClass\obj\Debug\net8.0\UserBaseClass.AssemblyInfo.cs
-C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH8\UserBaseClass\obj\Debug\net8.0\UserBaseClass.csproj.CoreCompileInputs.cache
-C:\Users\kontai\workspace\csharp\illustrated-csharp-7\CH8\UserBaseClass\obj\Debug\net8.0\UserBaseClass.sourcelink.json

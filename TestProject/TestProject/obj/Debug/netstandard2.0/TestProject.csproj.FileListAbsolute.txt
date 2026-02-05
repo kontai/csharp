@@ -1,6 +1,0 @@
-D:\workspace\csharp\TestProject\TestProject\obj\Debug\netstandard2.0\TestProject.csproj.AssemblyReference.cache
-D:\workspace\csharp\TestProject\TestProject\obj\Debug\netstandard2.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
-D:\workspace\csharp\TestProject\TestProject\obj\Debug\netstandard2.0\TestProject.AssemblyInfoInputs.cache
-D:\workspace\csharp\TestProject\TestProject\obj\Debug\netstandard2.0\TestProject.AssemblyInfo.cs
-D:\workspace\csharp\TestProject\TestProject\obj\Debug\netstandard2.0\TestProject.csproj.CoreCompileInputs.cache
-D:\workspace\csharp\TestProject\TestProject\obj\Debug\netstandard2.0\TestProject.sourcelink.json
