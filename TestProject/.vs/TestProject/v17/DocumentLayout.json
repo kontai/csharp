@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\TestProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\demo_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\demo_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\demo_boxing_unboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\demo_boxing_unboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,35 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Demo_Struct.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_Struct.cs",
-              "RelativeDocumentMoniker": "TestProject\\Demo_Struct.cs",
-              "ToolTip": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_Struct.cs",
-              "RelativeToolTip": "TestProject\\Demo_Struct.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBkAAAATAAAAAAAAAA==",
+              "Title": "Demo_boxing_unboxing.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_boxing_unboxing.cs",
+              "RelativeDocumentMoniker": "TestProject\\Demo_boxing_unboxing.cs",
+              "ToolTip": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_boxing_unboxing.cs",
+              "RelativeToolTip": "TestProject\\Demo_boxing_unboxing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T01:43:21.761Z",
+              "WhenOpened": "2025-05-31T09:28:50.022Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestProject.csproj",
-              "DocumentMoniker": "D:\\workspace\\csharp\\TestProject\\TestProject\\TestProject.csproj",
-              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
-              "ToolTip": "D:\\workspace\\csharp\\TestProject\\TestProject\\TestProject.csproj",
-              "RelativeToolTip": "TestProject\\TestProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-22T01:36:49.379Z"
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             }
           ]
         }

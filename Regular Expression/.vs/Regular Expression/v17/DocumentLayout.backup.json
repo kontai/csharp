@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\Regular Expression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|d:\\workspace\\csharp\\regular expression\\regular expression\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|solutionrelative:regular expression\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|d:\\workspace\\csharp\\regular expression\\regular expression\\04-lookahead and lookbehind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|solutionrelative:regular expression\\04-lookahead and lookbehind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|d:\\workspace\\csharp\\regular expression\\regular expression\\03-quantifiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|solutionrelative:regular expression\\03-quantifiers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|d:\\workspace\\csharp\\regular expression\\regular expression\\02-compiledreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|solutionrelative:regular expression\\02-compiledreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|d:\\workspace\\csharp\\regular expression\\regular expression\\01-basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|solutionrelative:regular expression\\01-basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|d:\\workspace\\csharp\\regular expression\\regular expression\\10-cookbook regular expressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|solutionrelative:regular expression\\10-cookbook regular expressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|d:\\workspace\\csharp\\regular expression\\regular expression\\09-splitting text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3771A501-939C-418E-BADC-1707EB0D7397}|Regular Expression\\Regular Expression.csproj|solutionrelative:regular expression\\09-splitting text.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "04-Lookahead and Lookbehind.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\04-Lookahead and Lookbehind.cs",
+              "RelativeDocumentMoniker": "Regular Expression\\04-Lookahead and Lookbehind.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\04-Lookahead and Lookbehind.cs",
+              "RelativeToolTip": "Regular Expression\\04-Lookahead and Lookbehind.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:02:43.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "03-Quantifiers.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\03-Quantifiers.cs",
+              "RelativeDocumentMoniker": "Regular Expression\\03-Quantifiers.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\03-Quantifiers.cs",
+              "RelativeToolTip": "Regular Expression\\03-Quantifiers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:20:37.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02-CompiledReg.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\02-CompiledReg.cs",
+              "RelativeDocumentMoniker": "Regular Expression\\02-CompiledReg.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\02-CompiledReg.cs",
+              "RelativeToolTip": "Regular Expression\\02-CompiledReg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:06:51.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "01-Basic.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\01-Basic.cs",
+              "RelativeDocumentMoniker": "Regular Expression\\01-Basic.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\01-Basic.cs",
+              "RelativeToolTip": "Regular Expression\\01-Basic.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:41:27.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "10-Cookbook Regular Expressions.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\10-Cookbook Regular Expressions.cs",
+              "RelativeDocumentMoniker": "Regular Expression\\10-Cookbook Regular Expressions.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\10-Cookbook Regular Expressions.cs",
+              "RelativeToolTip": "Regular Expression\\10-Cookbook Regular Expressions.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAnwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T01:22:34.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "09-Splitting Text.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\09-Splitting Text.cs",
+              "RelativeDocumentMoniker": "Regular Expression\\09-Splitting Text.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\09-Splitting Text.cs",
+              "RelativeToolTip": "Regular Expression\\09-Splitting Text.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:27:19.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "add36a39-1e62-4838-a571-8f65ad863571",
+        "Display": 2,
+        "X": 681,
+        "Y": 393,
+        "Width": 1975,
+        "Height": 1042,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\Test.cs",
+              "RelativeDocumentMoniker": "Regular Expression\\Test.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Regular Expression\\Regular Expression\\Test.cs*",
+              "RelativeToolTip": "Regular Expression\\Test.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T23:53:06.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01-fluent syntax.cs" />
+    <Compile Remove="02-query syntax.cs" />
+    <Compile Remove="03-query_freeze_cache.cs" />
+    <Compile Remove="04-subqueies.cs" />
+    <Compile Remove="05-Compotition Strategies.cs" />
+    <Compile Remove="06-Wrapping Queries.cs" />
+    <Compile Remove="07-Projection Strategies.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01-fluent syntax.cs" />
+    <None Include="02-query syntax.cs" />
+    <None Include="03-query_freeze_cache.cs" />
+    <None Include="04-subqueies.cs" />
+    <None Include="05-Compotition Strategies.cs" />
+    <None Include="07-Projection Strategies.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <XamlAppDef Include="06-Wrapping Queries.cs" />
+  </ItemGroup>
+
+</Project>
