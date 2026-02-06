@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "NXh9SGt+5lw=",
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\03_Console_class\\03_Console_class.csproj",
@@ -9,5 +10,11 @@
     "C:\\Users\\kontai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
     "C:\\Users\\kontai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "beSWB51AuFiM/YJOkmI67Xw3pXcM523eBOndtzJ1ZEBaXcseMcj/TF9mGqbH+KQuvvEG7FsTVBx5yeDp3c5P7Q==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\03_Console_class\\03_Console_class.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
   "logs": []
 }

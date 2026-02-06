@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ﻿//string format example
+=======
+﻿using System;
+//string format example
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 string sf = string.Format("{0:C}", 123456);
 
 Console.WriteLine(sf);

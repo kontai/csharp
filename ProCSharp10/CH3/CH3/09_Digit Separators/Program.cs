@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿DigitSeparators();
+=======
+﻿using System;
+
+DigitSeparators();
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 BinaryLiterals();
 /*
  * 下面的代码展示了C# 7.0及更高版本中引入的数字分隔符和二进制字面量的用法。

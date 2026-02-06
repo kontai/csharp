@@ -2,10 +2,19 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+<<<<<<< HEAD
     <TargetFramework>net9.0</TargetFramework>
     <RootNamespace>_09_Digit_Separators</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+=======
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_09_Digit_Separators</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon />
+    <StartupObject />
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
   </PropertyGroup>
 
 </Project>

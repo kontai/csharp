@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\bin\Debug\net5.0\15_Conditional_Operator.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\bin\Debug\net5.0\15_Conditional_Operator.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\bin\Debug\net5.0\15_Conditional_Operator.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\bin\Debug\net5.0\15_Conditional_Operator.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\bin\Debug\net5.0\15_Conditional_Operator.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\bin\Debug\net5.0\ref\15_Conditional_Operator.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\bin\Debug\net5.0\15_Conditional_Operator.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\15_Conditional_Operator.csproj.AssemblyReference.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\15_Conditional_Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\15_Conditional_Operator.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\15_Conditional_Operator.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\15_Conditional_Operator.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\15_Conditional_Operator.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\ref\15_Conditional_Operator.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\15_Conditional_Operator.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\15_Conditional_Operator\obj\Debug\net5.0\15_Conditional_Operator.genruntimeconfig.cache

@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "7zEgWUb+zxg=",
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\07各內建類型的成員函數\\07各內建類型的成員函數.csproj",
@@ -9,5 +10,11 @@
     "C:\\Users\\kontai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
     "C:\\Users\\kontai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "F0W+BxGQhh9EjWEiyierDe6r/J+L3b+uGd6pgLDWTxole1/Hupu9G4lvy1BCqYVjHeu/RgU3L0RHz/80hB5AqQ==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\07各內建類型的成員函數\\07各內建類型的成員函數.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
   "logs": []
 }

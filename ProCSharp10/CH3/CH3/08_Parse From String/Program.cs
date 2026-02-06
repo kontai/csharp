@@ -1,9 +1,17 @@
 ﻿using System.Numerics;  // For BigInteger
+<<<<<<< HEAD
+=======
+using System;
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 
 ParseFromStrings();
 ParseFromStringsWithTryParse();
 UseDatesAndTimes();
+<<<<<<< HEAD
 UseDateOnlyAndTimeOnly();
+=======
+//UseDateOnlyAndTimeOnly();
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 UseBigInteger();
 
 static void ParseFromStrings()
@@ -61,6 +69,7 @@ static void UseDatesAndTimes()
     Console.WriteLine(ts.Subtract(new TimeSpan(0, 15, 0)));
 }
 
+<<<<<<< HEAD
 static void UseDateOnlyAndTimeOnly()
 {
   Console.WriteLine("=> Dates and Times:");
@@ -69,6 +78,16 @@ static void UseDateOnlyAndTimeOnly()
   TimeOnly t = new TimeOnly(13,30,0,0);
   Console.WriteLine(t);
 }
+=======
+//static void UseDateOnlyAndTimeOnly()
+//{
+//  Console.WriteLine("=> Dates and Times:");
+//  DateOnly d = new DateOnly(2021,07,21);
+//  Console.WriteLine(d);
+//  TimeOnly t = new TimeOnly(13,30,0,0);
+//  Console.WriteLine(t);
+//}
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 static void UseBigInteger()
 {
   Console.WriteLine("=> Use BigInteger:");

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "13_implicity_type/1.0.0": {
+        "runtime": {
+          "13_implicity_type.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "13_implicity_type/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

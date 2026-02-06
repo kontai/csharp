@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\bin\Debug\net5.0\10_string_Manipulation.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\bin\Debug\net5.0\10_string_Manipulation.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\bin\Debug\net5.0\10_string_Manipulation.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\bin\Debug\net5.0\10_string_Manipulation.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\bin\Debug\net5.0\10_string_Manipulation.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\bin\Debug\net5.0\ref\10_string_Manipulation.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\bin\Debug\net5.0\10_string_Manipulation.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\10_string_Manipulation.csproj.AssemblyReference.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\10_string_Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\10_string_Manipulation.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\10_string_Manipulation.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\10_string_Manipulation.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\10_string_Manipulation.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\ref\10_string_Manipulation.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\10_string_Manipulation.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\10_string_Manipulation\obj\Debug\net5.0\10_string_Manipulation.genruntimeconfig.cache

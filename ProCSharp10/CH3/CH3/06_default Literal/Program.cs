@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿DefaultDeclarations();
+=======
+﻿using System;
+
+DefaultDeclarations();
+>>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 NewingDataTypes();
 NewingDataTypesWith9();
 static void DefaultDeclarations()
