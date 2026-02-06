@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\bin\Debug\net9.0\03_Console_class.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\bin\Debug\net9.0\03_Console_class.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\bin\Debug\net9.0\03_Console_class.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\bin\Debug\net9.0\03_Console_class.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\bin\Debug\net9.0\03_Console_class.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\03_Console_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\03_Console_class.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\03_Console_class.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\03_Console_class.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\03_Console_class.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\03_Console_class.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\refint\03_Console_class.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\03_Console_class.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\03_Console_class.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\03_Console_class\obj\Debug\net9.0\ref\03_Console_class.dll

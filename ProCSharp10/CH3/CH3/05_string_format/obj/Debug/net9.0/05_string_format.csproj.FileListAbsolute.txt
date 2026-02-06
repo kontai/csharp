@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\bin\Debug\net9.0\05_string_format.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\bin\Debug\net9.0\05_string_format.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\bin\Debug\net9.0\05_string_format.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\bin\Debug\net9.0\05_string_format.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\bin\Debug\net9.0\05_string_format.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\05_string_format.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\05_string_format.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\05_string_format.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\05_string_format.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\05_string_format.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\05_string_format.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\refint\05_string_format.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\05_string_format.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\05_string_format.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\05_string_format\obj\Debug\net9.0\ref\05_string_format.dll

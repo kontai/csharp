@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CH8_IComparaable/1.0.0": {
+        "runtime": {
+          "CH8_IComparaable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH8_IComparaable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

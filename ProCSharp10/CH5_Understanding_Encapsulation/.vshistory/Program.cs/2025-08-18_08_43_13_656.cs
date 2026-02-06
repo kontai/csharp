@@ -1,0 +1,1 @@
+﻿Console.WriteLine(SayHello()); // 呼叫另一個檔案的方法

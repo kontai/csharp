@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\bin\Debug\net9.0\CH7_ExceptIon_HandlIng.exe
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\bin\Debug\net9.0\CH7_ExceptIon_HandlIng.deps.json
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\bin\Debug\net9.0\CH7_ExceptIon_HandlIng.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\bin\Debug\net9.0\CH7_ExceptIon_HandlIng.dll
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\bin\Debug\net9.0\CH7_ExceptIon_HandlIng.pdb
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\CH7_ExceptIon_HandlIng.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\CH7_ExceptIon_HandlIng.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\CH7_ExceptIon_HandlIng.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\CH7_ExceptIon_HandlIng.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\CH7_ExceptIon_HandlIng.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\CH7_ExceptIon_HandlIng.dll
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\refint\CH7_ExceptIon_HandlIng.dll
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\CH7_ExceptIon_HandlIng.pdb
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\CH7_ExceptIon_HandlIng.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH7_ExceptIon_HandlIng\obj\Debug\net9.0\ref\CH7_ExceptIon_HandlIng.dll
