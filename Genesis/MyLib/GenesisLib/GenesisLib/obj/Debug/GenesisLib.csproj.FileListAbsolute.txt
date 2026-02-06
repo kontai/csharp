@@ -1,6 +1,0 @@
-D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\bin\Debug\GenesisLib.dll
-D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\bin\Debug\GenesisLib.pdb
-D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\obj\Debug\GenesisLib.csproj.AssemblyReference.cache
-D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\obj\Debug\GenesisLib.csproj.CoreCompileInputs.cache
-D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\obj\Debug\GenesisLib.dll
-D:\workspace\csharp\MyLib\GenesisLib\GenesisLib\obj\Debug\GenesisLib.pdb

@@ -1,5 +1,0 @@
-D:\workspace\csharp\ProCSharp10\CH5_Understanding_Encapsulation\obj\Debug\net9.0\CH5_Understanding_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
-D:\workspace\csharp\ProCSharp10\CH5_Understanding_Encapsulation\obj\Debug\net9.0\CH5_Understanding_Encapsulation.AssemblyInfoInputs.cache
-D:\workspace\csharp\ProCSharp10\CH5_Understanding_Encapsulation\obj\Debug\net9.0\CH5_Understanding_Encapsulation.AssemblyInfo.cs
-D:\workspace\csharp\ProCSharp10\CH5_Understanding_Encapsulation\obj\Debug\net9.0\CH5_Understanding_Encapsulation.csproj.CoreCompileInputs.cache
-D:\workspace\csharp\ProCSharp10\CH5_Understanding_Encapsulation\obj\Debug\net9.0\CH5_Understanding_Encapsulation.sourcelink.json
