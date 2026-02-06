@@ -1,6 +1,7 @@
 ﻿//console color example
 // Apply background color to whole console
 
+using System;
 using System.Collections.Specialized;
 
 Console.BackgroundColor=ConsoleColor.DarkBlue;

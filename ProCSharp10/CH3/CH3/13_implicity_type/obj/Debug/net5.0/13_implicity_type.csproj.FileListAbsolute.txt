@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\bin\Debug\net5.0\13_implicity_type.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\bin\Debug\net5.0\13_implicity_type.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\bin\Debug\net5.0\13_implicity_type.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\bin\Debug\net5.0\13_implicity_type.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\bin\Debug\net5.0\13_implicity_type.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\bin\Debug\net5.0\ref\13_implicity_type.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\bin\Debug\net5.0\13_implicity_type.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\obj\Debug\net5.0\13_implicity_type.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\obj\Debug\net5.0\13_implicity_type.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\obj\Debug\net5.0\13_implicity_type.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\obj\Debug\net5.0\13_implicity_type.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\obj\Debug\net5.0\13_implicity_type.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\obj\Debug\net5.0\ref\13_implicity_type.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\obj\Debug\net5.0\13_implicity_type.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\13_implicity_type\obj\Debug\net5.0\13_implicity_type.genruntimeconfig.cache

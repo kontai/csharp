@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "07各內建類型的成員函數/1.0.0": {
+        "runtime": {
+          "07各內建類型的成員函數.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07各內建類型的成員函數/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

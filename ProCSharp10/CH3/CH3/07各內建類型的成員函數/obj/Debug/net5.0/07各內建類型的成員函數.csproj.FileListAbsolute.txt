@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\bin\Debug\net5.0\07各內建類型的成員函數.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\bin\Debug\net5.0\07各內建類型的成員函數.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\bin\Debug\net5.0\07各內建類型的成員函數.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\bin\Debug\net5.0\07各內建類型的成員函數.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\bin\Debug\net5.0\07各內建類型的成員函數.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\bin\Debug\net5.0\ref\07各內建類型的成員函數.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\bin\Debug\net5.0\07各內建類型的成員函數.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.csproj.AssemblyReference.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\ref\07各內建類型的成員函數.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.genruntimeconfig.cache

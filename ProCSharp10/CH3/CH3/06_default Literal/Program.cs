@@ -1,4 +1,6 @@
-﻿DefaultDeclarations();
+﻿using System;
+
+DefaultDeclarations();
 NewingDataTypes();
 NewingDataTypesWith9();
 static void DefaultDeclarations()

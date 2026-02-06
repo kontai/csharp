@@ -1,4 +1,6 @@
-﻿Console.WriteLine("{0:C}", 10000); //print currency format(貨幣格式)
+﻿using System;
+
+Console.WriteLine("{0:C}", 10000); //print currency format(貨幣格式)
 
 Console.WriteLine("{0:E}", 12345);   //print scientific format(科學記號格式)
 

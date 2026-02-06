@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "08_Parse From String/1.0.0": {
+        "runtime": {
+          "08_Parse From String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08_Parse From String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

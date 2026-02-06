@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\bin\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\bin\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\bin\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\bin\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\bin\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\bin\Debug\net5.0\ref\12_Narrowing and Widening Data Type Conversions.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\bin\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.csproj.AssemblyReference.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\ref\12_Narrowing and Widening Data Type Conversions.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_Narrowing and Widening Data Type Conversions\obj\Debug\net5.0\12_Narrowing and Widening Data Type Conversions.genruntimeconfig.cache

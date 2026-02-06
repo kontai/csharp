@@ -1,4 +1,5 @@
-﻿//string format example
+﻿using System;
+//string format example
 string sf = string.Format("{0:C}", 123456);
 
 Console.WriteLine(sf);
