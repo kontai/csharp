@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\16_switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\16_switch.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\16_switch.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\16_switch.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\16_switch.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\bin\Debug\net5.0\16_switch.exe
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\bin\Debug\net5.0\16_switch.deps.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\bin\Debug\net5.0\16_switch.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\bin\Debug\net5.0\16_switch.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\bin\Debug\net5.0\16_switch.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\bin\Debug\net5.0\16_switch.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\16_switch.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\refint\16_switch.dll
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\16_switch.pdb
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\16_switch.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\16_switch\obj\Debug\net5.0\ref\16_switch.dll

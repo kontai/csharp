@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\bin\Debug\net5.0\03_Member of Array Class.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\bin\Debug\net5.0\03_Member of Array Class.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\bin\Debug\net5.0\03_Member of Array Class.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\bin\Debug\net5.0\03_Member of Array Class.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\bin\Debug\net5.0\03_Member of Array Class.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\bin\Debug\net5.0\03_Member of Array Class.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\03_Member of Array Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\03_Member of Array Class.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\03_Member of Array Class.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\03_Member of Array Class.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\03_Member of Array Class.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\03_Member of Array Class.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\refint\03_Member of Array Class.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\03_Member of Array Class.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\03_Member of Array Class.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\03_Member of Array Class\obj\Debug\net5.0\ref\03_Member of Array Class.dll
