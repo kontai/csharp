@@ -16,11 +16,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\03_Static Local Functions.csproj",
       "projectName": "03_Static Local Functions",
       "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\03_Static Local Functions.csproj",
       "packagesPath": "C:\\Users\\cam06\\.nuget\\packages\\",
       "outputPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\obj\\",
+=======
+<<<<<<<< HEAD:ProCSharp10/CH4/CH4/08_enum/obj/project.assets.json
+      "projectUniqueName": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\08_enum\\08_enum.csproj",
+      "projectName": "08_enum",
+      "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\08_enum\\08_enum.csproj",
+      "packagesPath": "C:\\Users\\cam06\\.nuget\\packages\\",
+      "outputPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\08_enum\\obj\\",
+========
+      "projectUniqueName": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\03_Static Local Functions.csproj",
+      "projectName": "03_Static Local Functions",
+      "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\03_Static Local Functions.csproj",
+      "packagesPath": "C:\\Users\\kontai\\.nuget\\packages\\",
+      "outputPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\obj\\",
+>>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c:ProCSharp10/CH4/CH4/03_Static Local Functions/obj/project.assets.json
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -70,7 +86,15 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+=======
+<<<<<<<< HEAD:ProCSharp10/CH4/CH4/08_enum/obj/project.assets.json
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+========
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
+>>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c:ProCSharp10/CH4/CH4/03_Static Local Functions/obj/project.assets.json
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
       }
     }
   }

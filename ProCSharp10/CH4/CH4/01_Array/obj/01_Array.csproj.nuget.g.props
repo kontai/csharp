@@ -7,7 +7,19 @@
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\cam06\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages;C:\Program Files (x86)\Microsoft\Xamarin\NuGet\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+<<<<<<< HEAD
+<<<<<<<< HEAD:ProCSharp10/CH4/CH4/01_Array/obj/01_Array.csproj.nuget.g.props
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.6</NuGetToolVersion>
+========
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">7.0.0</NuGetToolVersion>
+>>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c:ProCSharp10/CH4/CH4/02_index_range/obj/02_index_range.csproj.nuget.g.props
+=======
+<<<<<<<< HEAD:ProCSharp10/CH4/CH4/02_index_range/obj/02_index_range.csproj.nuget.g.props
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.6</NuGetToolVersion>
+========
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">7.0.0</NuGetToolVersion>
+>>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c:ProCSharp10/CH4/CH4/01_Array/obj/01_Array.csproj.nuget.g.props
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\cam06\.nuget\packages\" />

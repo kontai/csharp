@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "aeu8bmwvvqlncHFjvyyqsMvDGHJeSrlfZr5EfPs2/wrEwqNkzTwTnQI18zb4IeQqgYe+OZ3nrRvzfQWPtw5TjQ==",
+=======
+  "dgSpecHash": "Pj07thN+Fus=",
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\05_Optional parameters\\05_Optional parameters.csproj",
   "expectedPackageFiles": [],

@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "GXWZ1IatDnSDpx5/ZeX4mOwuJQFElTD5DEMY0UPXpqOOdoxq9jo/Bg7jyn7KvbOvF9779AzKF1QhaQ0/r06ZHw==",
+=======
+  "dgSpecHash": "zmOXzzXK4Ow=",
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\04_Parameter Modifiers\\04_Parameter Modifiers.csproj",
   "expectedPackageFiles": [],

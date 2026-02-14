@@ -1,8 +1,20 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "cz6prqFD0EdV5iLuC0ID85yDBzlZFUFBPAlw9vLk7mtk0u32/sDN2SCz0zHLwIYPh6Y6S4SsZbVp1hNJ7ULWsg==",
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\03_Static Local Functions.csproj",
+=======
+<<<<<<<< HEAD:ProCSharp10/CH4/CH4/08_enum/obj/project.nuget.cache
+  "dgSpecHash": "ltHjOdPrsdjRllbCSCkEvpuiNZZRkAcuMedgsxCkxdof8cXFlth2+g+pCd8+mWvkzMSVbj58O2hWWUvAIH21MQ==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\08_enum\\08_enum.csproj",
+========
+  "dgSpecHash": "hnchTV8RuRQ=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\03_Static Local Functions.csproj",
+>>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c:ProCSharp10/CH4/CH4/03_Static Local Functions/obj/project.nuget.cache
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,6 +10,7 @@
         "projectUniqueName": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\03_Static Local Functions.csproj",
         "projectName": "03_Static Local Functions",
         "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\03_Static Local Functions.csproj",
+<<<<<<< HEAD
         "packagesPath": "C:\\Users\\cam06\\.nuget\\packages\\",
         "outputPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\obj\\",
         "projectStyle": "PackageReference",
@@ -23,12 +24,28 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+=======
+        "packagesPath": "C:\\Users\\kontai\\.nuget\\packages\\",
+        "outputPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\03_Static Local Functions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kontai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
+=======
+          "C:\\Program Files\\dotnet\\library-packs": {},
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,7 +58,17 @@
           "warnAsError": [
             "NU1605"
           ]
+<<<<<<< HEAD
         }
+=======
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
       },
       "frameworks": {
         "net5.0": {
@@ -52,7 +79,12 @@
             "net47",
             "net471",
             "net472",
+<<<<<<< HEAD
             "net48"
+=======
+            "net48",
+            "net481"
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +93,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
         }
       }
     }

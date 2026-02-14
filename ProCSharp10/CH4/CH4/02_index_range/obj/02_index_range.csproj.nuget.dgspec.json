@@ -10,7 +10,11 @@
         "projectUniqueName": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\02_index_range\\02_index_range.csproj",
         "projectName": "02_index_range",
         "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\02_index_range\\02_index_range.csproj",
+<<<<<<< HEAD
         "packagesPath": "C:\\Users\\cam06\\.nuget\\packages\\",
+=======
+        "packagesPath": "C:\\Users\\kontai\\.nuget\\packages\\",
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
         "outputPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\02_index_range\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -61,7 +65,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103\\RuntimeIdentifierGraph.json"
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
         }
       }
     }

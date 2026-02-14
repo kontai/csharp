@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "9Z09e2YdYd41ev6BT41KpFZ4WEu2BtJO6CEztUlogtSGLeVr4y/1CZkw4yqZjNKHzf+dnChQvRluvpKTsICjOg==",
+=======
+  "dgSpecHash": "mNxUMC0JTcs=",
+>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\06_Named Parameter\\06_Named Parameter.csproj",
   "expectedPackageFiles": [],
