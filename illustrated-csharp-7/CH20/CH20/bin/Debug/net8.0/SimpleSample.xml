@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MyElement>
+  <first color="red" size="small" />
+  <second color="red" size="medium" />
+  <third color="blue" size="large" />
+</MyElement>

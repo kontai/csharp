@@ -1,0 +1,7 @@
+D:\workspace\csharp\illustrated-csharp-7\CH21\APM舊式的異步方法\bin\Debug\APM舊式的異步方法.exe.config
+D:\workspace\csharp\illustrated-csharp-7\CH21\APM舊式的異步方法\bin\Debug\APM舊式的異步方法.exe
+D:\workspace\csharp\illustrated-csharp-7\CH21\APM舊式的異步方法\bin\Debug\APM舊式的異步方法.pdb
+D:\workspace\csharp\illustrated-csharp-7\CH21\APM舊式的異步方法\obj\Debug\APM舊式的異步方法.csproj.AssemblyReference.cache
+D:\workspace\csharp\illustrated-csharp-7\CH21\APM舊式的異步方法\obj\Debug\APM舊式的異步方法.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\illustrated-csharp-7\CH21\APM舊式的異步方法\obj\Debug\APM舊式的異步方法.exe
+D:\workspace\csharp\illustrated-csharp-7\CH21\APM舊式的異步方法\obj\Debug\APM舊式的異步方法.pdb

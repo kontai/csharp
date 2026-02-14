@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D98DC6C9-BF07-4B14-8FA6-B854225CA1F5}|14_ref struct\\14_ref struct.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\14_ref struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D98DC6C9-BF07-4B14-8FA6-B854225CA1F5}|14_ref struct\\14_ref struct.csproj|solutionrelative:14_ref struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45646F74-43CD-4D56-8EB1-88D9D546F917}|13_read-only Members-new8.0\\13_read-only Members-new8.0.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\13_read-only members-new8.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45646F74-43CD-4D56-8EB1-88D9D546F917}|13_read-only Members-new8.0\\13_read-only Members-new8.0.csproj|solutionrelative:13_read-only members-new8.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909E0096-BC10-4986-8CD6-CEEC996D4645}|12_read-only structs\\12_read-only structs.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\12_read-only structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909E0096-BC10-4986-8CD6-CEEC996D4645}|12_read-only structs\\12_read-only structs.csproj|solutionrelative:12_read-only structs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F62B0E-0277-49EE-904E-331ECAB588BA}|11_structure\\11_structure.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\11_structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F62B0E-0277-49EE-904E-331ECAB588BA}|11_structure\\11_structure.csproj|solutionrelative:11_structure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F62B0E-0277-49EE-904E-331ECAB588BA}|11_structure\\11_structure.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\11_structure\\11_structure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A6F62B0E-0277-49EE-904E-331ECAB588BA}|11_structure\\11_structure.csproj|solutionrelative:11_structure\\11_structure.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -25,7 +62,75 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\14_ref struct\\Program.cs",
+              "RelativeDocumentMoniker": "14_ref struct\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\14_ref struct\\Program.cs",
+              "RelativeToolTip": "14_ref struct\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T10:42:38.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\13_read-only Members-new8.0\\Program.cs",
+              "RelativeDocumentMoniker": "13_read-only Members-new8.0\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\13_read-only Members-new8.0\\Program.cs",
+              "RelativeToolTip": "13_read-only Members-new8.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T09:37:00.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\12_read-only structs\\Program.cs",
+              "RelativeDocumentMoniker": "12_read-only structs\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\12_read-only structs\\Program.cs",
+              "RelativeToolTip": "12_read-only structs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T08:19:16.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "11_structure",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\11_structure\\11_structure.csproj",
+              "RelativeDocumentMoniker": "11_structure\\11_structure.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\11_structure\\11_structure.csproj",
+              "RelativeToolTip": "11_structure\\11_structure.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T08:15:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\11_structure\\Program.cs",
+              "RelativeDocumentMoniker": "11_structure\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\11_structure\\Program.cs",
+              "RelativeToolTip": "11_structure\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:33:30.068Z",
+              "EditorCaption": ""
             }
           ]
         }

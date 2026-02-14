@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\bin\Debug\net5.0\11_structure.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\bin\Debug\net5.0\11_structure.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\bin\Debug\net5.0\11_structure.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\bin\Debug\net5.0\11_structure.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\bin\Debug\net5.0\11_structure.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\bin\Debug\net5.0\11_structure.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\11_structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\11_structure.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\11_structure.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\11_structure.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\11_structure.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\11_structure.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\refint\11_structure.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\11_structure.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\11_structure.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\11_structure\obj\Debug\net5.0\ref\11_structure.dll

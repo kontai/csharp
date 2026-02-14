@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\bin\Debug\net6.0\12_read-only structs.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\bin\Debug\net6.0\12_read-only structs.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\bin\Debug\net6.0\12_read-only structs.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\bin\Debug\net6.0\12_read-only structs.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\bin\Debug\net6.0\12_read-only structs.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\12_read-only structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\12_read-only structs.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\12_read-only structs.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\12_read-only structs.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\12_read-only structs.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\12_read-only structs.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\refint\12_read-only structs.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\12_read-only structs.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\12_read-only structs.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\12_read-only structs\obj\Debug\net6.0\ref\12_read-only structs.dll

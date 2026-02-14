@@ -1,0 +1,2 @@
+D:\workspace\csharp\EzCSharp\02-BasicType\02-BasicType\obj\Debug\02-BasicType.csproj.AssemblyReference.cache
+D:\workspace\csharp\EzCSharp\02-BasicType\02-BasicType\obj\Debug\02-BasicType.csproj.CoreCompileInputs.cache

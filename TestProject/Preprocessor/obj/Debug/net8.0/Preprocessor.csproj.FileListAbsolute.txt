@@ -1,0 +1,5 @@
+D:\workspace\csharp\TestProject\Preprocessor\obj\Debug\net8.0\Preprocessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\Preprocessor\obj\Debug\net8.0\Preprocessor.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\Preprocessor\obj\Debug\net8.0\Preprocessor.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\Preprocessor\obj\Debug\net8.0\Preprocessor.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\Preprocessor\obj\Debug\net8.0\Preprocessor.sourcelink.json

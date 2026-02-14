@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="abstract keyword\AbstractClasExampl.cs" />
+    <Compile Remove="abstract keyword\AbstractClassExample2.cs" />
+    <Compile Remove="BaseRefExample.cs" />
+    <Compile Remove="BaseRefWithVirtualExample .cs" />
+    <Compile Remove="ConstracorInitializeExample.cs" />
+    <Compile Remove="MaskBaseMemberExample.cs" />
+    <Compile Remove="MultiOverrideDerivedExample.cs" />
+    <Compile Remove="SealedClassExample.cs" />
+    <Compile Remove="StaticClassExampe.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="abstract keyword\AbstractClasExampl.cs" />
+    <None Include="abstract keyword\AbstractClassExample2.cs" />
+    <None Include="BaseRefExample.cs" />
+    <None Include="BaseRefWithVirtualExample .cs" />
+    <None Include="ConstracorInitializeExample.cs" />
+    <None Include="MaskBaseMemberExample.cs" />
+    <None Include="MultiOverrideDerivedExample.cs" />
+    <None Include="SealedClassExample.cs" />
+    <None Include="StaticClassExampe.cs" />
+  </ItemGroup>
+
+</Project>

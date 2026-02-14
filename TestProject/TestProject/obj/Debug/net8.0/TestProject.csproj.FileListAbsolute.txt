@@ -1,0 +1,17 @@
+D:\workspace\csharp\TestProject\TestProject\bin\Debug\net8.0\TestProject.exe
+D:\workspace\csharp\TestProject\TestProject\bin\Debug\net8.0\TestProject.deps.json
+D:\workspace\csharp\TestProject\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+D:\workspace\csharp\TestProject\TestProject\bin\Debug\net8.0\TestProject.dll
+D:\workspace\csharp\TestProject\TestProject\bin\Debug\net8.0\TestProject.pdb
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.dll
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.pdb
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+D:\workspace\csharp\TestProject\TestProject\bin\Debug\net8.0\TestProject.xml
+D:\workspace\csharp\TestProject\TestProject\obj\Debug\net8.0\TestProject.xml

@@ -1,0 +1,7 @@
+D:\workspace\csharp\EzCSharp\04-string\04-string\obj\Debug\04-string.csproj.AssemblyReference.cache
+D:\workspace\csharp\EzCSharp\04-string\04-string\obj\Debug\04-string.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\EzCSharp\04-string\04-string\bin\Debug\04-string.exe.config
+D:\workspace\csharp\EzCSharp\04-string\04-string\bin\Debug\04-string.exe
+D:\workspace\csharp\EzCSharp\04-string\04-string\bin\Debug\04-string.pdb
+D:\workspace\csharp\EzCSharp\04-string\04-string\obj\Debug\04-string.exe
+D:\workspace\csharp\EzCSharp\04-string\04-string\obj\Debug\04-string.pdb

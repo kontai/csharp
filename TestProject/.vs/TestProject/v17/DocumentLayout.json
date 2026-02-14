@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\TestProject\\",
+  "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\demo_boxing_unboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\demo_boxing_unboxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\demo_tuple_destruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\demo_tuple_destruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\demo_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\demo_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|d:\\workspace\\csharp\\testproject\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDC61ADC-CCE9-4CF2-982C-B4E94FDAB977}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+>>>>>>> 67df189041dffce6968d4d33b9dc89e94201c443
+>>>>>>> 312f6200a7738cf0e975d5bfb35fead4e8e6c28d
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+<<<<<<< HEAD
+          "DockedWidth": 273,
+          "SelectedChildIndex": 10,
+=======
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+>>>>>>> 67df189041dffce6968d4d33b9dc89e94201c443
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+<<<<<<< HEAD
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo_Tuple_Destruction.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_Tuple_Destruction.cs",
+              "RelativeDocumentMoniker": "TestProject\\Demo_Tuple_Destruction.cs",
+              "ToolTip": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_Tuple_Destruction.cs",
+              "RelativeToolTip": "TestProject\\Demo_Tuple_Destruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:46:21.535Z",
+              "EditorCaption": ""
+=======
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo_boxing_unboxing.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_boxing_unboxing.cs",
+              "RelativeDocumentMoniker": "TestProject\\Demo_boxing_unboxing.cs",
+              "ToolTip": "D:\\workspace\\csharp\\TestProject\\TestProject\\Demo_boxing_unboxing.cs",
+              "RelativeToolTip": "TestProject\\Demo_boxing_unboxing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:28:50.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+<<<<<<< HEAD
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+=======
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+>>>>>>> 67df189041dffce6968d4d33b9dc89e94201c443
+            }
+          ]
+        },
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+>>>>>>> 312f6200a7738cf0e975d5bfb35fead4e8e6c28d
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

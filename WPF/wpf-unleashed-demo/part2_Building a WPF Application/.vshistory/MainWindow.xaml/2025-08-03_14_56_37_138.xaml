@@ -1,0 +1,20 @@
+﻿<Window x:Class="part2_Building_a_WPF_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:part2_Building_a_WPF_Application"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="auto" Width="auto">
+          <StackPanel Height="100" Background="Aqua">
+<!--    <Button Visibility="Collapsed">Hidden Button</Button> -->
+<!--<Button Visibility="visible">Hidden Button</Button>
+    <Button>Below a Hidden Button</Button>-->
+
+  <Button HorizontalAlignment="Left" Background="Red">Left</Button>
+  <Button HorizontalAlignment="Center" Background="Orange">Center</Button>
+  <Button HorizontalAlignment="Right" Background="Yellow">Right</Button>
+  <Button HorizontalAlignment="Stretch" Background="Lime">Stretch</Button>
+
+  </StackPanel>
+</Window>

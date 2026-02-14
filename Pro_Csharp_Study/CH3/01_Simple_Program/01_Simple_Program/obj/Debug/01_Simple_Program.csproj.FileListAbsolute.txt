@@ -1,0 +1,7 @@
+D:\workspace\csharp\Pro_Csharp_Study\CH3\01_Simple_Program\01_Simple_Program\bin\Debug\01_Simple_Program.exe.config
+D:\workspace\csharp\Pro_Csharp_Study\CH3\01_Simple_Program\01_Simple_Program\bin\Debug\01_Simple_Program.exe
+D:\workspace\csharp\Pro_Csharp_Study\CH3\01_Simple_Program\01_Simple_Program\bin\Debug\01_Simple_Program.pdb
+D:\workspace\csharp\Pro_Csharp_Study\CH3\01_Simple_Program\01_Simple_Program\obj\Debug\01_Simple_Program.csproj.AssemblyReference.cache
+D:\workspace\csharp\Pro_Csharp_Study\CH3\01_Simple_Program\01_Simple_Program\obj\Debug\01_Simple_Program.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Pro_Csharp_Study\CH3\01_Simple_Program\01_Simple_Program\obj\Debug\01_Simple_Program.exe
+D:\workspace\csharp\Pro_Csharp_Study\CH3\01_Simple_Program\01_Simple_Program\obj\Debug\01_Simple_Program.pdb

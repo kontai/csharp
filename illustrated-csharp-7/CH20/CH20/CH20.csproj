@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="AnonymousClass.cs" />
+    <Compile Remove="GroupByExample.cs" />
+    <Compile Remove="IntoExample.cs" />
+    <Compile Remove="joinEzxampl.cs" />
+    <Compile Remove="LinQQueryExample.cs" />
+    <Compile Remove="orderbyExample.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="selectExample.cs" />
+    <Compile Remove="StandartQueryExample.cs" />
+    <Compile Remove="XML\AddNodes.cs" />
+    <Compile Remove="XML\LINQtoXMKQueryWrite.cs" />
+    <Compile Remove="XML\LINQtoXMLQueryReak.cs" />
+    <Compile Remove="XML\LINQtoXMLQueryReakAnnoy.cs" />
+    <Compile Remove="XML\OtherNodesType.cs" />
+    <Compile Remove="XML\XAttributeExample.cs" />
+    <Compile Remove="XML\XMLwithLINQ.cs" />
+    <Compile Remove="查詢主體中片段\fromExample.cs" />
+    <Compile Remove="查詢主體中片段\letExample.cs" />
+    <Compile Remove="查詢主體中片段\whereExample.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="AnonymousClass.cs" />
+    <None Include="GroupByExample.cs" />
+    <None Include="IntoExample.cs" />
+    <None Include="JoinEzxampl.cs" />
+    <None Include="LinQQueryExample.cs" />
+    <None Include="orderbyExample.cs" />
+    <None Include="Program.cs" />
+    <None Include="selectExample.cs" />
+    <None Include="StandartQueryExample.cs" />
+    <None Include="XML\AddNodes.cs" />
+    <None Include="XML\LINQtoXMKQueryWrite.cs" />
+    <None Include="XML\LINQtoXMLQueryReak.cs" />
+    <None Include="XML\LINQtoXMLQueryReakAnnoy.cs" />
+    <None Include="XML\OtherNodesType.cs" />
+    <None Include="XML\XAttributeExample.cs" />
+    <None Include="XML\XMLwithLINQ.cs" />
+    <None Include="查詢主體中片段\fromExample.cs" />
+    <None Include="查詢主體中片段\letExample.cs" />
+    <None Include="查詢主體中片段\whereExample.cs" />
+  </ItemGroup>
+
+</Project>

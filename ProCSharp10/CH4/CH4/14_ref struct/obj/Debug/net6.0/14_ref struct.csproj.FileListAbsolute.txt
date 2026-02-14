@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\bin\Debug\net6.0\14_ref struct.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\bin\Debug\net6.0\14_ref struct.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\bin\Debug\net6.0\14_ref struct.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\bin\Debug\net6.0\14_ref struct.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\bin\Debug\net6.0\14_ref struct.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\14_ref struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\14_ref struct.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\14_ref struct.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\14_ref struct.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\14_ref struct.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\14_ref struct.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\refint\14_ref struct.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\14_ref struct.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\14_ref struct.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\14_ref struct\obj\Debug\net6.0\ref\14_ref struct.dll

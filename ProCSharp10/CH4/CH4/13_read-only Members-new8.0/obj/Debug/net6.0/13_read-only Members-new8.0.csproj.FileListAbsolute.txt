@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\bin\Debug\net6.0\13_read-only Members-new8.0.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\bin\Debug\net6.0\13_read-only Members-new8.0.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\bin\Debug\net6.0\13_read-only Members-new8.0.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\bin\Debug\net6.0\13_read-only Members-new8.0.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\bin\Debug\net6.0\13_read-only Members-new8.0.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\13_read-only Members-new8.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\13_read-only Members-new8.0.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\13_read-only Members-new8.0.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\13_read-only Members-new8.0.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\13_read-only Members-new8.0.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\13_read-only Members-new8.0.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\refint\13_read-only Members-new8.0.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\13_read-only Members-new8.0.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\13_read-only Members-new8.0.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\13_read-only Members-new8.0\obj\Debug\net6.0\ref\13_read-only Members-new8.0.dll

@@ -1,0 +1,23 @@
+﻿<Window
+    x:Class="MessagePump.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:MessagePump"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Pump"
+    Width="200"
+    Height="120"
+    mc:Ignorable="d">
+    <StackPanel>
+
+        <Label Name="lblStatus" Margin="10,5,10,0">Not Doing Anython</Label>
+        <Button
+            Name="btnDoStuff"
+            Margin="10,5,0,5"
+            Padding="5,2"
+            HorizontalAlignment="Left"
+            Click="btnDoStuff_Click"
+            Content="Do Stuff" />
+    </StackPanel>
+</Window>

@@ -1,0 +1,18 @@
+﻿<Window x:Class="part2_Building_a_WPF_Application.SelectiveScrollingGrid"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:part2_Building_a_WPF_Application"
+        mc:Ignorable="d"
+        Title="SelectiveScrollingGrid" Height="450" Width="800">
+    <Grid>
+        <TextBlock Width="800" Height="500">
+        <TextBlock.TextTrimming >
+<TextTrimming>CharacterEllipsis</TextTrimming>
+
+        </TextBlock.TextTrimming>
+修剪 (Trimming) 是指一種更智慧的裁切形式。它僅由 TextBlock 和 AccessText 元素支援用於文字。它們有一個 TextTrimming 屬性（類型為 System.Windows.TextTrimming），可以設定為 None（預設）、CharacterEllipsis 或 WordEllipsis。使用後兩個值，文字會被省略號 (...) 修剪，而不是簡單地在任意位置被截斷。
+        </TextBlock>
+    </Grid>
+</Window>

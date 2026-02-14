@@ -1,0 +1,13 @@
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\bin\Debug\wpf-unleashed-demo.exe
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\bin\Debug\wpf-unleashed-demo.pdb
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\part1_Background.csproj.AssemblyReference.cache
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\AboutDialog.baml
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\AboutDialog.g.cs
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\App.g.cs
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\wpf-unleashed-demo_MarkupCompile.cache
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\wpf-unleashed-demo.g.resources
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\wpf_unleashed_demo.Properties.Resources.resources
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\part1_Background.csproj.GenerateResource.cache
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\part1_Background.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\wpf-unleashed-demo.exe
+D:\workspace\csharp\WPF\wpf-unleashed-demo\wpf-unleashed-demo\obj\Debug\wpf-unleashed-demo.pdb

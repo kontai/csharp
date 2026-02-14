@@ -1,20 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "1kJdYgoLd6wWYbh1ofSY535rleDeM2iTSaR1ne0jdx6DZHXLiC/eYanVga9LQGlETsp/zrowyVzvG260wQmRkg==",
-  "success": true,
-  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\02_index_range\\02_index_range.csproj",
-=======
-<<<<<<<< HEAD:ProCSharp10/CH4/CH4/01_Array/obj/project.nuget.cache
-  "dgSpecHash": "5KBx9SScb8a3tiuuP26GEAzf7RcPzXjaFFf7byzdQYIXoQnH00GWKs8mX1EPDro2OGd/6DDkSvCMKUNYdSmxJg==",
-  "success": true,
-  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\01_Array\\01_Array.csproj",
-========
   "dgSpecHash": "7LNsySK+2iQ=",
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\02_index_range\\02_index_range.csproj",
->>>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c:ProCSharp10/CH4/CH4/02_index_range/obj/project.nuget.cache
->>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "讀取快取檔案 D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\02_index_range\\obj\\project.nuget.cache 時發生問題: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\02_index_range\\02_index_range.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\02_index_range\\02_index_range.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

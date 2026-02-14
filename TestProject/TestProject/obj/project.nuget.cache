@@ -1,0 +1,16 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "UCWKshF4OsE=",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "Qqdt8zzA6uM=",
+=======
+  "dgSpecHash": "Wql0FpshaQ4=",
+>>>>>>> 67df189041dffce6968d4d33b9dc89e94201c443
+>>>>>>> 312f6200a7738cf0e975d5bfb35fead4e8e6c28d
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\TestProject\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}

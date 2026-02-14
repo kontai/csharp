@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\WPF\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|d:\\workspace\\csharp\\wpf\\wpfapp1\\wpfapp1\\aboutdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\aboutdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|d:\\workspace\\csharp\\wpf\\wpfapp1\\wpfapp1\\aboutdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\aboutdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|D:\\workspace\\csharp\\WPF\\WpfApp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|d:\\workspace\\csharp\\wpf\\wpfapp1\\wpfapp1\\mycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|d:\\workspace\\csharp\\wpf\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C6997D-FE4E-4B05-9FCD-B91534FA44CF}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:35:30.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyControl.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\MyControl.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MyControl.cs",
+              "ToolTip": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\MyControl.cs",
+              "RelativeToolTip": "WpfApp1\\MyControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:12:18.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutDialog.xaml.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\AboutDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\AboutDialog.xaml.cs",
+              "ToolTip": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\AboutDialog.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\AboutDialog.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:32:58.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutDialog.xaml",
+              "DocumentMoniker": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\AboutDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\AboutDialog.xaml",
+              "ToolTip": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\AboutDialog.xaml",
+              "RelativeToolTip": "WpfApp1\\AboutDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-04T02:31:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\workspace\\csharp\\WPF\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-30T06:35:32.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
