@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\bin\Debug\net5.0\04_Parameter Modifiers.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\bin\Debug\net5.0\04_Parameter Modifiers.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\bin\Debug\net5.0\04_Parameter Modifiers.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\bin\Debug\net5.0\04_Parameter Modifiers.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\bin\Debug\net5.0\04_Parameter Modifiers.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\bin\Debug\net5.0\ref\04_Parameter Modifiers.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\bin\Debug\net5.0\04_Parameter Modifiers.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\04_Parameter Modifiers.csproj.AssemblyReference.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\04_Parameter Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\04_Parameter Modifiers.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\04_Parameter Modifiers.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\04_Parameter Modifiers.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\04_Parameter Modifiers.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\ref\04_Parameter Modifiers.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\04_Parameter Modifiers.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\04_Parameter Modifiers\obj\Debug\net5.0\04_Parameter Modifiers.genruntimeconfig.cache

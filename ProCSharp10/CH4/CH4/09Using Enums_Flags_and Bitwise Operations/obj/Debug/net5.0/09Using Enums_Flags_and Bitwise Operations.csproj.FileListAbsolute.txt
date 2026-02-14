@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\bin\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\bin\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\bin\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\bin\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\bin\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\bin\Debug\net5.0\ref\09Using Enums_Flags_and Bitwise Operations.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\bin\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\ref\09Using Enums_Flags_and Bitwise Operations.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\09Using Enums_Flags_and Bitwise Operations\obj\Debug\net5.0\09Using Enums_Flags_and Bitwise Operations.csproj.AssemblyReference.cache

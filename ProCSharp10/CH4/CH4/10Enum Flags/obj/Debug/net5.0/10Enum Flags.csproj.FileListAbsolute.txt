@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\bin\Debug\net5.0\10Enum Flags.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\bin\Debug\net5.0\10Enum Flags.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\bin\Debug\net5.0\10Enum Flags.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\bin\Debug\net5.0\10Enum Flags.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\bin\Debug\net5.0\10Enum Flags.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\bin\Debug\net5.0\ref\10Enum Flags.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\bin\Debug\net5.0\10Enum Flags.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\obj\Debug\net5.0\10Enum Flags.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\obj\Debug\net5.0\10Enum Flags.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\obj\Debug\net5.0\10Enum Flags.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\obj\Debug\net5.0\10Enum Flags.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\obj\Debug\net5.0\10Enum Flags.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\obj\Debug\net5.0\ref\10Enum Flags.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\obj\Debug\net5.0\10Enum Flags.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\10Enum Flags\obj\Debug\net5.0\10Enum Flags.genruntimeconfig.cache

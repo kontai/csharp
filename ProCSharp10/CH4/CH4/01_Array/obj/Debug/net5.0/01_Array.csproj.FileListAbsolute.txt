@@ -1,0 +1,16 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\bin\Debug\net5.0\01_Array.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\bin\Debug\net5.0\01_Array.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\bin\Debug\net5.0\01_Array.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\bin\Debug\net5.0\01_Array.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\bin\Debug\net5.0\01_Array.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\bin\Debug\net5.0\ref\01_Array.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\bin\Debug\net5.0\01_Array.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\01_Array.csproj.AssemblyReference.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\01_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\01_Array.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\01_Array.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\01_Array.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\01_Array.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\ref\01_Array.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\01_Array.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\01_Array\obj\Debug\net5.0\01_Array.genruntimeconfig.cache

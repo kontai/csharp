@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\bin\Debug\net5.0\06_Named Parameter.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\bin\Debug\net5.0\06_Named Parameter.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\bin\Debug\net5.0\06_Named Parameter.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\bin\Debug\net5.0\06_Named Parameter.runtimeconfig.dev.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\bin\Debug\net5.0\06_Named Parameter.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\bin\Debug\net5.0\ref\06_Named Parameter.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\bin\Debug\net5.0\06_Named Parameter.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\obj\Debug\net5.0\06_Named Parameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\obj\Debug\net5.0\06_Named Parameter.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\obj\Debug\net5.0\06_Named Parameter.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\obj\Debug\net5.0\06_Named Parameter.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\obj\Debug\net5.0\06_Named Parameter.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\obj\Debug\net5.0\ref\06_Named Parameter.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\obj\Debug\net5.0\06_Named Parameter.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\06_Named Parameter\obj\Debug\net5.0\06_Named Parameter.genruntimeconfig.cache

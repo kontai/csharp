@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "09Using Enums_Flags_and\u00A0Bitwise Operations/1.0.0": {
+        "runtime": {
+          "09Using Enums_Flags_and\u00A0Bitwise Operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09Using Enums_Flags_and\u00A0Bitwise Operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
