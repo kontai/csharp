@@ -30,6 +30,5 @@ internal class Program
     {
         using DisposableRefStruct drs = new DisposableRefStruct(10, 20, "Disposable Ref Struct");
         drs.display();
-
     }
 }

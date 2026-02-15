@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\bin\Debug\net9.0\23_Deconstructing Tuples.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\bin\Debug\net9.0\23_Deconstructing Tuples.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\bin\Debug\net9.0\23_Deconstructing Tuples.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\bin\Debug\net9.0\23_Deconstructing Tuples.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\bin\Debug\net9.0\23_Deconstructing Tuples.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\23_Deconstructing Tuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\23_Deconstructing Tuples.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\23_Deconstructing Tuples.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\23_Deconstructing Tuples.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\23_Deconstructing Tuples.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\23_Deconstructing Tuples.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\refint\23_Deconstructing Tuples.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\23_Deconstructing Tuples.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\23_Deconstructing Tuples.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\23_Deconstructing Tuples\obj\Debug\net9.0\ref\23_Deconstructing Tuples.dll

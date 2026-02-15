@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\bin\Debug\net9.0\21_Null Conditional Operator.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\bin\Debug\net9.0\21_Null Conditional Operator.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\bin\Debug\net9.0\21_Null Conditional Operator.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\bin\Debug\net9.0\21_Null Conditional Operator.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\bin\Debug\net9.0\21_Null Conditional Operator.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\21_Null Conditional Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\21_Null Conditional Operator.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\21_Null Conditional Operator.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\21_Null Conditional Operator.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\21_Null Conditional Operator.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\21_Null Conditional Operator.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\refint\21_Null Conditional Operator.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\21_Null Conditional Operator.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\21_Null Conditional Operator.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\21_Null Conditional Operator\obj\Debug\net9.0\ref\21_Null Conditional Operator.dll

@@ -10,13 +10,4 @@
     <None Remove="Program.xaml" />
   </ItemGroup>
 
-<<<<<<< HEAD
-=======
-  <ItemGroup>
-    <EmbeddedResource Include="Program.xaml">
-      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-    </EmbeddedResource>
-  </ItemGroup>
-
->>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
 </Project>

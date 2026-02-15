@@ -1,12 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "GTAW2Kp2+YtTEGhnzhQ48cagCnZkZd/mc/sEEkovW2Pp0+y9tvlfRyBMbR21zSiIKB4TDIQkkGwgfU9B4t47RA==",
-=======
   "dgSpecHash": "Puhk4vazjVY=",
->>>>>>> 8d5109e7f4ef3226c879d8cc237a995adb1c4f4c
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\07_function overloading\\07_function overloading.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "讀取快取檔案 D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\07_function overloading\\obj\\project.nuget.cache 時發生問題: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\07_function overloading\\07_function overloading.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\07_function overloading\\07_function overloading.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

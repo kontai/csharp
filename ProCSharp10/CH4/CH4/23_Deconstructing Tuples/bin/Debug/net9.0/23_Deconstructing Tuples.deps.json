@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "23_Deconstructing Tuples/1.0.0": {
+        "runtime": {
+          "23_Deconstructing Tuples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "23_Deconstructing Tuples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\bin\Debug\net9.0\22_Tuples.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\bin\Debug\net9.0\22_Tuples.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\bin\Debug\net9.0\22_Tuples.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\bin\Debug\net9.0\22_Tuples.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\bin\Debug\net9.0\22_Tuples.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\22_Tuples.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\22_Tuples.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\22_Tuples.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\22_Tuples.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\22_Tuples.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\22_Tuples.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\refint\22_Tuples.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\22_Tuples.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\22_Tuples.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\22_Tuples\obj\Debug\net9.0\ref\22_Tuples.dll

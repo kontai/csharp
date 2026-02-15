@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\bin\Debug\net9.0\16_Passing Reference Types by Value.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\bin\Debug\net9.0\16_Passing Reference Types by Value.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\bin\Debug\net9.0\16_Passing Reference Types by Value.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\bin\Debug\net9.0\16_Passing Reference Types by Value.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\bin\Debug\net9.0\16_Passing Reference Types by Value.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\16_Passing Reference Types by Value.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\16_Passing Reference Types by Value.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\16_Passing Reference Types by Value.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\16_Passing Reference Types by Value.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\16_Passing Reference Types by Value.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\16_Passing Reference Types by Value.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\refint\16_Passing Reference Types by Value.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\16_Passing Reference Types by Value.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\16_Passing Reference Types by Value.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\16_Passing Reference Types by Value\obj\Debug\net9.0\ref\16_Passing Reference Types by Value.dll

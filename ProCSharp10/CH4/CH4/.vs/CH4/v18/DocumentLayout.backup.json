@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5020C630-D8DF-48E3-9725-3598B2082108}|23_Deconstructing Tuples\\23_Deconstructing Tuples.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\23_deconstructing tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5020C630-D8DF-48E3-9725-3598B2082108}|23_Deconstructing Tuples\\23_Deconstructing Tuples.csproj|solutionrelative:23_deconstructing tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9E07EA-1FBE-4E00-A71A-9C8B73F5F736}|22_Tuples\\22_Tuples.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\22_tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9E07EA-1FBE-4E00-A71A-9C8B73F5F736}|22_Tuples\\22_Tuples.csproj|solutionrelative:22_tuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6869515-8809-45A3-A621-7E126FE294D8}|21_Null Conditional Operator\\21_Null Conditional Operator.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\21_null conditional operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6869515-8809-45A3-A621-7E126FE294D8}|21_Null Conditional Operator\\21_Null Conditional Operator.csproj|solutionrelative:21_null conditional operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E06C1B0-0B31-435A-8AAA-EFA5BEE75886}|20_The Null-Coalescing Operator\\20_The Null-Coalescing Operator.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\20_the null-coalescing operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E06C1B0-0B31-435A-8AAA-EFA5BEE75886}|20_The Null-Coalescing Operator\\20_The Null-Coalescing Operator.csproj|solutionrelative:20_the null-coalescing operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AA353-EC68-4FA0-A75C-21B20F821A7E}|18Nullable and Database\\18Nullable and Database.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\18nullable and database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071AA353-EC68-4FA0-A75C-21B20F821A7E}|18Nullable and Database\\18Nullable and Database.csproj|solutionrelative:18nullable and database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F758A11F-55E6-4EDC-B927-683D2411C1E5}|19_Nullable Reference Types\\19_Nullable Reference Types.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\19_nullable reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F758A11F-55E6-4EDC-B927-683D2411C1E5}|19_Nullable Reference Types\\19_Nullable Reference Types.csproj|solutionrelative:19_nullable reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FC497F-EA35-49E4-9EF8-BA5AE56BB4AD}|17_Nullable Types\\17_Nullable Types.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\17_nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FC497F-EA35-49E4-9EF8-BA5AE56BB4AD}|17_Nullable Types\\17_Nullable Types.csproj|solutionrelative:17_nullable types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFAEEDF0-DEBB-4660-BE65-0410F4FDBC55}|16_Passing Reference Types by Value\\16_Passing Reference Types by Value.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\16_passing reference types by value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFAEEDF0-DEBB-4660-BE65-0410F4FDBC55}|16_Passing Reference Types by Value\\16_Passing Reference Types by Value.csproj|solutionrelative:16_passing reference types by value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B460AE17-9B29-437B-B425-A86BD21CCC19}|15_Value Types Containing Reference Types\\15_Value Types Containing Reference Types.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\15_value types containing reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B460AE17-9B29-437B-B425-A86BD21CCC19}|15_Value Types Containing Reference Types\\15_Value Types Containing Reference Types.csproj|solutionrelative:15_value types containing reference types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D98DC6C9-BF07-4B14-8FA6-B854225CA1F5}|14_ref struct\\14_ref struct.csproj|d:\\workspace\\csharp\\procsharp10\\ch4\\ch4\\14_ref struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D98DC6C9-BF07-4B14-8FA6-B854225CA1F5}|14_ref struct\\14_ref struct.csproj|solutionrelative:14_ref struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,12 +65,28 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "DockedWidth": 408,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -50,15 +102,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -66,24 +114,141 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\23_Deconstructing Tuples\\Program.cs",
+              "RelativeDocumentMoniker": "23_Deconstructing Tuples\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\23_Deconstructing Tuples\\Program.cs*",
+              "RelativeToolTip": "23_Deconstructing Tuples\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T14:55:09.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\22_Tuples\\Program.cs",
+              "RelativeDocumentMoniker": "22_Tuples\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\22_Tuples\\Program.cs",
+              "RelativeToolTip": "22_Tuples\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:10:58.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\21_Null Conditional Operator\\Program.cs",
+              "RelativeDocumentMoniker": "21_Null Conditional Operator\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\21_Null Conditional Operator\\Program.cs",
+              "RelativeToolTip": "21_Null Conditional Operator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T08:06:17.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\20_The Null-Coalescing Operator\\Program.cs",
+              "RelativeDocumentMoniker": "20_The Null-Coalescing Operator\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\20_The Null-Coalescing Operator\\Program.cs",
+              "RelativeToolTip": "20_The Null-Coalescing Operator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T07:31:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\19_Nullable Reference Types\\Program.cs",
+              "RelativeDocumentMoniker": "19_Nullable Reference Types\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\19_Nullable Reference Types\\Program.cs",
+              "RelativeToolTip": "19_Nullable Reference Types\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:50:22.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\18Nullable and Database\\Program.cs",
+              "RelativeDocumentMoniker": "18Nullable and Database\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\18Nullable and Database\\Program.cs",
+              "RelativeToolTip": "18Nullable and Database\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:38:48.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\17_Nullable Types\\Program.cs",
+              "RelativeDocumentMoniker": "17_Nullable Types\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\17_Nullable Types\\Program.cs",
+              "RelativeToolTip": "17_Nullable Types\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:29:26.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\16_Passing Reference Types by Value\\Program.cs",
+              "RelativeDocumentMoniker": "16_Passing Reference Types by Value\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\16_Passing Reference Types by Value\\Program.cs",
+              "RelativeToolTip": "16_Passing Reference Types by Value\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:20:26.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\15_Value Types Containing Reference Types\\Program.cs",
+              "RelativeDocumentMoniker": "15_Value Types Containing Reference Types\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\15_Value Types Containing Reference Types\\Program.cs",
+              "RelativeToolTip": "15_Value Types Containing Reference Types\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T02:17:07.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\14_ref struct\\Program.cs",
               "RelativeDocumentMoniker": "14_ref struct\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\14_ref struct\\Program.cs*",
-              "RelativeToolTip": "14_ref struct\\Program.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\14_ref struct\\Program.cs",
+              "RelativeToolTip": "14_ref struct\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T10:42:38.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\13_read-only Members-new8.0\\Program.cs",
               "RelativeDocumentMoniker": "13_read-only Members-new8.0\\Program.cs",
@@ -96,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\12_read-only structs\\Program.cs",
               "RelativeDocumentMoniker": "12_read-only structs\\Program.cs",
@@ -109,19 +274,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "11_structure",
               "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\11_structure\\11_structure.csproj",
               "RelativeDocumentMoniker": "11_structure\\11_structure.csproj",
               "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\11_structure\\11_structure.csproj",
               "RelativeToolTip": "11_structure\\11_structure.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-14T08:15:32.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T08:15:32.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\11_structure\\Program.cs",
               "RelativeDocumentMoniker": "11_structure\\Program.cs",

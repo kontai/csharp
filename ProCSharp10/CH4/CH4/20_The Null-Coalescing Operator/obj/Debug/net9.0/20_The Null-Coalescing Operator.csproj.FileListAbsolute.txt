@@ -1,0 +1,15 @@
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\bin\Debug\net9.0\20_The Null-Coalescing Operator.exe
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\bin\Debug\net9.0\20_The Null-Coalescing Operator.deps.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\bin\Debug\net9.0\20_The Null-Coalescing Operator.runtimeconfig.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\bin\Debug\net9.0\20_The Null-Coalescing Operator.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\bin\Debug\net9.0\20_The Null-Coalescing Operator.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\20_The Null-Coalescing Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\20_The Null-Coalescing Operator.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\20_The Null-Coalescing Operator.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\20_The Null-Coalescing Operator.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\20_The Null-Coalescing Operator.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\20_The Null-Coalescing Operator.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\refint\20_The Null-Coalescing Operator.dll
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\20_The Null-Coalescing Operator.pdb
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\20_The Null-Coalescing Operator.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH4\CH4\20_The Null-Coalescing Operator\obj\Debug\net9.0\ref\20_The Null-Coalescing Operator.dll
