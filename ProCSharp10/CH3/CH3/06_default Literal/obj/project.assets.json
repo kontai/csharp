@@ -1,17 +1,6 @@
 {
   "version": 3,
   "targets": {
-<<<<<<< HEAD
-    "net9.0": {}
-  },
-  "libraries": {},
-  "projectFileDependencyGroups": {
-    "net9.0": []
-  },
-  "packageFolders": {
-    "C:\\Users\\kontai\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
     "net5.0": {}
   },
   "libraries": {},
@@ -19,11 +8,8 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cam06\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
+    "C:\\Users\\kontai\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -31,7 +17,6 @@
       "projectUniqueName": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\06_default Literal\\06_default Literal.csproj",
       "projectName": "06_default Literal",
       "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\06_default Literal\\06_default Literal.csproj",
-<<<<<<< HEAD
       "packagesPath": "C:\\Users\\kontai\\.nuget\\packages\\",
       "outputPath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\06_default Literal\\obj\\",
       "projectStyle": "PackageReference",
@@ -44,7 +29,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -52,34 +37,9 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
-=======
-      "packagesPath": "C:\\Users\\cam06\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\06_default Literal\\obj\\",
-      "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\cam06\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-      ],
-      "originalTargetFrameworks": [
-        "net5.0"
-      ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
-      "frameworks": {
         "net5.0": {
+          "framework": "net5.0",
           "targetAlias": "net5.0",
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
           "projectReferences": {}
         }
       },
@@ -87,71 +47,35 @@
         "warnAsError": [
           "NU1605"
         ]
-<<<<<<< HEAD
       },
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
-    },
-    "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
-=======
-      }
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net5.0": {
+        "framework": "net5.0",
         "targetAlias": "net5.0",
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-<<<<<<< HEAD
           "net48",
           "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.11, 9.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[9.0.11, 9.0.11]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[9.0.11, 9.0.11]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[9.0.11, 9.0.11]"
-          }
-        ],
-=======
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
-=======
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

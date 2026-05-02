@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ch3_console/ch3_console.csproj" />
+  <Project Path="ch3_string/ch3_string.csproj" />
+</Solution>
