@@ -70,26 +70,6 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
             },
             {
@@ -102,11 +82,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -114,7 +98,23 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
@@ -124,7 +124,7 @@
               "RelativeDocumentMoniker": "23_Deconstructing Tuples\\Program.cs",
               "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\23_Deconstructing Tuples\\Program.cs",
               "RelativeToolTip": "23_Deconstructing Tuples\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA1wBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-15T14:55:09.531Z",
               "EditorCaption": ""
@@ -139,8 +139,7 @@
               "RelativeToolTip": "22_Tuples\\Program.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T09:10:58.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T09:10:58.217Z"
             },
             {
               "$type": "Document",
@@ -152,8 +151,7 @@
               "RelativeToolTip": "21_Null Conditional Operator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T08:06:17.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T08:06:17.324Z"
             },
             {
               "$type": "Document",
@@ -165,8 +163,7 @@
               "RelativeToolTip": "20_The Null-Coalescing Operator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T07:31:49.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T07:31:49.838Z"
             },
             {
               "$type": "Document",
@@ -178,8 +175,7 @@
               "RelativeToolTip": "19_Nullable Reference Types\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAwCAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T02:50:22.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T02:50:22.542Z"
             },
             {
               "$type": "Document",
@@ -191,8 +187,7 @@
               "RelativeToolTip": "18Nullable and Database\\Program.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T02:38:48.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T02:38:48.309Z"
             },
             {
               "$type": "Document",
@@ -204,8 +199,7 @@
               "RelativeToolTip": "17_Nullable Types\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T02:29:26.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T02:29:26.182Z"
             },
             {
               "$type": "Document",
@@ -217,8 +211,7 @@
               "RelativeToolTip": "16_Passing Reference Types by Value\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T02:20:26.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T02:20:26.15Z"
             },
             {
               "$type": "Document",
@@ -230,8 +223,7 @@
               "RelativeToolTip": "15_Value Types Containing Reference Types\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T02:17:07.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T02:17:07.853Z"
             },
             {
               "$type": "Document",
@@ -243,8 +235,7 @@
               "RelativeToolTip": "14_ref struct\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwCAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T10:42:38.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T10:42:38.273Z"
             },
             {
               "$type": "Document",
@@ -256,8 +247,7 @@
               "RelativeToolTip": "13_read-only Members-new8.0\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T09:37:00.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T09:37:00.001Z"
             },
             {
               "$type": "Document",
@@ -269,8 +259,7 @@
               "RelativeToolTip": "12_read-only structs\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T08:19:16.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T08:19:16.514Z"
             },
             {
               "$type": "Document",
@@ -293,8 +282,7 @@
               "RelativeToolTip": "11_structure\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T07:33:30.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T07:33:30.068Z"
             }
           ]
         }

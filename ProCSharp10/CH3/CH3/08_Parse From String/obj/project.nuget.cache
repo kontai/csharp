@@ -1,20 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "Q88iqpjyg/M=",
-  "success": true,
-  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\08_Parse From String\\08_Parse From String.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
-  ],
-=======
-  "dgSpecHash": "rP37Qd5UzIltclOcOYFqWzlzzTtZk2E0SMpj4c1DkVF00GZ4HfQHZT031s4OPWj7qJNCKirS5qX+wwH0Ke+I7w==",
+  "dgSpecHash": "+ThkJAY9TBI=",
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\08_Parse From String\\08_Parse From String.csproj",
   "expectedPackageFiles": [],
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "讀取快取檔案 D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\08_Parse From String\\obj\\project.nuget.cache 時發生問題: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\08_Parse From String\\08_Parse From String.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\08_Parse From String\\08_Parse From String.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
