@@ -22,7 +22,11 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
+<<<<<<< HEAD
           "net10.0"
+=======
+          "net5.0"
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,9 +34,15 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
+<<<<<<< HEAD
           "net10.0": {
             "framework": "net10.0",
             "targetAlias": "net10.0",
+=======
+          "net5.0": {
+            "framework": "net5.0",
+            "targetAlias": "net5.0",
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
             "projectReferences": {}
           }
         },
@@ -49,9 +59,15 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
+<<<<<<< HEAD
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+=======
+        "net5.0": {
+          "framework": "net5.0",
+          "targetAlias": "net5.0",
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
           "imports": [
             "net461",
             "net462",
@@ -68,6 +84,7 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
@@ -343,6 +360,9 @@
             "System.Xml.XPath": "(,4.3.32767]",
             "System.Xml.XPath.XDocument": "(,5.0.32767]"
           }
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
         }
       }
     }

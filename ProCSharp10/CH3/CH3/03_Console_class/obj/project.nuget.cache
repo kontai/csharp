@@ -1,8 +1,26 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "OmwgwWtn2mA=",
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\03_Console_class\\03_Console_class.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+  "dgSpecHash": "d97LkBFAS1I=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\03_Console_class\\03_Console_class.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "讀取快取檔案 D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\03_Console_class\\obj\\project.nuget.cache 時發生問題: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\03_Console_class\\03_Console_class.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\03_Console_class\\03_Console_class.csproj",
+      "targetGraphs": []
+    }
+  ]
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
 }

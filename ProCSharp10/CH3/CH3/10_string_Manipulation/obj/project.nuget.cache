@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "uMtEjzUdUbs=",
+=======
+  "dgSpecHash": "ITODPNeCJ4I=",
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\10_string_Manipulation\\10_string_Manipulation.csproj",
   "expectedPackageFiles": [],

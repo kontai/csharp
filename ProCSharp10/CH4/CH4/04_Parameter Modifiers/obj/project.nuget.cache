@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zmOXzzXK4Ow=",
+  "dgSpecHash": "6X5gzvaz3oo=",
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\04_Parameter Modifiers\\04_Parameter Modifiers.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "讀取快取檔案 D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\04_Parameter Modifiers\\obj\\project.nuget.cache 時發生問題: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\04_Parameter Modifiers\\04_Parameter Modifiers.csproj",
-      "warningLevel": 1,
-      "filePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\04_Parameter Modifiers\\04_Parameter Modifiers.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

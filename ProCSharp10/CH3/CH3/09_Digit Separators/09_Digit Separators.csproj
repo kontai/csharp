@@ -1,5 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+<<<<<<< HEAD
 	<PropertyGroup>
 		<OutputType>Exe</OutputType>
 		<TargetFramework>net10.0</TargetFramework>
@@ -9,5 +10,19 @@
 		<ApplicationIcon />
 		<StartupObject />
 	</PropertyGroup>
+=======
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>_09_Digit_Separators</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_09_Digit_Separators</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
 
 </Project>

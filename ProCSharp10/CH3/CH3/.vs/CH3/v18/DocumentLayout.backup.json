@@ -25,12 +25,66 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< HEAD
           "DockedWidth": 408,
           "SelectedChildIndex": 0,
+=======
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "\u95DC\u4FC2\u6A21\u5F0F (Relational Patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (Logical Patterns).md",
               "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\14_if_else\\\u95DC\u4FC2\u6A21\u5F0F (Relational Patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (Logical Patterns).md",
               "RelativeDocumentMoniker": "14_if_else\\\u95DC\u4FC2\u6A21\u5F0F (Relational Patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (Logical Patterns).md",
@@ -95,6 +149,19 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\16_switch\\Program.cs",
+              "RelativeDocumentMoniker": "16_switch\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\16_switch\\Program.cs",
+              "RelativeToolTip": "16_switch\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T16:50:24.808Z",
+              "EditorCaption": ""
+            },
+            {
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
