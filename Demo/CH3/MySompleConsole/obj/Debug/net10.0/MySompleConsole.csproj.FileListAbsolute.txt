@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH3\MySompleConsole\bin\Debug\net10.0\MySompleConsole.exe
+D:\workspace\csharp\Demo\CH3\MySompleConsole\bin\Debug\net10.0\MySompleConsole.deps.json
+D:\workspace\csharp\Demo\CH3\MySompleConsole\bin\Debug\net10.0\MySompleConsole.runtimeconfig.json
+D:\workspace\csharp\Demo\CH3\MySompleConsole\bin\Debug\net10.0\MySompleConsole.dll
+D:\workspace\csharp\Demo\CH3\MySompleConsole\bin\Debug\net10.0\MySompleConsole.pdb
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\MySompleConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\MySompleConsole.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\MySompleConsole.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\MySompleConsole.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\MySompleConsole.sourcelink.json
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\MySompleConsole.dll
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\refint\MySompleConsole.dll
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\MySompleConsole.pdb
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\MySompleConsole.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH3\MySompleConsole\obj\Debug\net10.0\ref\MySompleConsole.dll

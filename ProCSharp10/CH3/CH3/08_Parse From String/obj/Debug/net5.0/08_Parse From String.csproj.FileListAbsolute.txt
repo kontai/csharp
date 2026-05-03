@@ -14,3 +14,4 @@ D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net5.0\08
 D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net5.0\ref\08_Parse From String.dll
 D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net5.0\08_Parse From String.pdb
 D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net5.0\08_Parse From String.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\08_Parse From String\obj\Debug\net5.0\08_Parse From String.sourcelink.json

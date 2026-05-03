@@ -1,0 +1,15 @@
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\bin\Debug\net6.0\SimpleCSharpConsoleApp.exe
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\bin\Debug\net6.0\SimpleCSharpConsoleApp.deps.json
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\bin\Debug\net6.0\SimpleCSharpConsoleApp.runtimeconfig.json
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\bin\Debug\net6.0\SimpleCSharpConsoleApp.dll
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\bin\Debug\net6.0\SimpleCSharpConsoleApp.pdb
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.AssemblyInfo.cs
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.sourcelink.json
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.dll
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\refint\SimpleCSharpConsoleApp.dll
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.pdb
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\SimpleCSharpConsoleApp.genruntimeconfig.cache
+d:\workspace\csharp\ProCSharp10\CH2\VisualStudioCode\SimpleCSarpConsolApp\obj\Debug\net6.0\ref\SimpleCSharpConsoleApp.dll

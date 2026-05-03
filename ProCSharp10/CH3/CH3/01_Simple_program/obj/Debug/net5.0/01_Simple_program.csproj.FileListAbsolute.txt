@@ -1,0 +1,6 @@
+D:\workspace\csharp\ProCSharp10\CH3\CH3\01_Simple_program\obj\Debug\net5.0\01_Simple_program.csproj.AssemblyReference.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\01_Simple_program\obj\Debug\net5.0\01_Simple_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\ProCSharp10\CH3\CH3\01_Simple_program\obj\Debug\net5.0\01_Simple_program.AssemblyInfoInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\01_Simple_program\obj\Debug\net5.0\01_Simple_program.AssemblyInfo.cs
+D:\workspace\csharp\ProCSharp10\CH3\CH3\01_Simple_program\obj\Debug\net5.0\01_Simple_program.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\01_Simple_program\obj\Debug\net5.0\01_Simple_program.sourcelink.json

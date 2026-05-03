@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67A1EDF7-CD9D-45C6-BBFA-C04AB99E91AF}|16_switch\\16_switch.csproj|d:\\workspace\\csharp\\procsharp10\\ch3\\ch3\\16_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67A1EDF7-CD9D-45C6-BBFA-C04AB99E91AF}|16_switch\\16_switch.csproj|solutionrelative:16_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FD7DF46-CC74-4B47-AE5F-9A6F2EC2F557}|14_if_else\\14_if_else.csproj|d:\\workspace\\csharp\\procsharp10\\ch3\\ch3\\14_if_else\\\u95DC\u4FC2\u6A21\u5F0F (relational patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (logical patterns).md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{9FD7DF46-CC74-4B47-AE5F-9A6F2EC2F557}|14_if_else\\14_if_else.csproj|solutionrelative:14_if_else\\\u95DC\u4FC2\u6A21\u5F0F (relational patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (logical patterns).md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0601BD-BE82-4F72-86BB-08833F899632}|15_Conditional_Operator\\15_Conditional_Operator.csproj|d:\\workspace\\csharp\\procsharp10\\ch3\\ch3\\15_conditional_operator\\15_conditional_operator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6C0601BD-BE82-4F72-86BB-08833F899632}|15_Conditional_Operator\\15_Conditional_Operator.csproj|solutionrelative:15_conditional_operator\\15_conditional_operator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9FD7DF46-CC74-4B47-AE5F-9A6F2EC2F557}|14_if_else\\14_if_else.csproj|d:\\workspace\\csharp\\procsharp10\\ch3\\ch3\\14_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD7DF46-CC74-4B47-AE5F-9A6F2EC2F557}|14_if_else\\14_if_else.csproj|solutionrelative:14_if_else\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C0601BD-BE82-4F72-86BB-08833F899632}|15_Conditional_Operator\\15_Conditional_Operator.csproj|d:\\workspace\\csharp\\procsharp10\\ch3\\ch3\\15_conditional_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C0601BD-BE82-4F72-86BB-08833F899632}|15_Conditional_Operator\\15_Conditional_Operator.csproj|solutionrelative:15_conditional_operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{441B5892-5E40-46B7-BF19-4B086CF49140}|09_Digit Separators\\09_Digit Separators.csproj|d:\\workspace\\csharp\\procsharp10\\ch3\\ch3\\09_digit separators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441B5892-5E40-46B7-BF19-4B086CF49140}|09_Digit Separators\\09_Digit Separators.csproj|solutionrelative:09_digit separators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB76A964-DE75-451F-A0D1-DA261840354B}|08_Parse From String\\08_Parse From String.csproj|d:\\workspace\\csharp\\procsharp10\\ch3\\ch3\\08_parse from string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB76A964-DE75-451F-A0D1-DA261840354B}|08_Parse From String\\08_Parse From String.csproj|solutionrelative:08_parse from string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,21 +25,70 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 408,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\16_switch\\Program.cs",
-              "RelativeDocumentMoniker": "16_switch\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\16_switch\\Program.cs",
-              "RelativeToolTip": "16_switch\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-07T16:50:24.808Z",
+              "Title": "\u95DC\u4FC2\u6A21\u5F0F (Relational Patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (Logical Patterns).md",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\14_if_else\\\u95DC\u4FC2\u6A21\u5F0F (Relational Patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (Logical Patterns).md",
+              "RelativeDocumentMoniker": "14_if_else\\\u95DC\u4FC2\u6A21\u5F0F (Relational Patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (Logical Patterns).md",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\14_if_else\\\u95DC\u4FC2\u6A21\u5F0F (Relational Patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (Logical Patterns).md",
+              "RelativeToolTip": "14_if_else\\\u95DC\u4FC2\u6A21\u5F0F (Relational Patterns) \u548C \u908F\u8F2F\u6A21\u5F0F (Logical Patterns).md",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-03T08:44:45.376Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\14_if_else\\Program.cs",
+              "RelativeDocumentMoniker": "14_if_else\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\14_if_else\\Program.cs",
+              "RelativeToolTip": "14_if_else\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T08:15:18.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -43,28 +96,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "15_Conditional_Operator.csproj",
-              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\15_Conditional_Operator\\15_Conditional_Operator.csproj",
-              "RelativeDocumentMoniker": "15_Conditional_Operator\\15_Conditional_Operator.csproj",
-              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\15_Conditional_Operator\\15_Conditional_Operator.csproj",
-              "RelativeToolTip": "15_Conditional_Operator\\15_Conditional_Operator.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-07T02:07:27.996Z",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\09_Digit Separators\\Program.cs",
+              "RelativeDocumentMoniker": "09_Digit Separators\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\09_Digit Separators\\Program.cs",
+              "RelativeToolTip": "09_Digit Separators\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T06:54:08.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\15_Conditional_Operator\\Program.cs",
-              "RelativeDocumentMoniker": "15_Conditional_Operator\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\15_Conditional_Operator\\Program.cs",
-              "RelativeToolTip": "15_Conditional_Operator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\08_Parse From String\\Program.cs",
+              "RelativeDocumentMoniker": "08_Parse From String\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\08_Parse From String\\Program.cs",
+              "RelativeToolTip": "08_Parse From String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T23:19:19.137Z"
+              "WhenOpened": "2026-05-03T06:27:41.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 408,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

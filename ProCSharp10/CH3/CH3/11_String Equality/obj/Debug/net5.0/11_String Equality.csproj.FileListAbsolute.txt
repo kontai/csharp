@@ -3,7 +3,6 @@ D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\bin\Debug\net5.0\11_S
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\bin\Debug\net5.0\11_String Equality.runtimeconfig.json
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\bin\Debug\net5.0\11_String Equality.runtimeconfig.dev.json
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\bin\Debug\net5.0\11_String Equality.dll
-D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\bin\Debug\net5.0\ref\11_String Equality.dll
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\bin\Debug\net5.0\11_String Equality.pdb
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\obj\Debug\net5.0\11_String Equality.GeneratedMSBuildEditorConfig.editorconfig
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\obj\Debug\net5.0\11_String Equality.AssemblyInfoInputs.cache
@@ -14,3 +13,5 @@ D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\obj\Debug\net5.0\ref\
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\obj\Debug\net5.0\11_String Equality.pdb
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\obj\Debug\net5.0\11_String Equality.genruntimeconfig.cache
 D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\obj\Debug\net5.0\11_String Equality.csproj.AssemblyReference.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\obj\Debug\net5.0\11_String Equality.sourcelink.json
+D:\workspace\csharp\ProCSharp10\CH3\CH3\11_String Equality\obj\Debug\net5.0\refint\11_String Equality.dll
