@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\ch3_check\bin\Debug\net9.0\ch3_check.exe
+D:\workspace\csharp\TestProject\ch3_check\bin\Debug\net9.0\ch3_check.deps.json
+D:\workspace\csharp\TestProject\ch3_check\bin\Debug\net9.0\ch3_check.runtimeconfig.json
+D:\workspace\csharp\TestProject\ch3_check\bin\Debug\net9.0\ch3_check.dll
+D:\workspace\csharp\TestProject\ch3_check\bin\Debug\net9.0\ch3_check.pdb
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ch3_check.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ch3_check.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ch3_check.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ch3_check.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ch3_check.sourcelink.json
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ch3_check.dll
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\refint\ch3_check.dll
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ch3_check.pdb
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ch3_check.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\ch3_check\obj\Debug\net9.0\ref\ch3_check.dll

@@ -1,6 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "3pWQiZ/Z2+0=",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "3pWQiZ/Z2+0=",
+=======
+  "dgSpecHash": "V/0wiQaoZeQ=",
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\11_String Equality\\11_String Equality.csproj",
   "expectedPackageFiles": [],

@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("09_Digit Separators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa97ea26e2353eb5c1eb87449647e6ceff28d5c9")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b8c27b68e0832f556e2b9bddde31a2358ceaea")]
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
 [assembly: System.Reflection.AssemblyProductAttribute("09_Digit Separators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("09_Digit Separators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

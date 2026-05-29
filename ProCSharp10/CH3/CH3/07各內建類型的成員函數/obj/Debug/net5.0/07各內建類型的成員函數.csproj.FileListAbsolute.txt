@@ -14,3 +14,4 @@ D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Deb
 D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\ref\07各內建類型的成員函數.dll
 D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.pdb
 D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.genruntimeconfig.cache
+D:\workspace\csharp\ProCSharp10\CH3\CH3\07各內建類型的成員函數\obj\Debug\net5.0\07各內建類型的成員函數.sourcelink.json

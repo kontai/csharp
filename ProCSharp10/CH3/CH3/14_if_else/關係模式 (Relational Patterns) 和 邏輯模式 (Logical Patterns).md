@@ -1,6 +1,6 @@
 ﻿# Markdown File
 
-很好的問題!這段程式碼展示了 **C# 9.0** 引入的 **關係模式 (Relational Patterns)** 和 **邏輯模式 (Logical Patterns)**。
+ **C# 9.0** 引入的 **關係模式 (Relational Patterns)** 和 **邏輯模式 (Logical Patterns)**。
 
 ## 程式碼解析:
 

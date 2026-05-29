@@ -1,17 +1,12 @@
 ﻿using System.Numerics;  // For BigInteger
-<<<<<<< HEAD
-=======
 using System;
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
+using System.Runtime.InteropServices.JavaScript;
 
 ParseFromStrings();
 ParseFromStringsWithTryParse();
 UseDatesAndTimes();
-<<<<<<< HEAD
 UseDateOnlyAndTimeOnly();
-=======
 //UseDateOnlyAndTimeOnly();
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 UseBigInteger();
 
 static void ParseFromStrings()
@@ -69,16 +64,14 @@ static void UseDatesAndTimes()
     Console.WriteLine(ts.Subtract(new TimeSpan(0, 15, 0)));
 }
 
-<<<<<<< HEAD
 static void UseDateOnlyAndTimeOnly()
 {
-  Console.WriteLine("=> Dates and Times:");
-  DateOnly d = new DateOnly(2021,07,21);
-  Console.WriteLine(d);
-  TimeOnly t = new TimeOnly(13,30,0,0);
-  Console.WriteLine(t);
+    Console.WriteLine("=> Dates and Times:");
+    DateOnly d = new DateOnly(2021, 07, 21);
+    Console.WriteLine(d);
+    TimeOnly t = new TimeOnly(13, 30, 0, 0);
+    Console.WriteLine(t);
 }
-=======
 //static void UseDateOnlyAndTimeOnly()
 //{
 //  Console.WriteLine("=> Dates and Times:");
@@ -87,16 +80,17 @@ static void UseDateOnlyAndTimeOnly()
 //  TimeOnly t = new TimeOnly(13,30,0,0);
 //  Console.WriteLine(t);
 //}
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 static void UseBigInteger()
 {
-  Console.WriteLine("=> Use BigInteger:");
-  BigInteger biggy =
-    BigInteger.Parse("9999999999999999999999999999999999999999999999");
-  Console.WriteLine("Value of biggy is {0}", biggy);
-  Console.WriteLine("Is biggy an even value?: {0}", biggy.IsEven);
-  Console.WriteLine("Is biggy a power of two?: {0}", biggy.IsPowerOfTwo);
-  BigInteger reallyBig = BigInteger.Multiply(biggy,
-    BigInteger.Parse("8888888888888888888888888888888888888888888"));
-  Console.WriteLine("Value of reallyBig is {0}", reallyBig);
+    Console.WriteLine("=> Use BigInteger:");
+    BigInteger biggy =
+      BigInteger.Parse("9999999999999999999999999999999999999999999999");
+    Console.WriteLine("Value of biggy is {0}", biggy);
+    Console.WriteLine("Is biggy an even value?: {0}", biggy.IsEven);
+    Console.WriteLine("Is biggy a power of two?: {0}", biggy.IsPowerOfTwo);
+
+    //計算兩數乘積
+    BigInteger reallyBig = BigInteger.Multiply(biggy,
+      BigInteger.Parse("8888888888888888888888888888888888888888888"));
+    Console.WriteLine("Value of reallyBig is {0}", reallyBig);
 }

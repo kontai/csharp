@@ -29,6 +29,7 @@ void ifelsePatternMatching()
     object testItem1 = 123;
     object testItem2 = "Hello";
 
+    //string MyStringVale1;   // ← 編譯器自動在外層作用域宣告
     if (testItem1 is string MyStringVale1)
     {
         Console.WriteLine($"{MyStringVale1} is a string.");

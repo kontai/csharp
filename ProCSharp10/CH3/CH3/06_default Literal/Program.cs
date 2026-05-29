@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 ﻿DefaultDeclarations();
-=======
-﻿using System;
-
-DefaultDeclarations();
->>>>>>> 74806036cd0bd06043a96e84d89456abddd353bf
 NewingDataTypes();
 NewingDataTypesWith9();
+// => Default Declarations:
 static void DefaultDeclarations()
 {
     Console.WriteLine("=> Default Declarations:");
@@ -14,7 +9,7 @@ static void DefaultDeclarations()
     Console.WriteLine(myInt);
 }
 
-// 傳統寫法
+// 傳統寫法 
 static void NewingDataTypes()
 {
     Console.WriteLine("=> Using new to create variables:");

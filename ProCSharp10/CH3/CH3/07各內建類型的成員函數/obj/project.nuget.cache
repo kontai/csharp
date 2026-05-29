@@ -1,8 +1,30 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "hBz4FvtTSI8=",
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "aW3x2wVlLCc=",
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\07各內建類型的成員函數\\07各內建類型的成員函數.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+  "dgSpecHash": "zcnZ778m1gs=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\07各內建類型的成員函數\\07各內建類型的成員函數.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "讀取快取檔案 D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\07各內建類型的成員函數\\obj\\project.nuget.cache 時發生問題: '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\07各內建類型的成員函數\\07各內建類型的成員函數.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\07各內建類型的成員函數\\07各內建類型的成員函數.csproj",
+      "targetGraphs": []
+    }
+  ]
+>>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
 }
