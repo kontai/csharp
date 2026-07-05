@@ -23,10 +23,14 @@
         ],
         "originalTargetFrameworks": [
 <<<<<<< HEAD
+          "net5.0"
+=======
+<<<<<<< HEAD
           "net10.0"
 =======
           "net5.0"
 >>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -34,6 +38,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
+<<<<<<< HEAD
+          "net5.0": {
+            "framework": "net5.0",
+            "targetAlias": "net5.0",
+=======
 <<<<<<< HEAD
           "net10.0": {
             "framework": "net10.0",
@@ -43,6 +52,7 @@
             "framework": "net5.0",
             "targetAlias": "net5.0",
 >>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
             "projectReferences": {}
           }
         },
@@ -60,6 +70,11 @@
       },
       "frameworks": {
 <<<<<<< HEAD
+        "net5.0": {
+          "framework": "net5.0",
+          "targetAlias": "net5.0",
+=======
+<<<<<<< HEAD
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
@@ -68,6 +83,7 @@
           "framework": "net5.0",
           "targetAlias": "net5.0",
 >>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
           "imports": [
             "net461",
             "net462",
@@ -84,6 +100,9 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+=======
 <<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
@@ -363,6 +382,7 @@
 =======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
 >>>>>>> fa97ea26e2353eb5c1eb87449647e6ceff28d5c9
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
         }
       }
     }

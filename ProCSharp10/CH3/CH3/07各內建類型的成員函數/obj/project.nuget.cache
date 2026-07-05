@@ -1,7 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "hBz4FvtTSI8=",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "aW3x2wVlLCc=",
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\07各內建類型的成員函數\\07各內建類型的成員函數.csproj",
   "expectedPackageFiles": [],

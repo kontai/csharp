@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\ch3_console\bin\Release\net9.0\ch3_console.exe
+D:\workspace\csharp\TestProject\ch3_console\bin\Release\net9.0\ch3_console.deps.json
+D:\workspace\csharp\TestProject\ch3_console\bin\Release\net9.0\ch3_console.runtimeconfig.json
+D:\workspace\csharp\TestProject\ch3_console\bin\Release\net9.0\ch3_console.dll
+D:\workspace\csharp\TestProject\ch3_console\bin\Release\net9.0\ch3_console.pdb
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ch3_console.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ch3_console.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ch3_console.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ch3_console.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ch3_console.sourcelink.json
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ch3_console.dll
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\refint\ch3_console.dll
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ch3_console.pdb
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ch3_console.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\ch3_console\obj\Release\net9.0\ref\ch3_console.dll

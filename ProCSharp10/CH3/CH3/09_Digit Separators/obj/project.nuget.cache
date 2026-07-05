@@ -1,7 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "4spdEL+89K4=",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "vKWX/a8T1Y0=",
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\09_Digit Separators\\09_Digit Separators.csproj",
   "expectedPackageFiles": [],

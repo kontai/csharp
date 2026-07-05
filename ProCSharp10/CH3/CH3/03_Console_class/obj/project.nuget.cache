@@ -1,7 +1,11 @@
 {
   "version": 2,
 <<<<<<< HEAD
+  "dgSpecHash": "ft71LpDkeqs=",
+=======
+<<<<<<< HEAD
   "dgSpecHash": "OmwgwWtn2mA=",
+>>>>>>> 079d787ed008f9b2fc1c18ca979dc17a5ad7b028
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH3\\CH3\\03_Console_class\\03_Console_class.csproj",
   "expectedPackageFiles": [],

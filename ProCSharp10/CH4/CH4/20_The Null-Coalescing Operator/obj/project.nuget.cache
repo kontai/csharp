@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "t3dfRvZkECQ=",
+=======
+  "dgSpecHash": "Eewvh2bUMK4=",
+>>>>>>> 9ffcd25645dbf986484cf45af256f3c293d0abd2
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\20_The Null-Coalescing Operator\\20_The Null-Coalescing Operator.csproj",
   "expectedPackageFiles": [

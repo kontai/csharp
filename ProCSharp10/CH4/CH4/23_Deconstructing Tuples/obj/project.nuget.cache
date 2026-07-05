@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "XQu/RrXP3GY=",
+=======
+  "dgSpecHash": "czJAuDz8DsU=",
+>>>>>>> 9ffcd25645dbf986484cf45af256f3c293d0abd2
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\23_Deconstructing Tuples\\23_Deconstructing Tuples.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "KxrE/NsVcaU=",
+=======
+  "dgSpecHash": "VWZJwW5NnXY=",
+>>>>>>> 9ffcd25645dbf986484cf45af256f3c293d0abd2
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\15_Value Types Containing Reference Types\\15_Value Types Containing Reference Types.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "F2qQGOPcMQ0=",
+=======
+  "dgSpecHash": "cR37/iq+3pA=",
+>>>>>>> 9ffcd25645dbf986484cf45af256f3c293d0abd2
   "success": true,
   "projectFilePath": "D:\\workspace\\csharp\\ProCSharp10\\CH4\\CH4\\19_Nullable Reference Types\\19_Nullable Reference Types.csproj",
   "expectedPackageFiles": [

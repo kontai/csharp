@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\ch3_string\bin\Debug\net9.0\ch3_string.exe
+D:\workspace\csharp\TestProject\ch3_string\bin\Debug\net9.0\ch3_string.deps.json
+D:\workspace\csharp\TestProject\ch3_string\bin\Debug\net9.0\ch3_string.runtimeconfig.json
+D:\workspace\csharp\TestProject\ch3_string\bin\Debug\net9.0\ch3_string.dll
+D:\workspace\csharp\TestProject\ch3_string\bin\Debug\net9.0\ch3_string.pdb
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ch3_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ch3_string.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ch3_string.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ch3_string.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ch3_string.sourcelink.json
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ch3_string.dll
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\refint\ch3_string.dll
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ch3_string.pdb
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ch3_string.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\ch3_string\obj\Debug\net9.0\ref\ch3_string.dll
