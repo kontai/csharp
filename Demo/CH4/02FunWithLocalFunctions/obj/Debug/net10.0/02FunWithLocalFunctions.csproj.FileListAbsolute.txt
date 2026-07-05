@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\bin\Debug\net10.0\02FunWithLocalFunctions.exe
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\bin\Debug\net10.0\02FunWithLocalFunctions.deps.json
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\bin\Debug\net10.0\02FunWithLocalFunctions.runtimeconfig.json
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\bin\Debug\net10.0\02FunWithLocalFunctions.dll
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\bin\Debug\net10.0\02FunWithLocalFunctions.pdb
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\02FunWithLocalFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\02FunWithLocalFunctions.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\02FunWithLocalFunctions.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\02FunWithLocalFunctions.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\02FunWithLocalFunctions.sourcelink.json
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\02FunWithLocalFunctions.dll
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\refint\02FunWithLocalFunctions.dll
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\02FunWithLocalFunctions.pdb
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\02FunWithLocalFunctions.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH4\02FunWithLocalFunctions\obj\Debug\net10.0\ref\02FunWithLocalFunctions.dll

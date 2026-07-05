@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CH5Encapsulation/1.0.0": {
+        "runtime": {
+          "CH5Encapsulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH5Encapsulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

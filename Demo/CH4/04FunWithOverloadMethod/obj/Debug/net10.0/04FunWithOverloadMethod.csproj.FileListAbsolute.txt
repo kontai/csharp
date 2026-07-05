@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\04FunWithOverloadMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\04FunWithOverloadMethod.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\04FunWithOverloadMethod.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\04FunWithOverloadMethod.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\04FunWithOverloadMethod.sourcelink.json
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\bin\Debug\net10.0\04FunWithOverloadMethod.exe
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\bin\Debug\net10.0\04FunWithOverloadMethod.deps.json
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\bin\Debug\net10.0\04FunWithOverloadMethod.runtimeconfig.json
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\bin\Debug\net10.0\04FunWithOverloadMethod.dll
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\bin\Debug\net10.0\04FunWithOverloadMethod.pdb
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\04FunWithOverloadMethod.dll
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\refint\04FunWithOverloadMethod.dll
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\04FunWithOverloadMethod.pdb
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\04FunWithOverloadMethod.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH4\04FunWithOverloadMethod\obj\Debug\net10.0\ref\04FunWithOverloadMethod.dll

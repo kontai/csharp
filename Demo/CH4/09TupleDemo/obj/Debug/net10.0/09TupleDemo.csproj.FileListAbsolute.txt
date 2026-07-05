@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH4\09TupleDemo\bin\Debug\net10.0\09TupleDemo.exe
+D:\workspace\csharp\Demo\CH4\09TupleDemo\bin\Debug\net10.0\09TupleDemo.deps.json
+D:\workspace\csharp\Demo\CH4\09TupleDemo\bin\Debug\net10.0\09TupleDemo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH4\09TupleDemo\bin\Debug\net10.0\09TupleDemo.dll
+D:\workspace\csharp\Demo\CH4\09TupleDemo\bin\Debug\net10.0\09TupleDemo.pdb
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\09TupleDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\09TupleDemo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\09TupleDemo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\09TupleDemo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\09TupleDemo.sourcelink.json
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\09TupleDemo.dll
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\refint\09TupleDemo.dll
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\09TupleDemo.pdb
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\09TupleDemo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH4\09TupleDemo\obj\Debug\net10.0\ref\09TupleDemo.dll

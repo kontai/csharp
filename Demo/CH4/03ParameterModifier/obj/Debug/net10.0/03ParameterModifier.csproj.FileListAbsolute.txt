@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\bin\Debug\net10.0\03ParameterModifier.exe
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\bin\Debug\net10.0\03ParameterModifier.deps.json
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\bin\Debug\net10.0\03ParameterModifier.runtimeconfig.json
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\bin\Debug\net10.0\03ParameterModifier.dll
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\bin\Debug\net10.0\03ParameterModifier.pdb
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\03ParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\03ParameterModifier.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\03ParameterModifier.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\03ParameterModifier.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\03ParameterModifier.sourcelink.json
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\03ParameterModifier.dll
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\refint\03ParameterModifier.dll
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\03ParameterModifier.pdb
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\03ParameterModifier.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH4\03ParameterModifier\obj\Debug\net10.0\ref\03ParameterModifier.dll
