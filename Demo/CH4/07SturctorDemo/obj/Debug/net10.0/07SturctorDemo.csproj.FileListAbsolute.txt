@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\07SturctorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\07SturctorDemo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\07SturctorDemo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\07SturctorDemo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\07SturctorDemo.sourcelink.json
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\bin\Debug\net10.0\07SturctorDemo.exe
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\bin\Debug\net10.0\07SturctorDemo.deps.json
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\bin\Debug\net10.0\07SturctorDemo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\bin\Debug\net10.0\07SturctorDemo.dll
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\bin\Debug\net10.0\07SturctorDemo.pdb
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\07SturctorDemo.dll
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\refint\07SturctorDemo.dll
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\07SturctorDemo.pdb
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\07SturctorDemo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH4\07SturctorDemo\obj\Debug\net10.0\ref\07SturctorDemo.dll

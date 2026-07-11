@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="01_Array/01_Array.csproj" />
+  <Project Path="02FunWithLocalFunctions/02FunWithLocalFunctions.csproj" />
+  <Project Path="03ParameterModifier/03ParameterModifier.csproj" />
+  <Project Path="04FunWithOverloadMethod/04FunWithOverloadMethod.csproj" />
+  <Project Path="05CheckNullParameter/05CheckNullParameter.csproj" />
+  <Project Path="06enumDemo/06enumDemo.csproj" />
+  <Project Path="07SturctorDemo/07SturctorDemo.csproj" />
+  <Project Path="08NullableDemo/08NullableDemo.csproj" Id="70a16d24-63a3-4ba6-ba3b-7ca79dbdf6bb" />
+  <Project Path="09TupleDemo/09TupleDemo.csproj" Id="4231fd37-96a1-4d89-abef-5cbd74ad80fb" />
+  <Project Path="10UnderstandEncapsulation/10UnderstandEncapsulation.csproj" Id="33668c30-04d0-41f4-8a21-b7ee3e874f38" />
+</Solution>

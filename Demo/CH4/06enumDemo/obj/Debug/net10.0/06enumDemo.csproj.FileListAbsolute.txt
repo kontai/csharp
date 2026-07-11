@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH4\06enumDemo\bin\Debug\net10.0\06enumDemo.exe
+D:\workspace\csharp\Demo\CH4\06enumDemo\bin\Debug\net10.0\06enumDemo.deps.json
+D:\workspace\csharp\Demo\CH4\06enumDemo\bin\Debug\net10.0\06enumDemo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH4\06enumDemo\bin\Debug\net10.0\06enumDemo.dll
+D:\workspace\csharp\Demo\CH4\06enumDemo\bin\Debug\net10.0\06enumDemo.pdb
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\06enumDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\06enumDemo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\06enumDemo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\06enumDemo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\06enumDemo.sourcelink.json
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\06enumDemo.dll
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\refint\06enumDemo.dll
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\06enumDemo.pdb
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\06enumDemo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH4\06enumDemo\obj\Debug\net10.0\ref\06enumDemo.dll

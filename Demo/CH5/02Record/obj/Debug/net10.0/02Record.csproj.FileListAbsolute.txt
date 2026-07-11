@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH5\02Record\bin\Debug\net10.0\02Record.exe
+D:\workspace\csharp\Demo\CH5\02Record\bin\Debug\net10.0\02Record.deps.json
+D:\workspace\csharp\Demo\CH5\02Record\bin\Debug\net10.0\02Record.runtimeconfig.json
+D:\workspace\csharp\Demo\CH5\02Record\bin\Debug\net10.0\02Record.dll
+D:\workspace\csharp\Demo\CH5\02Record\bin\Debug\net10.0\02Record.pdb
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\02Record.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\02Record.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\02Record.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\02Record.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\02Record.sourcelink.json
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\02Record.dll
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\refint\02Record.dll
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\02Record.pdb
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\02Record.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH5\02Record\obj\Debug\net10.0\ref\02Record.dll

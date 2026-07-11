@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="01sealed/01sealed.csproj" />
+  <Project Path="02InheritanceDetails/02InheritanceDetails.csproj" />
+  <Project Path="03InheritanceRecord/03InheritanceRecord.csproj" Id="6b431280-727c-4595-9842-23d7a8c7e57f" />
+  <Project Path="04VirtualAndOverride/04VirtualAndOverride.csproj" Id="4c115920-31ec-40a4-b892-833bb05a7214" />
+  <Project Path="05Abstract/05Abstract.csproj" Id="6914ecae-f2c3-4c16-ba5b-e42db140b469" />
+</Solution>

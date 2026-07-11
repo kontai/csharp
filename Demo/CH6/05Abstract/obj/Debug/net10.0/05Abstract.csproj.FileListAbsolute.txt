@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH6\05Abstract\bin\Debug\net10.0\05Abstract.exe
+D:\workspace\csharp\Demo\CH6\05Abstract\bin\Debug\net10.0\05Abstract.deps.json
+D:\workspace\csharp\Demo\CH6\05Abstract\bin\Debug\net10.0\05Abstract.runtimeconfig.json
+D:\workspace\csharp\Demo\CH6\05Abstract\bin\Debug\net10.0\05Abstract.dll
+D:\workspace\csharp\Demo\CH6\05Abstract\bin\Debug\net10.0\05Abstract.pdb
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\05Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\05Abstract.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\05Abstract.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\05Abstract.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\05Abstract.sourcelink.json
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\05Abstract.dll
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\refint\05Abstract.dll
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\05Abstract.pdb
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\05Abstract.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH6\05Abstract\obj\Debug\net10.0\ref\05Abstract.dll

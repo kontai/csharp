@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\bin\Debug\net10.0\03InheritanceRecord.exe
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\bin\Debug\net10.0\03InheritanceRecord.deps.json
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\bin\Debug\net10.0\03InheritanceRecord.runtimeconfig.json
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\bin\Debug\net10.0\03InheritanceRecord.dll
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\bin\Debug\net10.0\03InheritanceRecord.pdb
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\03InheritanceRecord.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\03InheritanceRecord.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\03InheritanceRecord.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\03InheritanceRecord.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\03InheritanceRecord.sourcelink.json
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\03InheritanceRecord.dll
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\refint\03InheritanceRecord.dll
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\03InheritanceRecord.pdb
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\03InheritanceRecord.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH6\03InheritanceRecord\obj\Debug\net10.0\ref\03InheritanceRecord.dll

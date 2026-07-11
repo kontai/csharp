@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\bin\Debug\net10.0\CH5Encapsulation.exe
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\bin\Debug\net10.0\CH5Encapsulation.deps.json
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\bin\Debug\net10.0\CH5Encapsulation.runtimeconfig.json
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\bin\Debug\net10.0\CH5Encapsulation.dll
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\bin\Debug\net10.0\CH5Encapsulation.pdb
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\CH5Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\CH5Encapsulation.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\CH5Encapsulation.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\CH5Encapsulation.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\CH5Encapsulation.sourcelink.json
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\CH5Encapsulation.dll
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\refint\CH5Encapsulation.dll
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\CH5Encapsulation.pdb
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\CH5Encapsulation.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH5\CH5Encapsulation\obj\Debug\net10.0\ref\CH5Encapsulation.dll

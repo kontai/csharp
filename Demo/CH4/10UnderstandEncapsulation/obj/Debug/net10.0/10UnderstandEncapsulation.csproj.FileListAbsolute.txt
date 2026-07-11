@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\bin\Debug\net10.0\10UnderstandEncapsulation.exe
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\bin\Debug\net10.0\10UnderstandEncapsulation.deps.json
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\bin\Debug\net10.0\10UnderstandEncapsulation.runtimeconfig.json
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\bin\Debug\net10.0\10UnderstandEncapsulation.dll
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\bin\Debug\net10.0\10UnderstandEncapsulation.pdb
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\10UnderstandEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\10UnderstandEncapsulation.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\10UnderstandEncapsulation.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\10UnderstandEncapsulation.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\10UnderstandEncapsulation.sourcelink.json
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\10UnderstandEncapsulation.dll
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\refint\10UnderstandEncapsulation.dll
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\10UnderstandEncapsulation.pdb
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\10UnderstandEncapsulation.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH4\10UnderstandEncapsulation\obj\Debug\net10.0\ref\10UnderstandEncapsulation.dll
