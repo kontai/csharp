@@ -1,0 +1,5 @@
+D:\workspace\csharp\Demo\CH6\01sealed\obj\Debug\net10.0\01sealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH6\01sealed\obj\Debug\net10.0\01sealed.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH6\01sealed\obj\Debug\net10.0\01sealed.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH6\01sealed\obj\Debug\net10.0\01sealed.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH6\01sealed\obj\Debug\net10.0\01sealed.sourcelink.json

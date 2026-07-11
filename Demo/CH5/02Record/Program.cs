@@ -1,4 +1,10 @@
-﻿CarRecord myCar1 = new CarRecord("Ford", "Mustang", "Blue"); //readonly, immutable,initialize
+﻿using readOnlyRecord;
+
+ReadonlyWithPropertySyntax r = new ReadonlyWithPropertySyntax(2.3, 3.4, 4.5);
+var (a, b, c) = r;
+Console.WriteLine("a={0},b={1},c={2}", a, b, c);
+
+CarRecord myCar1 = new CarRecord("Ford", "Mustang", "Blue"); //readonly, immutable,initialize
 //myCar1.Color = "Red";   //error, readonly property
 Console.WriteLine($"{myCar1.Make} {myCar1.Model} {myCar1.Color}");
 

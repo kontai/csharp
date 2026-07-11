@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32537ABB-7D94-492A-AF56-11FB7433064C}|02Record\\02Record.csproj|d:\\workspace\\csharp\\demo\\ch5\\02record\\readonlyrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32537ABB-7D94-492A-AF56-11FB7433064C}|02Record\\02Record.csproj|solutionrelative:02record\\readonlyrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32537ABB-7D94-492A-AF56-11FB7433064C}|02Record\\02Record.csproj|d:\\workspace\\csharp\\demo\\ch5\\02record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32537ABB-7D94-492A-AF56-11FB7433064C}|02Record\\02Record.csproj|solutionrelative:02record\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -59,12 +63,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "readonlyRecord.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH5\\02Record\\readonlyRecord.cs",
+              "RelativeDocumentMoniker": "02Record\\readonlyRecord.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH5\\02Record\\readonlyRecord.cs",
+              "RelativeToolTip": "02Record\\readonlyRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:45:58.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH5\\02Record\\Program.cs",
               "RelativeDocumentMoniker": "02Record\\Program.cs",
               "ToolTip": "D:\\workspace\\csharp\\Demo\\CH5\\02Record\\Program.cs",
               "RelativeToolTip": "02Record\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-05T10:00:56.122Z",
               "EditorCaption": ""
