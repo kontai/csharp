@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\bin\Debug\net10.0\TupoDemo.exe
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\bin\Debug\net10.0\TupoDemo.deps.json
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\bin\Debug\net10.0\TupoDemo.runtimeconfig.json
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\bin\Debug\net10.0\TupoDemo.dll
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\bin\Debug\net10.0\TupoDemo.pdb
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\TupoDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\TupoDemo.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\TupoDemo.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\TupoDemo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\TupoDemo.sourcelink.json
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\TupoDemo.dll
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\refint\TupoDemo.dll
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\TupoDemo.pdb
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\TupoDemo.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\CH4 Demo\TupoDemo\obj\Debug\net10.0\ref\TupoDemo.dll
