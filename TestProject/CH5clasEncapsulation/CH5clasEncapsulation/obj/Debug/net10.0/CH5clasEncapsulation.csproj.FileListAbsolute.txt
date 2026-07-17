@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\CH5clasEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\CH5clasEncapsulation.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\CH5clasEncapsulation.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\CH5clasEncapsulation.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\CH5clasEncapsulation.sourcelink.json
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\bin\Debug\net10.0\CH5clasEncapsulation.exe
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\bin\Debug\net10.0\CH5clasEncapsulation.deps.json
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\bin\Debug\net10.0\CH5clasEncapsulation.runtimeconfig.json
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\bin\Debug\net10.0\CH5clasEncapsulation.dll
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\bin\Debug\net10.0\CH5clasEncapsulation.pdb
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\CH5clasEncapsulation.dll
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\refint\CH5clasEncapsulation.dll
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\CH5clasEncapsulation.pdb
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\CH5clasEncapsulation.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\CH5clasEncapsulation\CH5clasEncapsulation\obj\Debug\net10.0\ref\CH5clasEncapsulation.dll
