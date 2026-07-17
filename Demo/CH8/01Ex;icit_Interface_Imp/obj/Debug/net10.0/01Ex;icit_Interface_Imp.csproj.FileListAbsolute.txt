@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\bin\Debug\net10.0\01Ex;icit_Interface_Imp.exe
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\bin\Debug\net10.0\01Ex;icit_Interface_Imp.deps.json
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\bin\Debug\net10.0\01Ex;icit_Interface_Imp.runtimeconfig.json
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\bin\Debug\net10.0\01Ex;icit_Interface_Imp.dll
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\bin\Debug\net10.0\01Ex;icit_Interface_Imp.pdb
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\01Ex;icit_Interface_Imp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\01Ex;icit_Interface_Imp.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\01Ex;icit_Interface_Imp.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\01Ex;icit_Interface_Imp.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\01Ex;icit_Interface_Imp.sourcelink.json
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\01Ex;icit_Interface_Imp.dll
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\refint\01Ex;icit_Interface_Imp.dll
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\01Ex;icit_Interface_Imp.pdb
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\01Ex;icit_Interface_Imp.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH8\01Ex;icit_Interface_Imp\obj\Debug\net10.0\ref\01Ex;icit_Interface_Imp.dll

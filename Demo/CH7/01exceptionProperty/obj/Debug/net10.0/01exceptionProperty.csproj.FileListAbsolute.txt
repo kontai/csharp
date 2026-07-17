@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\01exceptionProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\01exceptionProperty.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\01exceptionProperty.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\01exceptionProperty.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\01exceptionProperty.sourcelink.json
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\bin\Debug\net10.0\01exceptionProperty.exe
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\bin\Debug\net10.0\01exceptionProperty.deps.json
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\bin\Debug\net10.0\01exceptionProperty.runtimeconfig.json
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\bin\Debug\net10.0\01exceptionProperty.dll
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\bin\Debug\net10.0\01exceptionProperty.pdb
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\01exceptionProperty.dll
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\refint\01exceptionProperty.dll
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\01exceptionProperty.pdb
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\01exceptionProperty.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH7\01exceptionProperty\obj\Debug\net10.0\ref\01exceptionProperty.dll
