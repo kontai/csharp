@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\bin\Debug\net10.0\ICloneableDemo.exe
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\bin\Debug\net10.0\ICloneableDemo.deps.json
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\bin\Debug\net10.0\ICloneableDemo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\bin\Debug\net10.0\ICloneableDemo.dll
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\bin\Debug\net10.0\ICloneableDemo.pdb
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ICloneableDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ICloneableDemo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ICloneableDemo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ICloneableDemo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ICloneableDemo.sourcelink.json
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ICloneableDemo.dll
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\refint\ICloneableDemo.dll
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ICloneableDemo.pdb
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ICloneableDemo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH8\ICloneableDemo\obj\Debug\net10.0\ref\ICloneableDemo.dll

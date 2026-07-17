@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\IEnumerableIEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\IEnumerableIEnumerator.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\IEnumerableIEnumerator.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\IEnumerableIEnumerator.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\IEnumerableIEnumerator.sourcelink.json
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\bin\Debug\net10.0\IEnumerableIEnumerator.exe
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\bin\Debug\net10.0\IEnumerableIEnumerator.deps.json
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\bin\Debug\net10.0\IEnumerableIEnumerator.runtimeconfig.json
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\bin\Debug\net10.0\IEnumerableIEnumerator.dll
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\bin\Debug\net10.0\IEnumerableIEnumerator.pdb
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\IEnumerableIEnumerator.dll
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\refint\IEnumerableIEnumerator.dll
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\IEnumerableIEnumerator.pdb
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\IEnumerableIEnumerator.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH8\IEnumerableIEnumerator\obj\Debug\net10.0\ref\IEnumerableIEnumerator.dll

@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\bin\Debug\net10.0\BestGCPerformance.exe
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\bin\Debug\net10.0\BestGCPerformance.deps.json
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\bin\Debug\net10.0\BestGCPerformance.runtimeconfig.json
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\bin\Debug\net10.0\BestGCPerformance.dll
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\bin\Debug\net10.0\BestGCPerformance.pdb
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\BestGCPerformance.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\BestGCPerformance.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\BestGCPerformance.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\BestGCPerformance.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\BestGCPerformance.sourcelink.json
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\BestGCPerformance.dll
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\refint\BestGCPerformance.dll
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\BestGCPerformance.pdb
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\BestGCPerformance.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH9\BestGCPerformance\obj\Debug\net10.0\ref\BestGCPerformance.dll

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BestGCPerformance/BestGCPerformance.csproj" Id="4246345b-1993-4080-9e7c-d6b5b5cf85d6" />
+  <Project Path="BuildingDisposableObjects/BuildingDisposableObjects.csproj" />
+  <Project Path="LazyC lass/LazyC lass.csproj" Id="073ce7d2-4e5b-49d4-a4df-d51c899d4502" />
+</Solution>

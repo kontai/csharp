@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\bin\Debug\net10.0\CustomEnumerableFunc.exe
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\bin\Debug\net10.0\CustomEnumerableFunc.deps.json
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\bin\Debug\net10.0\CustomEnumerableFunc.runtimeconfig.json
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\bin\Debug\net10.0\CustomEnumerableFunc.dll
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\bin\Debug\net10.0\CustomEnumerableFunc.pdb
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\CustomEnumerableFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\CustomEnumerableFunc.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\CustomEnumerableFunc.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\CustomEnumerableFunc.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\CustomEnumerableFunc.sourcelink.json
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\CustomEnumerableFunc.dll
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\refint\CustomEnumerableFunc.dll
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\CustomEnumerableFunc.pdb
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\CustomEnumerableFunc.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH8\CustomEnumerableFunc\obj\Debug\net10.0\ref\CustomEnumerableFunc.dll

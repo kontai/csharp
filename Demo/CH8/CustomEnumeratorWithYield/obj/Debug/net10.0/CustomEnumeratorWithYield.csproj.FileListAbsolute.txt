@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\bin\Debug\net10.0\CustomEnumeratorWithYield.exe
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\bin\Debug\net10.0\CustomEnumeratorWithYield.deps.json
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\bin\Debug\net10.0\CustomEnumeratorWithYield.runtimeconfig.json
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\bin\Debug\net10.0\CustomEnumeratorWithYield.dll
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\bin\Debug\net10.0\CustomEnumeratorWithYield.pdb
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\CustomEnumeratorWithYield.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\CustomEnumeratorWithYield.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\CustomEnumeratorWithYield.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\CustomEnumeratorWithYield.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\CustomEnumeratorWithYield.sourcelink.json
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\CustomEnumeratorWithYield.dll
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\refint\CustomEnumeratorWithYield.dll
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\CustomEnumeratorWithYield.pdb
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\CustomEnumeratorWithYield.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH8\CustomEnumeratorWithYield\obj\Debug\net10.0\ref\CustomEnumeratorWithYield.dll
