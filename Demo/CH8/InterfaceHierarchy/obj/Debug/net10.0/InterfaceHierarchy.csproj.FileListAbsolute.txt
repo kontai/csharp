@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\bin\Debug\net10.0\InterfaceHierarchy.exe
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\bin\Debug\net10.0\InterfaceHierarchy.deps.json
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\bin\Debug\net10.0\InterfaceHierarchy.runtimeconfig.json
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\bin\Debug\net10.0\InterfaceHierarchy.dll
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\bin\Debug\net10.0\InterfaceHierarchy.pdb
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\InterfaceHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\InterfaceHierarchy.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\InterfaceHierarchy.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\InterfaceHierarchy.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\InterfaceHierarchy.sourcelink.json
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\InterfaceHierarchy.dll
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\refint\InterfaceHierarchy.dll
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\InterfaceHierarchy.pdb
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\InterfaceHierarchy.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH8\InterfaceHierarchy\obj\Debug\net10.0\ref\InterfaceHierarchy.dll

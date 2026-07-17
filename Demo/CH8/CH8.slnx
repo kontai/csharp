@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CustomEnumerableFunc/CustomEnumerableFunc.csproj" Id="854ab8aa-5b74-455b-9713-3ad1fe6072b0" />
+  <Project Path="CustomEnumeratorWithYield/CustomEnumeratorWithYield.csproj" Id="f87c7663-793f-4ffa-ab64-e7d03057cff4" />
+  <Project Path="ICloneableDemo/ICloneableDemo.csproj" Id="78f65d46-c752-46df-b27d-880f1a1a7696" />
+  <Project Path="IEnumerableIEnumerator/IEnumerableIEnumerator.csproj" />
+  <Project Path="InterfaceHierarchy/InterfaceHierarchy.csproj" />
+</Solution>

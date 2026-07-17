@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\bin\Debug\net10.0\BuildingDisposableObjects.exe
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\bin\Debug\net10.0\BuildingDisposableObjects.deps.json
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\bin\Debug\net10.0\BuildingDisposableObjects.runtimeconfig.json
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\bin\Debug\net10.0\BuildingDisposableObjects.dll
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\bin\Debug\net10.0\BuildingDisposableObjects.pdb
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\BuildingDisposableObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\BuildingDisposableObjects.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\BuildingDisposableObjects.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\BuildingDisposableObjects.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\BuildingDisposableObjects.sourcelink.json
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\BuildingDisposableObjects.dll
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\refint\BuildingDisposableObjects.dll
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\BuildingDisposableObjects.pdb
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\BuildingDisposableObjects.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH9\BuildingDisposableObjects\obj\Debug\net10.0\ref\BuildingDisposableObjects.dll

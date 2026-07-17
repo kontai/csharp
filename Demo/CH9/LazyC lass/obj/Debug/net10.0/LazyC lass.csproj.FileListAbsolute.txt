@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\LazyC lass.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\LazyC lass.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\LazyC lass.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\LazyC lass.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\LazyC lass.sourcelink.json
+D:\workspace\csharp\Demo\CH9\LazyC lass\bin\Debug\net10.0\LazyC lass.exe
+D:\workspace\csharp\Demo\CH9\LazyC lass\bin\Debug\net10.0\LazyC lass.deps.json
+D:\workspace\csharp\Demo\CH9\LazyC lass\bin\Debug\net10.0\LazyC lass.runtimeconfig.json
+D:\workspace\csharp\Demo\CH9\LazyC lass\bin\Debug\net10.0\LazyC lass.dll
+D:\workspace\csharp\Demo\CH9\LazyC lass\bin\Debug\net10.0\LazyC lass.pdb
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\LazyC lass.dll
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\refint\LazyC lass.dll
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\LazyC lass.pdb
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\LazyC lass.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH9\LazyC lass\obj\Debug\net10.0\ref\LazyC lass.dll
