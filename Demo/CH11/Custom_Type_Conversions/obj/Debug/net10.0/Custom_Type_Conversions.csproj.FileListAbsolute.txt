@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\bin\Debug\net10.0\Custom_Type_Conversions.exe
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\bin\Debug\net10.0\Custom_Type_Conversions.deps.json
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\bin\Debug\net10.0\Custom_Type_Conversions.runtimeconfig.json
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\bin\Debug\net10.0\Custom_Type_Conversions.dll
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\bin\Debug\net10.0\Custom_Type_Conversions.pdb
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\Custom_Type_Conversions.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\Custom_Type_Conversions.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\Custom_Type_Conversions.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\Custom_Type_Conversions.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\Custom_Type_Conversions.sourcelink.json
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\Custom_Type_Conversions.dll
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\refint\Custom_Type_Conversions.dll
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\Custom_Type_Conversions.pdb
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\Custom_Type_Conversions.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH11\Custom_Type_Conversions\obj\Debug\net10.0\ref\Custom_Type_Conversions.dll

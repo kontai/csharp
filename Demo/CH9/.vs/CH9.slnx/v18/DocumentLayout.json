@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{073CE7D2-4E5B-49D4-A4DF-D51C899D4502}|LazyC lass\\LazyC lass.csproj|d:\\workspace\\csharp\\demo\\ch9\\lazyc lass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{073CE7D2-4E5B-49D4-A4DF-D51C899D4502}|LazyC lass\\LazyC lass.csproj|solutionrelative:lazyc lass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4246345B-1993-4080-9E7C-D6B5B5CF85D6}|BestGCPerformance\\BestGCPerformance.csproj|d:\\workspace\\csharp\\demo\\ch9\\bestgcperformance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4246345B-1993-4080-9E7C-D6B5B5CF85D6}|BestGCPerformance\\BestGCPerformance.csproj|solutionrelative:bestgcperformance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ED1F90B-5111-98C1-E4BE-91D4A882B35E}|BuildingDisposableObjects\\BuildingDisposableObjects.csproj|d:\\workspace\\csharp\\demo\\ch9\\buildingdisposableobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ED1F90B-5111-98C1-E4BE-91D4A882B35E}|BuildingDisposableObjects\\BuildingDisposableObjects.csproj|solutionrelative:buildingdisposableobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073CE7D2-4E5B-49D4-A4DF-D51C899D4502}|LazyC lass\\LazyC lass.csproj|d:\\workspace\\csharp\\demo\\ch9\\lazyc lass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073CE7D2-4E5B-49D4-A4DF-D51C899D4502}|LazyC lass\\LazyC lass.csproj|solutionrelative:lazyc lass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH9\\LazyC lass\\Program.cs",
               "RelativeDocumentMoniker": "LazyC lass\\Program.cs",
@@ -75,27 +75,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH9\\BestGCPerformance\\Program.cs",
               "RelativeDocumentMoniker": "BestGCPerformance\\Program.cs",
               "ToolTip": "D:\\workspace\\csharp\\Demo\\CH9\\BestGCPerformance\\Program.cs",
               "RelativeToolTip": "BestGCPerformance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-15T03:14:29.948Z"
+              "WhenOpened": "2026-07-15T03:14:29.948Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH9\\BuildingDisposableObjects\\Program.cs",
               "RelativeDocumentMoniker": "BuildingDisposableObjects\\Program.cs",
               "ToolTip": "D:\\workspace\\csharp\\Demo\\CH9\\BuildingDisposableObjects\\Program.cs",
               "RelativeToolTip": "BuildingDisposableObjects\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-14T16:30:44.907Z"
+              "WhenOpened": "2026-07-14T16:30:44.907Z",
+              "EditorCaption": ""
             }
           ]
         },

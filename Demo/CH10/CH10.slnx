@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01GernerricInterface/01GernerricInterface.csproj" />
+  <Project Path="02WorkingWithGerneric/02WorkingWithGerneric.csproj" Id="54f9b29c-feff-45c5-b347-855bfacf7cf2" />
+  <Project Path="03CustomGenericMethods/03CustomGenericMethods.csproj" Id="1244db3c-4940-4f1f-a0c5-bb2b2bb8cc11" />
+  <Project Path="04ResetGenericParameter/04ResetGenericParameter.csproj" Id="2f7f6997-0fc1-4aed-b758-a73b65e1a2ba" />
+  <Project Path="05GenericWhere/05GenericWhere.csproj" Id="9c9fb052-7b9f-4df1-bc70-ff5afa7ade42" />
+  <Project Path="06Indexer/06Indexer.csproj" Id="c744619d-f803-4b34-a63f-e9e756897c4b" />
+</Solution>

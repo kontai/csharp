@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\bin\Debug\net10.0\01GernerricInterface.exe
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\bin\Debug\net10.0\01GernerricInterface.deps.json
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\bin\Debug\net10.0\01GernerricInterface.runtimeconfig.json
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\bin\Debug\net10.0\01GernerricInterface.dll
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\bin\Debug\net10.0\01GernerricInterface.pdb
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\01GernerricInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\01GernerricInterface.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\01GernerricInterface.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\01GernerricInterface.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\01GernerricInterface.sourcelink.json
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\01GernerricInterface.dll
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\refint\01GernerricInterface.dll
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\01GernerricInterface.pdb
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\01GernerricInterface.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH10\01GernerricInterface\obj\Debug\net10.0\ref\01GernerricInterface.dll

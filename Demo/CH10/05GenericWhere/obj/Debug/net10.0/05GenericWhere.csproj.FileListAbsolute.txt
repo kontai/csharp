@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH10\05GenericWhere\bin\Debug\net10.0\05GenericWhere.exe
+D:\workspace\csharp\Demo\CH10\05GenericWhere\bin\Debug\net10.0\05GenericWhere.deps.json
+D:\workspace\csharp\Demo\CH10\05GenericWhere\bin\Debug\net10.0\05GenericWhere.runtimeconfig.json
+D:\workspace\csharp\Demo\CH10\05GenericWhere\bin\Debug\net10.0\05GenericWhere.dll
+D:\workspace\csharp\Demo\CH10\05GenericWhere\bin\Debug\net10.0\05GenericWhere.pdb
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\05GenericWhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\05GenericWhere.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\05GenericWhere.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\05GenericWhere.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\05GenericWhere.sourcelink.json
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\05GenericWhere.dll
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\refint\05GenericWhere.dll
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\05GenericWhere.pdb
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\05GenericWhere.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH10\05GenericWhere\obj\Debug\net10.0\ref\05GenericWhere.dll

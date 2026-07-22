@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\bin\Debug\net10.0\02WorkingWithGerneric.exe
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\bin\Debug\net10.0\02WorkingWithGerneric.deps.json
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\bin\Debug\net10.0\02WorkingWithGerneric.runtimeconfig.json
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\bin\Debug\net10.0\02WorkingWithGerneric.dll
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\bin\Debug\net10.0\02WorkingWithGerneric.pdb
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\02WorkingWithGerneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\02WorkingWithGerneric.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\02WorkingWithGerneric.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\02WorkingWithGerneric.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\02WorkingWithGerneric.sourcelink.json
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\02WorkingWithGerneric.dll
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\refint\02WorkingWithGerneric.dll
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\02WorkingWithGerneric.pdb
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\02WorkingWithGerneric.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH10\02WorkingWithGerneric\obj\Debug\net10.0\ref\02WorkingWithGerneric.dll

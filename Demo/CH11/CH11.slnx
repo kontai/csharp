@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="AnonymousTypes/AnonymousTypes.csproj" Id="c04f3dcb-42c4-4b7b-8b92-6fbe46c0f6cd" />
+  <Project Path="CustomConversions/CustomConversions.csproj" Id="b7cfbb5e-4f8d-4538-8556-9034dac1d841" />
+  <Project Path="Custom_Type_Conversions/Custom_Type_Conversions.csproj" />
+  <Project Path="Indexer/IndexerDemo.csproj" />
+  <Project Path="MyExtensions/MyExtensions.csproj" Id="00eefb5c-bc33-4fe5-9d3f-91f1cc60bb70" />
+  <Project Path="MyExtensions_ExtensionMethod/MyExtensions_ExtensionMethod.csproj" Id="0048a4dc-347c-4a22-b8ce-1b36489a3208" />
+  <Project Path="OverloadedOps/OverloadedOps.csproj" />
+</Solution>

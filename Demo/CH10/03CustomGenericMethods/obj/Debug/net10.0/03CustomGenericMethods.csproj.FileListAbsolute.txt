@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\bin\Debug\net10.0\03CustomGenericMethods.exe
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\bin\Debug\net10.0\03CustomGenericMethods.deps.json
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\bin\Debug\net10.0\03CustomGenericMethods.runtimeconfig.json
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\bin\Debug\net10.0\03CustomGenericMethods.dll
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\bin\Debug\net10.0\03CustomGenericMethods.pdb
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\03CustomGenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\03CustomGenericMethods.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\03CustomGenericMethods.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\03CustomGenericMethods.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\03CustomGenericMethods.sourcelink.json
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\03CustomGenericMethods.dll
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\refint\03CustomGenericMethods.dll
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\03CustomGenericMethods.pdb
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\03CustomGenericMethods.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH10\03CustomGenericMethods\obj\Debug\net10.0\ref\03CustomGenericMethods.dll

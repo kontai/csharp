@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH11\MyExtensions\bin\Debug\net10.0\MyExtensions.exe
+D:\workspace\csharp\Demo\CH11\MyExtensions\bin\Debug\net10.0\MyExtensions.deps.json
+D:\workspace\csharp\Demo\CH11\MyExtensions\bin\Debug\net10.0\MyExtensions.runtimeconfig.json
+D:\workspace\csharp\Demo\CH11\MyExtensions\bin\Debug\net10.0\MyExtensions.dll
+D:\workspace\csharp\Demo\CH11\MyExtensions\bin\Debug\net10.0\MyExtensions.pdb
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\MyExtensions.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\MyExtensions.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\MyExtensions.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\MyExtensions.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\MyExtensions.sourcelink.json
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\MyExtensions.dll
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\refint\MyExtensions.dll
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\MyExtensions.pdb
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\MyExtensions.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH11\MyExtensions\obj\Debug\net10.0\ref\MyExtensions.dll
