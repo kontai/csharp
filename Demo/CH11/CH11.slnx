@@ -6,4 +6,5 @@
   <Project Path="MyExtensions/MyExtensions.csproj" Id="00eefb5c-bc33-4fe5-9d3f-91f1cc60bb70" />
   <Project Path="MyExtensions_ExtensionMethod/MyExtensions_ExtensionMethod.csproj" Id="0048a4dc-347c-4a22-b8ce-1b36489a3208" />
   <Project Path="OverloadedOps/OverloadedOps.csproj" />
+  <Project Path="UnSafeCode/UnSafeCode.csproj" Id="0b8ebb67-62b9-4760-a902-8e1b4ca87790" />
 </Solution>

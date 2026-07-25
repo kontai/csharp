@@ -1,4 +1,6 @@
-﻿Console.WriteLine("***** 體驗匿名型別的樂趣 *****\n");
+﻿using System.Reflection.Metadata.Ecma335;
+
+Console.WriteLine("***** 體驗匿名型別的樂趣 *****\n");
 
 // ==========================================
 // 🌟 寫法 1：直接在程式碼中 (Inline) 建立匿名型別
@@ -13,7 +15,6 @@ Console.WriteLine("My car is a {0} {1}.", myCar.Color, myCar.Make);
 // 因為匿名型別的屬性是唯讀的！
 // myCar.Color = "Black"; 
 
-
 // ==========================================
 // 🌟 寫法 2：透過方法動態組裝
 // ==========================================
@@ -21,6 +22,23 @@ BuildAnonymousType("BMW", "Black", 90);
 
 var myTuple = (Color: "Blue", Make: "Honda", CurrentSpeed: 55);
 Console.WriteLine(myTuple);
+
+
+//內嵌匿名類
+var purchItem = new
+{
+    purchDate = DateTime.Now,
+    ItemBought = new
+    {
+        Color = "Red",
+        Make = "Saab",
+        CurrentSpeed = 55
+    },
+    Price = 34.000
+};
+
+//顯示底層型別
+ReflectOverAnonymousType(purchItem);
 
 // 輔助方法：接收三個參數，把它們打包成一個匿名型別
 static void BuildAnonymousType(string make, string color, int currSp)
@@ -32,4 +50,16 @@ static void BuildAnonymousType(string make, string color, int currSp)
 
     // 🎁 編譯器的免費大禮：它幫你覆寫了 ToString()！
     Console.WriteLine("ToString() == {0}", car.ToString());
+}
+
+static void ReflectOverAnonymousType(object obj)
+{
+    Console.WriteLine("obj is an instance of: {0}",
+      obj.GetType().Name);
+    Console.WriteLine("Base class of {0} is {1}",
+      obj.GetType().Name, obj.GetType().BaseType);
+    Console.WriteLine("obj.ToString() == {0}", obj.ToString());
+    Console.WriteLine("obj.GetHashCode() == {0}",
+      obj.GetHashCode());
+    Console.WriteLine();
 }

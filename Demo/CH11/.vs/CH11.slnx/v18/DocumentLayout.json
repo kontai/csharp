@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B8EBB67-62B9-4760-A902-8E1B4CA87790}|UnSafeCode\\UnSafeCode.csproj|d:\\workspace\\csharp\\demo\\ch11\\unsafecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8EBB67-62B9-4760-A902-8E1B4CA87790}|UnSafeCode\\UnSafeCode.csproj|solutionrelative:unsafecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C04F3DCB-42C4-4B7B-8B92-6FBE46C0F6CD}|AnonymousTypes\\AnonymousTypes.csproj|d:\\workspace\\csharp\\demo\\ch11\\anonymoustypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C04F3DCB-42C4-4B7B-8B92-6FBE46C0F6CD}|AnonymousTypes\\AnonymousTypes.csproj|solutionrelative:anonymoustypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0048A4DC-347C-4A22-B8CE-1B36489A3208}|MyExtensions_ExtensionMethod\\MyExtensions_ExtensionMethod.csproj|d:\\workspace\\csharp\\demo\\ch11\\myextensions_extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0048A4DC-347C-4A22-B8CE-1B36489A3208}|MyExtensions_ExtensionMethod\\MyExtensions_ExtensionMethod.csproj|solutionrelative:myextensions_extensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0048A4DC-347C-4A22-B8CE-1B36489A3208}|MyExtensions_ExtensionMethod\\MyExtensions_ExtensionMethod.csproj|d:\\workspace\\csharp\\demo\\ch11\\myextensions_extensionmethod\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0048A4DC-347C-4A22-B8CE-1B36489A3208}|MyExtensions_ExtensionMethod\\MyExtensions_ExtensionMethod.csproj|solutionrelative:myextensions_extensionmethod\\cars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0048A4DC-347C-4A22-B8CE-1B36489A3208}|MyExtensions_ExtensionMethod\\MyExtensions_ExtensionMethod.csproj|d:\\workspace\\csharp\\demo\\ch11\\myextensions_extensionmethod\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0048A4DC-347C-4A22-B8CE-1B36489A3208}|MyExtensions_ExtensionMethod\\MyExtensions_ExtensionMethod.csproj|solutionrelative:myextensions_extensionmethod\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0048A4DC-347C-4A22-B8CE-1B36489A3208}|MyExtensions_ExtensionMethod\\MyExtensions_ExtensionMethod.csproj|d:\\workspace\\csharp\\demo\\ch11\\myextensions_extensionmethod\\ienumeratorext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0048A4DC-347C-4A22-B8CE-1B36489A3208}|MyExtensions_ExtensionMethod\\MyExtensions_ExtensionMethod.csproj|solutionrelative:myextensions_extensionmethod\\ienumeratorext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00EEFB5C-BC33-4FE5-9D3F-91F1CC60BB70}|MyExtensions\\MyExtensions.csproj|d:\\workspace\\csharp\\demo\\ch11\\myextensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00EEFB5C-BC33-4FE5-9D3F-91F1CC60BB70}|MyExtensions\\MyExtensions.csproj|solutionrelative:myextensions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00EEFB5C-BC33-4FE5-9D3F-91F1CC60BB70}|MyExtensions\\MyExtensions.csproj|d:\\workspace\\csharp\\demo\\ch11\\myextensions\\myextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00EEFB5C-BC33-4FE5-9D3F-91F1CC60BB70}|MyExtensions\\MyExtensions.csproj|solutionrelative:myextensions\\myextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00EEFB5C-BC33-4FE5-9D3F-91F1CC60BB70}|MyExtensions\\MyExtensions.csproj|d:\\workspace\\csharp\\demo\\ch11\\myextensions\\interfaceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00EEFB5C-BC33-4FE5-9D3F-91F1CC60BB70}|MyExtensions\\MyExtensions.csproj|solutionrelative:myextensions\\interfaceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,99 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\AnonymousTypes\\Program.cs",
-              "RelativeDocumentMoniker": "AnonymousTypes\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\AnonymousTypes\\Program.cs",
-              "RelativeToolTip": "AnonymousTypes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA4wBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T03:25:18.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEnumeratorExt.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions_ExtensionMethod\\IEnumeratorExt.cs",
-              "RelativeDocumentMoniker": "MyExtensions_ExtensionMethod\\IEnumeratorExt.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions_ExtensionMethod\\IEnumeratorExt.cs",
-              "RelativeToolTip": "MyExtensions_ExtensionMethod\\IEnumeratorExt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T03:16:21.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Garage.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions_ExtensionMethod\\Garage.cs",
-              "RelativeDocumentMoniker": "MyExtensions_ExtensionMethod\\Garage.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions_ExtensionMethod\\Garage.cs",
-              "RelativeToolTip": "MyExtensions_ExtensionMethod\\Garage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T03:15:12.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Cars.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions_ExtensionMethod\\Cars.cs",
-              "RelativeDocumentMoniker": "MyExtensions_ExtensionMethod\\Cars.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions_ExtensionMethod\\Cars.cs",
-              "RelativeToolTip": "MyExtensions_ExtensionMethod\\Cars.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T03:14:41.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions_ExtensionMethod\\Program.cs",
-              "RelativeDocumentMoniker": "MyExtensions_ExtensionMethod\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions_ExtensionMethod\\Program.cs",
-              "RelativeToolTip": "MyExtensions_ExtensionMethod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T03:14:07.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InterfaceExtensions.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions\\InterfaceExtensions.cs",
-              "RelativeDocumentMoniker": "MyExtensions\\InterfaceExtensions.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions\\InterfaceExtensions.cs",
-              "RelativeToolTip": "MyExtensions\\InterfaceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T03:07:14.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MyExtensions.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions\\MyExtensions.cs",
-              "RelativeDocumentMoniker": "MyExtensions\\MyExtensions.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions\\MyExtensions.cs",
-              "RelativeToolTip": "MyExtensions\\MyExtensions.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T01:34:51.327Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -181,16 +66,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions\\Program.cs",
-              "RelativeDocumentMoniker": "MyExtensions\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\MyExtensions\\Program.cs",
-              "RelativeToolTip": "MyExtensions\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\UnSafeCode\\Program.cs",
+              "RelativeDocumentMoniker": "UnSafeCode\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\UnSafeCode\\Program.cs",
+              "RelativeToolTip": "UnSafeCode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T01:28:40.069Z",
+              "WhenOpened": "2026-07-23T16:24:13.855Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\AnonymousTypes\\Program.cs",
+              "RelativeDocumentMoniker": "AnonymousTypes\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\AnonymousTypes\\Program.cs",
+              "RelativeToolTip": "AnonymousTypes\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAzwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T03:25:18.36Z"
             }
           ]
         },
