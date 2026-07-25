@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\04ResetGenericParameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\04ResetGenericParameter.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\04ResetGenericParameter.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\04ResetGenericParameter.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\04ResetGenericParameter.sourcelink.json
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\bin\Debug\net10.0\04ResetGenericParameter.exe
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\bin\Debug\net10.0\04ResetGenericParameter.deps.json
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\bin\Debug\net10.0\04ResetGenericParameter.runtimeconfig.json
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\bin\Debug\net10.0\04ResetGenericParameter.dll
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\bin\Debug\net10.0\04ResetGenericParameter.pdb
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\04ResetGenericParameter.dll
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\refint\04ResetGenericParameter.dll
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\04ResetGenericParameter.pdb
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\04ResetGenericParameter.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH10\04ResetGenericParameter\obj\Debug\net10.0\ref\04ResetGenericParameter.dll

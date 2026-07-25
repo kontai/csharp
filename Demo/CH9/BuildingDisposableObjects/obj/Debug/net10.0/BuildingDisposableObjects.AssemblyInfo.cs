@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuildingDisposableObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f41fa23e26f6e99a178540f60feb6535ddb7146f")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471c7d2b4873f147b9eb434e7f32a0833dbc12dc")]
+>>>>>>> 43bb9fccaec00249ecfa3aac7717eeff496f0264
 [assembly: System.Reflection.AssemblyProductAttribute("BuildingDisposableObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuildingDisposableObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

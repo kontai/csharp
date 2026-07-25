@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\bin\Debug\net10.0\AnonymousTypes.exe
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\bin\Debug\net10.0\AnonymousTypes.deps.json
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\bin\Debug\net10.0\AnonymousTypes.runtimeconfig.json
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\bin\Debug\net10.0\AnonymousTypes.dll
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\bin\Debug\net10.0\AnonymousTypes.pdb
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\AnonymousTypes.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\AnonymousTypes.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\AnonymousTypes.sourcelink.json
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\AnonymousTypes.dll
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\refint\AnonymousTypes.dll
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\AnonymousTypes.pdb
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\AnonymousTypes.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH11\AnonymousTypes\obj\Debug\net10.0\ref\AnonymousTypes.dll

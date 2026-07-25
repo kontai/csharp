@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH11\OverloadedOps\bin\Debug\net10.0\OverloadedOps.exe
+D:\workspace\csharp\Demo\CH11\OverloadedOps\bin\Debug\net10.0\OverloadedOps.deps.json
+D:\workspace\csharp\Demo\CH11\OverloadedOps\bin\Debug\net10.0\OverloadedOps.runtimeconfig.json
+D:\workspace\csharp\Demo\CH11\OverloadedOps\bin\Debug\net10.0\OverloadedOps.dll
+D:\workspace\csharp\Demo\CH11\OverloadedOps\bin\Debug\net10.0\OverloadedOps.pdb
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\OverloadedOps.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\OverloadedOps.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\OverloadedOps.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\OverloadedOps.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\OverloadedOps.sourcelink.json
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\OverloadedOps.dll
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\refint\OverloadedOps.dll
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\OverloadedOps.pdb
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\OverloadedOps.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH11\OverloadedOps\obj\Debug\net10.0\ref\OverloadedOps.dll

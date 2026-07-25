@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\bin\Debug\net10.0\MyExtensions_ExtensionMethod.exe
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\bin\Debug\net10.0\MyExtensions_ExtensionMethod.deps.json
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\bin\Debug\net10.0\MyExtensions_ExtensionMethod.runtimeconfig.json
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\bin\Debug\net10.0\MyExtensions_ExtensionMethod.dll
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\bin\Debug\net10.0\MyExtensions_ExtensionMethod.pdb
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\MyExtensions_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\MyExtensions_ExtensionMethod.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\MyExtensions_ExtensionMethod.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\MyExtensions_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\MyExtensions_ExtensionMethod.sourcelink.json
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\MyExtensions_ExtensionMethod.dll
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\refint\MyExtensions_ExtensionMethod.dll
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\MyExtensions_ExtensionMethod.pdb
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\MyExtensions_ExtensionMethod.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH11\MyExtensions_ExtensionMethod\obj\Debug\net10.0\ref\MyExtensions_ExtensionMethod.dll

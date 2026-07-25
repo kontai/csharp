@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH11\UnSafeCode\bin\Debug\net10.0\UnSafeCode.exe
+D:\workspace\csharp\Demo\CH11\UnSafeCode\bin\Debug\net10.0\UnSafeCode.deps.json
+D:\workspace\csharp\Demo\CH11\UnSafeCode\bin\Debug\net10.0\UnSafeCode.runtimeconfig.json
+D:\workspace\csharp\Demo\CH11\UnSafeCode\bin\Debug\net10.0\UnSafeCode.dll
+D:\workspace\csharp\Demo\CH11\UnSafeCode\bin\Debug\net10.0\UnSafeCode.pdb
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\UnSafeCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\UnSafeCode.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\UnSafeCode.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\UnSafeCode.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\UnSafeCode.sourcelink.json
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\UnSafeCode.dll
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\refint\UnSafeCode.dll
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\UnSafeCode.pdb
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\UnSafeCode.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH11\UnSafeCode\obj\Debug\net10.0\ref\UnSafeCode.dll

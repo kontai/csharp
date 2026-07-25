@@ -3,12 +3,17 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH10\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{270DBD76-BBB5-44CE-BA7F-E7252CE154DD}|01ListGerneric\\01ListGerneric.csproj|d:\\workspace\\csharp\\demo\\ch10\\01listgerneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{270DBD76-BBB5-44CE-BA7F-E7252CE154DD}|01ListGerneric\\01ListGerneric.csproj|solutionrelative:01listgerneric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{270DBD76-BBB5-44CE-BA7F-E7252CE154DD}|01ListGerneric\\01ListGerneric.csproj|d:\\workspace\\csharp\\demo\\ch10\\01listgerneric\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{270DBD76-BBB5-44CE-BA7F-E7252CE154DD}|01ListGerneric\\01ListGerneric.csproj|solutionrelative:01listgerneric\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{C744619D-F803-4B34-A63F-E9E756897C4B}|06Indexer\\06Indexer.csproj|d:\\workspace\\csharp\\demo\\ch10\\06indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C744619D-F803-4B34-A63F-E9E756897C4B}|06Indexer\\06Indexer.csproj|solutionrelative:06indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 43bb9fccaec00249ecfa3aac7717eeff496f0264
     }
   ],
   "DocumentGroupContainers": [
@@ -18,10 +23,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
+<<<<<<< HEAD
           "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
+=======
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+>>>>>>> 43bb9fccaec00249ecfa3aac7717eeff496f0264
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
             },
             {
@@ -34,6 +66,7 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
@@ -50,6 +83,8 @@
             },
             {
               "$type": "Bookmark",
+=======
+>>>>>>> 43bb9fccaec00249ecfa3aac7717eeff496f0264
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -57,6 +92,7 @@
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+<<<<<<< HEAD
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
@@ -88,6 +124,18 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAYwAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-18T09:10:59.355Z",
+=======
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH10\\06Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "06Indexer\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH10\\06Indexer\\Program.cs",
+              "RelativeToolTip": "06Indexer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T10:00:22.219Z",
+>>>>>>> 43bb9fccaec00249ecfa3aac7717eeff496f0264
               "EditorCaption": ""
             }
           ]
@@ -98,10 +146,13 @@
           "Children": [
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
               "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
             },
             {
               "$type": "Bookmark",
+=======
+>>>>>>> 43bb9fccaec00249ecfa3aac7717eeff496f0264
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
