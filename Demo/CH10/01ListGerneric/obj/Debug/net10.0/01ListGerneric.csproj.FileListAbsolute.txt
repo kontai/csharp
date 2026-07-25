@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH10\01ListGerneric\bin\Debug\net10.0\01ListGerneric.exe
+D:\workspace\csharp\Demo\CH10\01ListGerneric\bin\Debug\net10.0\01ListGerneric.deps.json
+D:\workspace\csharp\Demo\CH10\01ListGerneric\bin\Debug\net10.0\01ListGerneric.runtimeconfig.json
+D:\workspace\csharp\Demo\CH10\01ListGerneric\bin\Debug\net10.0\01ListGerneric.dll
+D:\workspace\csharp\Demo\CH10\01ListGerneric\bin\Debug\net10.0\01ListGerneric.pdb
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\01ListGerneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\01ListGerneric.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\01ListGerneric.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\01ListGerneric.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\01ListGerneric.sourcelink.json
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\01ListGerneric.dll
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\refint\01ListGerneric.dll
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\01ListGerneric.pdb
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\01ListGerneric.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH10\01ListGerneric\obj\Debug\net10.0\ref\01ListGerneric.dll

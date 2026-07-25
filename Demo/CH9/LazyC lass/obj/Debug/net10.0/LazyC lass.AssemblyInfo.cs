@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LazyC lass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f31a52edeff880b11ba60af7d35af75276e6ed9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f41fa23e26f6e99a178540f60feb6535ddb7146f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LazyC lass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LazyC lass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
