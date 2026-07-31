@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\bin\Debug\net10.0\Unsafe-stackalloc_fixed.exe
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\bin\Debug\net10.0\Unsafe-stackalloc_fixed.deps.json
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\bin\Debug\net10.0\Unsafe-stackalloc_fixed.runtimeconfig.json
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\bin\Debug\net10.0\Unsafe-stackalloc_fixed.dll
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\bin\Debug\net10.0\Unsafe-stackalloc_fixed.pdb
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\Unsafe-stackalloc_fixed.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\Unsafe-stackalloc_fixed.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\Unsafe-stackalloc_fixed.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\Unsafe-stackalloc_fixed.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\Unsafe-stackalloc_fixed.sourcelink.json
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\Unsafe-stackalloc_fixed.dll
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\refint\Unsafe-stackalloc_fixed.dll
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\Unsafe-stackalloc_fixed.pdb
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\Unsafe-stackalloc_fixed.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH11\Unsafe-stackalloc_fixed\obj\Debug\net10.0\ref\Unsafe-stackalloc_fixed.dll

@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\bin\Debug\net10.0\02CarDelegateDemo.exe
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\bin\Debug\net10.0\02CarDelegateDemo.deps.json
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\bin\Debug\net10.0\02CarDelegateDemo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\bin\Debug\net10.0\02CarDelegateDemo.dll
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\bin\Debug\net10.0\02CarDelegateDemo.pdb
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\02CarDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\02CarDelegateDemo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\02CarDelegateDemo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\02CarDelegateDemo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\02CarDelegateDemo.sourcelink.json
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\02CarDelegateDemo.dll
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\refint\02CarDelegateDemo.dll
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\02CarDelegateDemo.pdb
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\02CarDelegateDemo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH12\02CarDelegateDemo\obj\Debug\net10.0\ref\02CarDelegateDemo.dll

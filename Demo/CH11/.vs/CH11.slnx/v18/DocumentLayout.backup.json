@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B8EBB67-62B9-4760-A902-8E1B4CA87790}|UnSafeCode\\UnSafeCode.csproj|d:\\workspace\\csharp\\demo\\ch11\\unsafecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B8EBB67-62B9-4760-A902-8E1B4CA87790}|UnSafeCode\\UnSafeCode.csproj|solutionrelative:unsafecode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C04F3DCB-42C4-4B7B-8B92-6FBE46C0F6CD}|AnonymousTypes\\AnonymousTypes.csproj|d:\\workspace\\csharp\\demo\\ch11\\anonymoustypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C04F3DCB-42C4-4B7B-8B92-6FBE46C0F6CD}|AnonymousTypes\\AnonymousTypes.csproj|solutionrelative:anonymoustypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{654BA7CF-8A17-4DE9-A560-014115AF497A}|Unsafe-stackalloc_fixed\\Unsafe-stackalloc_fixed.csproj|d:\\workspace\\csharp\\demo\\ch11\\unsafe-stackalloc_fixed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654BA7CF-8A17-4DE9-A560-014115AF497A}|Unsafe-stackalloc_fixed\\Unsafe-stackalloc_fixed.csproj|solutionrelative:unsafe-stackalloc_fixed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
@@ -34,22 +50,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -58,36 +58,24 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\UnSafeCode\\Program.cs",
-              "RelativeDocumentMoniker": "UnSafeCode\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\UnSafeCode\\Program.cs*",
-              "RelativeToolTip": "UnSafeCode\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\Unsafe-stackalloc_fixed\\Program.cs",
+              "RelativeDocumentMoniker": "Unsafe-stackalloc_fixed\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\Unsafe-stackalloc_fixed\\Program.cs*",
+              "RelativeToolTip": "Unsafe-stackalloc_fixed\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T16:24:13.855Z",
+              "WhenOpened": "2026-07-26T02:52:27.133Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH11\\AnonymousTypes\\Program.cs",
-              "RelativeDocumentMoniker": "AnonymousTypes\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH11\\AnonymousTypes\\Program.cs",
-              "RelativeToolTip": "AnonymousTypes\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAzwCgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-22T03:25:18.36Z"
             }
           ]
         },
@@ -97,11 +85,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
             }
           ]
         }

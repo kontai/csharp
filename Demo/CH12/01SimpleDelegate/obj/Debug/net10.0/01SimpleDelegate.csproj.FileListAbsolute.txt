@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\bin\Debug\net10.0\01SimpleDelegate.exe
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\bin\Debug\net10.0\01SimpleDelegate.deps.json
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\bin\Debug\net10.0\01SimpleDelegate.runtimeconfig.json
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\bin\Debug\net10.0\01SimpleDelegate.dll
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\bin\Debug\net10.0\01SimpleDelegate.pdb
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\01SimpleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\01SimpleDelegate.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\01SimpleDelegate.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\01SimpleDelegate.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\01SimpleDelegate.sourcelink.json
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\01SimpleDelegate.dll
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\refint\01SimpleDelegate.dll
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\01SimpleDelegate.pdb
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\01SimpleDelegate.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH12\01SimpleDelegate\obj\Debug\net10.0\ref\01SimpleDelegate.dll
