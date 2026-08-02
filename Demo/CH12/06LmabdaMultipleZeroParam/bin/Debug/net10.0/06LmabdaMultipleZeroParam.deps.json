@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "06LmabdaMultipleZeroParam/1.0.0": {
+        "runtime": {
+          "06LmabdaMultipleZeroParam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06LmabdaMultipleZeroParam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

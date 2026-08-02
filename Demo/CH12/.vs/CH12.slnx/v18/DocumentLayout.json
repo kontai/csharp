@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EC84B96-E7CA-4BD7-A6C7-8EDC7F3191B8}|05EventGeeric\\05EventGeeric.csproj|d:\\workspace\\csharp\\demo\\ch12\\05eventgeeric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC84B96-E7CA-4BD7-A6C7-8EDC7F3191B8}|05EventGeeric\\05EventGeeric.csproj|solutionrelative:05eventgeeric\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4283201C-6BDF-433F-ACD3-575C370CAFE8}|06LmabdaMultipleZeroParam\\06LmabdaMultipleZeroParam.csproj|d:\\workspace\\csharp\\demo\\ch12\\06lmabdamultiplezeroparam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4283201C-6BDF-433F-ACD3-575C370CAFE8}|06LmabdaMultipleZeroParam\\06LmabdaMultipleZeroParam.csproj|solutionrelative:06lmabdamultiplezeroparam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EC84B96-E7CA-4BD7-A6C7-8EDC7F3191B8}|05EventGeeric\\05EventGeeric.csproj|d:\\workspace\\csharp\\demo\\ch12\\05eventgeeric\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EC84B96-E7CA-4BD7-A6C7-8EDC7F3191B8}|05EventGeeric\\05EventGeeric.csproj|solutionrelative:05eventgeeric\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08188121-4B29-4DB9-8AA4-A8DA12FACAC0}|EvenStandar tDemo\\04EventStandar tDemo.csproj|d:\\workspace\\csharp\\demo\\ch12\\evenstandar tdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08188121-4B29-4DB9-8AA4-A8DA12FACAC0}|EvenStandar tDemo\\04EventStandar tDemo.csproj|solutionrelative:evenstandar tdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08188121-4B29-4DB9-8AA4-A8DA12FACAC0}|EvenStandar tDemo\\04EventStandar tDemo.csproj|d:\\workspace\\csharp\\demo\\ch12\\evenstandar tdemo\\04eventstandar tdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{08188121-4B29-4DB9-8AA4-A8DA12FACAC0}|EvenStandar tDemo\\04EventStandar tDemo.csproj|solutionrelative:evenstandar tdemo\\04eventstandar tdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8D9B07C0-7488-4A65-A011-6147E30E73A4}|06Lambda\\06Lambda.csproj|d:\\workspace\\csharp\\demo\\ch12\\06lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D9B07C0-7488-4A65-A011-6147E30E73A4}|06Lambda\\06Lambda.csproj|solutionrelative:06lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +18,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 12,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\Program.cs",
-              "RelativeDocumentMoniker": "EvenStandar tDemo\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\Program.cs",
-              "RelativeToolTip": "EvenStandar tDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T10:18:47.165Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "04EventStandar tDemo.csproj",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\04EventStandar tDemo.csproj",
-              "RelativeDocumentMoniker": "EvenStandar tDemo\\04EventStandar tDemo.csproj",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\04EventStandar tDemo.csproj",
-              "RelativeToolTip": "EvenStandar tDemo\\04EventStandar tDemo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-01T10:16:26.823Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Program.cs",
-              "RelativeDocumentMoniker": "05EventGeeric\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Program.cs",
-              "RelativeToolTip": "05EventGeeric\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T10:14:59.614Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Car.cs",
-              "RelativeDocumentMoniker": "05EventGeeric\\Car.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Car.cs",
-              "RelativeToolTip": "05EventGeeric\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T09:53:53.383Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -94,22 +54,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -122,7 +66,33 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\06LmabdaMultipleZeroParam\\Program.cs",
+              "RelativeDocumentMoniker": "06LmabdaMultipleZeroParam\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\06LmabdaMultipleZeroParam\\Program.cs",
+              "RelativeToolTip": "06LmabdaMultipleZeroParam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T09:14:59.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\06Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "06Lambda\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\06Lambda\\Program.cs",
+              "RelativeToolTip": "06Lambda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T06:35:45.161Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -132,11 +102,11 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
             }
           ]
         }

@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH12\06Lambda\bin\Debug\net10.0\06Lambda.exe
+D:\workspace\csharp\Demo\CH12\06Lambda\bin\Debug\net10.0\06Lambda.deps.json
+D:\workspace\csharp\Demo\CH12\06Lambda\bin\Debug\net10.0\06Lambda.runtimeconfig.json
+D:\workspace\csharp\Demo\CH12\06Lambda\bin\Debug\net10.0\06Lambda.dll
+D:\workspace\csharp\Demo\CH12\06Lambda\bin\Debug\net10.0\06Lambda.pdb
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\06Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\06Lambda.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\06Lambda.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\06Lambda.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\06Lambda.sourcelink.json
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\06Lambda.dll
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\refint\06Lambda.dll
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\06Lambda.pdb
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\06Lambda.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH12\06Lambda\obj\Debug\net10.0\ref\06Lambda.dll
