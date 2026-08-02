@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EvenStandar tDemo/1.0.0": {
+        "runtime": {
+          "EvenStandar tDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EvenStandar tDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

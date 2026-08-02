@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH12\05EventGeeric\bin\Debug\net10.0\05EventGeeric.exe
+D:\workspace\csharp\Demo\CH12\05EventGeeric\bin\Debug\net10.0\05EventGeeric.deps.json
+D:\workspace\csharp\Demo\CH12\05EventGeeric\bin\Debug\net10.0\05EventGeeric.runtimeconfig.json
+D:\workspace\csharp\Demo\CH12\05EventGeeric\bin\Debug\net10.0\05EventGeeric.dll
+D:\workspace\csharp\Demo\CH12\05EventGeeric\bin\Debug\net10.0\05EventGeeric.pdb
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\05EventGeeric.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\05EventGeeric.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\05EventGeeric.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\05EventGeeric.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\05EventGeeric.sourcelink.json
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\05EventGeeric.dll
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\refint\05EventGeeric.dll
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\05EventGeeric.pdb
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\05EventGeeric.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH12\05EventGeeric\obj\Debug\net10.0\ref\05EventGeeric.dll

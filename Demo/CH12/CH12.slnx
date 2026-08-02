@@ -1,4 +1,8 @@
 <Solution>
   <Project Path="01SimpleDelegate/01SimpleDelegate.csproj" />
   <Project Path="02CarDelegateDemo/02CarDelegateDemo.csproj" />
+  <Project Path="05EventGeeric/05EventGeeric.csproj" Id="3ec84b96-e7ca-4bd7-a6c7-8edc7f3191b8" />
+  <Project Path="Action_Func/Action_Func.csproj" Id="c2e24d16-1091-49f9-acb0-4a27ace6b32c" />
+  <Project Path="EvenStandar tDemo/04EventStandar tDemo.csproj" Id="08188121-4b29-4db9-8aa4-a8da12facac0" />
+  <Project Path="EventDemo/03EventDemo.csproj" Id="d0dcd0c0-e808-4adc-8fed-2bfb78798101" />
 </Solution>

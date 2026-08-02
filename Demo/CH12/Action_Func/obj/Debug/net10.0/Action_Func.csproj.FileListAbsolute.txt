@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH12\Action_Func\bin\Debug\net10.0\Action_Func.exe
+D:\workspace\csharp\Demo\CH12\Action_Func\bin\Debug\net10.0\Action_Func.deps.json
+D:\workspace\csharp\Demo\CH12\Action_Func\bin\Debug\net10.0\Action_Func.runtimeconfig.json
+D:\workspace\csharp\Demo\CH12\Action_Func\bin\Debug\net10.0\Action_Func.dll
+D:\workspace\csharp\Demo\CH12\Action_Func\bin\Debug\net10.0\Action_Func.pdb
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\Action_Func.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\Action_Func.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\Action_Func.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\Action_Func.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\Action_Func.sourcelink.json
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\Action_Func.dll
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\refint\Action_Func.dll
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\Action_Func.pdb
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\Action_Func.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH12\Action_Func\obj\Debug\net10.0\ref\Action_Func.dll

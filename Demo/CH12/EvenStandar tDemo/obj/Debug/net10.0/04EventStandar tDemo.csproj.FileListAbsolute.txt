@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\bin\Debug\net10.0\04EventStandar tDemo.exe
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\bin\Debug\net10.0\04EventStandar tDemo.deps.json
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\bin\Debug\net10.0\04EventStandar tDemo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\bin\Debug\net10.0\04EventStandar tDemo.dll
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\bin\Debug\net10.0\04EventStandar tDemo.pdb
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\04EventStandar tDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\04EventStandar tDemo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\04EventStandar tDemo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\04EventStandar tDemo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\04EventStandar tDemo.sourcelink.json
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\04EventStandar tDemo.dll
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\refint\04EventStandar tDemo.dll
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\04EventStandar tDemo.pdb
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\04EventStandar tDemo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH12\EvenStandar tDemo\obj\Debug\net10.0\ref\04EventStandar tDemo.dll

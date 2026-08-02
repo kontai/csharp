@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH12\EventDemo\bin\Debug\net10.0\EventDemo.exe
+D:\workspace\csharp\Demo\CH12\EventDemo\bin\Debug\net10.0\EventDemo.deps.json
+D:\workspace\csharp\Demo\CH12\EventDemo\bin\Debug\net10.0\EventDemo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH12\EventDemo\bin\Debug\net10.0\EventDemo.dll
+D:\workspace\csharp\Demo\CH12\EventDemo\bin\Debug\net10.0\EventDemo.pdb
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\EventDemo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\EventDemo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\EventDemo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\EventDemo.sourcelink.json
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\EventDemo.dll
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\refint\EventDemo.dll
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\EventDemo.pdb
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\EventDemo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH12\EventDemo\obj\Debug\net10.0\ref\EventDemo.dll
