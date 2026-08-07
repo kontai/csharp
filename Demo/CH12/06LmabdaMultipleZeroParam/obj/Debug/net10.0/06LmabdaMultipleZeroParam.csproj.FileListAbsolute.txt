@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\bin\Debug\net10.0\06LmabdaMultipleZeroParam.exe
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\bin\Debug\net10.0\06LmabdaMultipleZeroParam.deps.json
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\bin\Debug\net10.0\06LmabdaMultipleZeroParam.runtimeconfig.json
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\bin\Debug\net10.0\06LmabdaMultipleZeroParam.dll
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\bin\Debug\net10.0\06LmabdaMultipleZeroParam.pdb
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\06LmabdaMultipleZeroParam.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\06LmabdaMultipleZeroParam.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\06LmabdaMultipleZeroParam.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\06LmabdaMultipleZeroParam.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\06LmabdaMultipleZeroParam.sourcelink.json
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\06LmabdaMultipleZeroParam.dll
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\refint\06LmabdaMultipleZeroParam.dll
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\06LmabdaMultipleZeroParam.pdb
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\06LmabdaMultipleZeroParam.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH12\06LmabdaMultipleZeroParam\obj\Debug\net10.0\ref\06LmabdaMultipleZeroParam.dll
