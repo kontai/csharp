@@ -74,9 +74,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\06LmabdaMultipleZeroParam\\Program.cs",
               "RelativeDocumentMoniker": "06LmabdaMultipleZeroParam\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\06LmabdaMultipleZeroParam\\Program.cs*",
-              "RelativeToolTip": "06LmabdaMultipleZeroParam\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\06LmabdaMultipleZeroParam\\Program.cs",
+              "RelativeToolTip": "06LmabdaMultipleZeroParam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-02T09:14:59.206Z",
               "EditorCaption": ""
@@ -91,8 +91,7 @@
               "RelativeToolTip": "06Lambda\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-02T06:35:45.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-02T06:35:45.161Z"
             }
           ]
         },
