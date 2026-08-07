@@ -26,60 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 13,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\Program.cs",
-              "RelativeDocumentMoniker": "EvenStandar tDemo\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\Program.cs",
-              "RelativeToolTip": "EvenStandar tDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T10:18:47.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "04EventStandar tDemo.csproj",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\04EventStandar tDemo.csproj",
-              "RelativeDocumentMoniker": "EvenStandar tDemo\\04EventStandar tDemo.csproj",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\04EventStandar tDemo.csproj",
-              "RelativeToolTip": "EvenStandar tDemo\\04EventStandar tDemo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-01T10:16:26.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Program.cs",
-              "RelativeDocumentMoniker": "05EventGeeric\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Program.cs",
-              "RelativeToolTip": "05EventGeeric\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T10:14:59.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Car.cs",
-              "RelativeDocumentMoniker": "05EventGeeric\\Car.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Car.cs",
-              "RelativeToolTip": "05EventGeeric\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T09:53:53.383Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
@@ -123,6 +71,55 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EvenStandar tDemo\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\Program.cs",
+              "RelativeToolTip": "EvenStandar tDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T10:18:47.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "04EventStandar tDemo.csproj",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\04EventStandar tDemo.csproj",
+              "RelativeDocumentMoniker": "EvenStandar tDemo\\04EventStandar tDemo.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\EvenStandar tDemo\\04EventStandar tDemo.csproj",
+              "RelativeToolTip": "EvenStandar tDemo\\04EventStandar tDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-01T10:16:26.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Program.cs",
+              "RelativeDocumentMoniker": "05EventGeeric\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Program.cs",
+              "RelativeToolTip": "05EventGeeric\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T10:14:59.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Car.cs",
+              "RelativeDocumentMoniker": "05EventGeeric\\Car.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH12\\05EventGeeric\\Car.cs",
+              "RelativeToolTip": "05EventGeeric\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T09:53:53.383Z"
             }
           ]
         },

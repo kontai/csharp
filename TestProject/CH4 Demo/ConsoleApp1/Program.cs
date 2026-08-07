@@ -20,6 +20,7 @@ Customer? customerNull = null;
 Customer customerWithAddress = new Customer("Alice", new Address("Taipei", null));
 Customer customerFull = new Customer("Bob", new Address("Kaohsiung", "Zhongshan Road"));
 
+
 // Safely access properties without throwing a NullReferenceException
 Console.WriteLine($"Null customer city: {customerNull?.Address?.City ?? "No City"}");
 Console.WriteLine($"Alice's city: {customerWithAddress?.Address?.City ?? "No City"}");
@@ -43,8 +44,8 @@ sampleAction = () => Console.WriteLine("Action executed successfully!");
 Console.Write("Invoking non-null action: ");
 sampleAction?.Invoke(); // Executes the delegate
 
-Address? addressNull = null;    
-
+Address? address=null;
+address=new Address(City:"Taipei",Street:"Zhongshan Road");
 
 // --- Support Models ---
 public record Address(string City, string? Street);
