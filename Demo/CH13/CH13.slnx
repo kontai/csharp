@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="01LmabdaIntro/01LinqIntro.csproj" />
+  <Project Path="02LinqToArray/02LinqToArray.csproj" />
+  <Project Path="03ImmediateExcution/03ImmediateExcution.csproj" />
+  <Project Path="04ReturnResultOfLinqQuery/04ReturnResultOfLinqQuery.csproj" />
+  <Project Path="05GenericLinq/05GenericLinq.csproj" />
+  <Project Path="06OfType/06OfType.csproj" />
+  <Project Path="07BasucQuery/07BasucQuery.csproj" />
+</Solution>

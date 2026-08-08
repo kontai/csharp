@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06LmabdaMultipleZeroParam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd91bb57253b1e25573315bd04736e5cc74a7b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0cc55b6e37d6140955031bd7ef7f993c7ad4b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("06LmabdaMultipleZeroParam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06LmabdaMultipleZeroParam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

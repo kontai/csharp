@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LmabdaIntro.exe
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LmabdaIntro.deps.json
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LmabdaIntro.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LmabdaIntro.dll
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LmabdaIntro.pdb
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LmabdaIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LmabdaIntro.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LmabdaIntro.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LmabdaIntro.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LmabdaIntro.sourcelink.json
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LmabdaIntro.dll
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\refint\01LmabdaIntro.dll
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LmabdaIntro.pdb
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LmabdaIntro.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\ref\01LmabdaIntro.dll

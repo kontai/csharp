@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675113B1-9444-459A-899C-1C9E05BD318E}|07BasucQuery\\07BasucQuery.csproj|d:\\workspace\\csharp\\demo\\ch13\\07basucquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675113B1-9444-459A-899C-1C9E05BD318E}|07BasucQuery\\07BasucQuery.csproj|solutionrelative:07basucquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675113B1-9444-459A-899C-1C9E05BD318E}|07BasucQuery\\07BasucQuery.csproj|d:\\workspace\\csharp\\demo\\ch13\\07basucquery\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675113B1-9444-459A-899C-1C9E05BD318E}|07BasucQuery\\07BasucQuery.csproj|solutionrelative:07basucquery\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B9CE31-0E45-43CD-88DC-335004564D66}|06OfType\\06OfType.csproj|d:\\workspace\\csharp\\demo\\ch13\\06oftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B9CE31-0E45-43CD-88DC-335004564D66}|06OfType\\06OfType.csproj|solutionrelative:06oftype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F6BDBB-666C-4E2F-B14C-271F88A9178E}|05GenericLinq\\05GenericLinq.csproj|d:\\workspace\\csharp\\demo\\ch13\\05genericlinq\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F6BDBB-666C-4E2F-B14C-271F88A9178E}|05GenericLinq\\05GenericLinq.csproj|solutionrelative:05genericlinq\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F6BDBB-666C-4E2F-B14C-271F88A9178E}|05GenericLinq\\05GenericLinq.csproj|d:\\workspace\\csharp\\demo\\ch13\\05genericlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F6BDBB-666C-4E2F-B14C-271F88A9178E}|05GenericLinq\\05GenericLinq.csproj|solutionrelative:05genericlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 408,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH13\\07BasucQuery\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "07BasucQuery\\ProductInfo.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH13\\07BasucQuery\\ProductInfo.cs",
+              "RelativeToolTip": "07BasucQuery\\ProductInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T09:15:17.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH13\\07BasucQuery\\Program.cs",
+              "RelativeDocumentMoniker": "07BasucQuery\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH13\\07BasucQuery\\Program.cs",
+              "RelativeToolTip": "07BasucQuery\\Program.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAkwGQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T09:14:35.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH13\\06OfType\\Program.cs",
+              "RelativeDocumentMoniker": "06OfType\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH13\\06OfType\\Program.cs",
+              "RelativeToolTip": "06OfType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:36:27.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH13\\05GenericLinq\\Car.cs",
+              "RelativeDocumentMoniker": "05GenericLinq\\Car.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH13\\05GenericLinq\\Car.cs",
+              "RelativeToolTip": "05GenericLinq\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:34:49.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH13\\05GenericLinq\\Program.cs",
+              "RelativeDocumentMoniker": "05GenericLinq\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH13\\05GenericLinq\\Program.cs",
+              "RelativeToolTip": "05GenericLinq\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-08T08:32:33.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 408,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

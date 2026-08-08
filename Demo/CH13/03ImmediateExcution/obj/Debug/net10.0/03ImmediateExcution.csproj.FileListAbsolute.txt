@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\bin\Debug\net10.0\03ImmediateExcution.exe
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\bin\Debug\net10.0\03ImmediateExcution.deps.json
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\bin\Debug\net10.0\03ImmediateExcution.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\bin\Debug\net10.0\03ImmediateExcution.dll
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\bin\Debug\net10.0\03ImmediateExcution.pdb
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\03ImmediateExcution.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\03ImmediateExcution.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\03ImmediateExcution.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\03ImmediateExcution.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\03ImmediateExcution.sourcelink.json
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\03ImmediateExcution.dll
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\refint\03ImmediateExcution.dll
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\03ImmediateExcution.pdb
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\03ImmediateExcution.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\03ImmediateExcution\obj\Debug\net10.0\ref\03ImmediateExcution.dll

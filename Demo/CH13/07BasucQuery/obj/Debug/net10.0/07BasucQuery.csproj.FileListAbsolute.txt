@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\07BasucQuery\bin\Debug\net10.0\07BasucQuery.exe
+D:\workspace\csharp\Demo\CH13\07BasucQuery\bin\Debug\net10.0\07BasucQuery.deps.json
+D:\workspace\csharp\Demo\CH13\07BasucQuery\bin\Debug\net10.0\07BasucQuery.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\07BasucQuery\bin\Debug\net10.0\07BasucQuery.dll
+D:\workspace\csharp\Demo\CH13\07BasucQuery\bin\Debug\net10.0\07BasucQuery.pdb
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.sourcelink.json
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.dll
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\refint\07BasucQuery.dll
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.pdb
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\ref\07BasucQuery.dll

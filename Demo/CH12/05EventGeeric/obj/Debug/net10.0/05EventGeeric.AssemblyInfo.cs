@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05EventGeeric")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4043cb1beecc18474256236998d2c031026b59d2")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fd91bb57253b1e25573315bd04736e5cc74a7b9")]
->>>>>>> 17bfaffea545475c8673fbc486b73463d7179a10
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0cc55b6e37d6140955031bd7ef7f993c7ad4b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("05EventGeeric")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05EventGeeric")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

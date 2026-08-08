@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\02LinqToArray\bin\Debug\net10.0\02LinqToArray.exe
+D:\workspace\csharp\Demo\CH13\02LinqToArray\bin\Debug\net10.0\02LinqToArray.deps.json
+D:\workspace\csharp\Demo\CH13\02LinqToArray\bin\Debug\net10.0\02LinqToArray.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\02LinqToArray\bin\Debug\net10.0\02LinqToArray.dll
+D:\workspace\csharp\Demo\CH13\02LinqToArray\bin\Debug\net10.0\02LinqToArray.pdb
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\02LinqToArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\02LinqToArray.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\02LinqToArray.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\02LinqToArray.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\02LinqToArray.sourcelink.json
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\02LinqToArray.dll
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\refint\02LinqToArray.dll
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\02LinqToArray.pdb
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\02LinqToArray.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\02LinqToArray\obj\Debug\net10.0\ref\02LinqToArray.dll

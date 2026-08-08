@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\05GenericLinq\bin\Debug\net10.0\05GenericLinq.exe
+D:\workspace\csharp\Demo\CH13\05GenericLinq\bin\Debug\net10.0\05GenericLinq.deps.json
+D:\workspace\csharp\Demo\CH13\05GenericLinq\bin\Debug\net10.0\05GenericLinq.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\05GenericLinq\bin\Debug\net10.0\05GenericLinq.dll
+D:\workspace\csharp\Demo\CH13\05GenericLinq\bin\Debug\net10.0\05GenericLinq.pdb
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\05GenericLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\05GenericLinq.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\05GenericLinq.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\05GenericLinq.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\05GenericLinq.sourcelink.json
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\05GenericLinq.dll
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\refint\05GenericLinq.dll
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\05GenericLinq.pdb
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\05GenericLinq.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\05GenericLinq\obj\Debug\net10.0\ref\05GenericLinq.dll

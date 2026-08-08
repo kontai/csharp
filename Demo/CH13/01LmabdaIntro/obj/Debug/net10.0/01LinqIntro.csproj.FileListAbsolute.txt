@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LinqIntro.exe
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LinqIntro.deps.json
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LinqIntro.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LinqIntro.dll
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\bin\Debug\net10.0\01LinqIntro.pdb
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LinqIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LinqIntro.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LinqIntro.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LinqIntro.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LinqIntro.sourcelink.json
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LinqIntro.dll
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\refint\01LinqIntro.dll
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LinqIntro.pdb
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\01LinqIntro.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\01LmabdaIntro\obj\Debug\net10.0\ref\01LinqIntro.dll

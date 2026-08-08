@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\06OfType\bin\Debug\net10.0\06OfType.exe
+D:\workspace\csharp\Demo\CH13\06OfType\bin\Debug\net10.0\06OfType.deps.json
+D:\workspace\csharp\Demo\CH13\06OfType\bin\Debug\net10.0\06OfType.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\06OfType\bin\Debug\net10.0\06OfType.dll
+D:\workspace\csharp\Demo\CH13\06OfType\bin\Debug\net10.0\06OfType.pdb
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\06OfType.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\06OfType.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\06OfType.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\06OfType.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\06OfType.sourcelink.json
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\06OfType.dll
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\refint\06OfType.dll
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\06OfType.pdb
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\06OfType.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\06OfType\obj\Debug\net10.0\ref\06OfType.dll

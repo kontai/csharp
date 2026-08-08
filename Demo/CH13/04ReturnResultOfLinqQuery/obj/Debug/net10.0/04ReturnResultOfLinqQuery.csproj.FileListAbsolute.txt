@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\bin\Debug\net10.0\04ReturnResultOfLinqQuery.exe
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\bin\Debug\net10.0\04ReturnResultOfLinqQuery.deps.json
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\bin\Debug\net10.0\04ReturnResultOfLinqQuery.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\bin\Debug\net10.0\04ReturnResultOfLinqQuery.dll
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\bin\Debug\net10.0\04ReturnResultOfLinqQuery.pdb
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\04ReturnResultOfLinqQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\04ReturnResultOfLinqQuery.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\04ReturnResultOfLinqQuery.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\04ReturnResultOfLinqQuery.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\04ReturnResultOfLinqQuery.sourcelink.json
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\04ReturnResultOfLinqQuery.dll
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\refint\04ReturnResultOfLinqQuery.dll
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\04ReturnResultOfLinqQuery.pdb
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\04ReturnResultOfLinqQuery.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\04ReturnResultOfLinqQuery\obj\Debug\net10.0\ref\04ReturnResultOfLinqQuery.dll
