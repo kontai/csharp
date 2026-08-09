@@ -1,7 +1,7 @@
 ﻿using System.Collections;
+using FunWithLinqExpressions;
 
 Foo();
-
 static void Foo()
 {
     // ArrayList 是非泛型集合，元素型別為 object，可以同時存放不同型別的資料

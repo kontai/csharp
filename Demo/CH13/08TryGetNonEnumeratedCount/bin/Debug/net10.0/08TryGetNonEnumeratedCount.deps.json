@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "08TryGetNonEnumeratedCount/1.0.0": {
+        "dependencies": {
+          "ProductInfoLib": "1.0.0"
+        },
+        "runtime": {
+          "08TryGetNonEnumeratedCount.dll": {}
+        }
+      },
+      "ProductInfoLib/1.0.0": {
+        "runtime": {
+          "ProductInfoLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "08TryGetNonEnumeratedCount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductInfoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

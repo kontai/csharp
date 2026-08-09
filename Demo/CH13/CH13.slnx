@@ -6,4 +6,9 @@
   <Project Path="05GenericLinq/05GenericLinq.csproj" />
   <Project Path="06OfType/06OfType.csproj" />
   <Project Path="07BasucQuery/07BasucQuery.csproj" />
+  <Project Path="08TryGetNonEnumeratedCount/08TryGetNonEnumeratedCount.csproj" Id="61821622-1239-475d-9da1-fb806f949f70" />
+  <Project Path="09 SortFunc/09 SortFunc.csproj" Id="10624903-d1b1-477b-a534-af01da67c7c2" />
+  <Project Path="10SetExpress/10SetExpress.csproj" Id="808b7504-4897-4ce1-81ce-aa0adb463bfa" />
+  <Project Path="11Aggregation/11Aggregation.csproj" Id="d15176ea-963a-4747-a512-87f6890e1a47" />
+  <Project Path="ProductInfoLib/ProductInfoLib.csproj" />
 </Solution>

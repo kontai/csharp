@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH13\10SetExpress\bin\Debug\net10.0\10SetExpress.exe
+D:\workspace\csharp\Demo\CH13\10SetExpress\bin\Debug\net10.0\10SetExpress.deps.json
+D:\workspace\csharp\Demo\CH13\10SetExpress\bin\Debug\net10.0\10SetExpress.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\10SetExpress\bin\Debug\net10.0\10SetExpress.dll
+D:\workspace\csharp\Demo\CH13\10SetExpress\bin\Debug\net10.0\10SetExpress.pdb
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\10SetExpress.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\10SetExpress.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\10SetExpress.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\10SetExpress.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\10SetExpress.sourcelink.json
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\10SetExpress.dll
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\refint\10SetExpress.dll
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\10SetExpress.pdb
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\10SetExpress.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\10SetExpress\obj\Debug\net10.0\ref\10SetExpress.dll

@@ -13,3 +13,7 @@ D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\refint\07BasucQuery
 D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.pdb
 D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.genruntimeconfig.cache
 D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\ref\07BasucQuery.dll
+D:\workspace\csharp\Demo\CH13\07BasucQuery\bin\Debug\net10.0\ProductInfoLib.dll
+D:\workspace\csharp\Demo\CH13\07BasucQuery\bin\Debug\net10.0\ProductInfoLib.pdb
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQuery.csproj.AssemblyReference.cache
+D:\workspace\csharp\Demo\CH13\07BasucQuery\obj\Debug\net10.0\07BasucQ.9A1E0557.Up2Date

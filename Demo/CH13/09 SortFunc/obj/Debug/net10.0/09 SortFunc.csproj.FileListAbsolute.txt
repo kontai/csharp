@@ -1,0 +1,19 @@
+D:\workspace\csharp\Demo\CH13\09 SortFunc\bin\Debug\net10.0\09 SortFunc.exe
+D:\workspace\csharp\Demo\CH13\09 SortFunc\bin\Debug\net10.0\09 SortFunc.deps.json
+D:\workspace\csharp\Demo\CH13\09 SortFunc\bin\Debug\net10.0\09 SortFunc.runtimeconfig.json
+D:\workspace\csharp\Demo\CH13\09 SortFunc\bin\Debug\net10.0\09 SortFunc.dll
+D:\workspace\csharp\Demo\CH13\09 SortFunc\bin\Debug\net10.0\09 SortFunc.pdb
+D:\workspace\csharp\Demo\CH13\09 SortFunc\bin\Debug\net10.0\ProductInfoLib.dll
+D:\workspace\csharp\Demo\CH13\09 SortFunc\bin\Debug\net10.0\ProductInfoLib.pdb
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.csproj.AssemblyReference.cache
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.sourcelink.json
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortF.9FD6C949.Up2Date
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.dll
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\refint\09 SortFunc.dll
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.pdb
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\09 SortFunc.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH13\09 SortFunc\obj\Debug\net10.0\ref\09 SortFunc.dll

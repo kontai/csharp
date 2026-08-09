@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07BasucQuery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0cc55b6e37d6140955031bd7ef7f993c7ad4b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+231446bca5ff7b7a21014f5136a320d273d8a96f")]
 [assembly: System.Reflection.AssemblyProductAttribute("07BasucQuery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07BasucQuery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

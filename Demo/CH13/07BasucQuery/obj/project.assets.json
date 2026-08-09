@@ -1,11 +1,30 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "ProductInfoLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/ProductInfoLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductInfoLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ProductInfoLib/1.0.0": {
+      "type": "project",
+      "path": "../ProductInfoLib/ProductInfoLib.csproj",
+      "msbuildProject": "../ProductInfoLib/ProductInfoLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "ProductInfoLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\kontai\\.nuget\\packages\\": {},
@@ -40,7 +59,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\workspace\\csharp\\Demo\\CH13\\ProductInfoLib\\ProductInfoLib.csproj": {
+              "projectPath": "D:\\workspace\\csharp\\Demo\\CH13\\ProductInfoLib\\ProductInfoLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

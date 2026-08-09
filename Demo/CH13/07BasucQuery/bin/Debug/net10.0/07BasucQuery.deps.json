@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "07BasucQuery/1.0.0": {
+        "dependencies": {
+          "ProductInfoLib": "1.0.0"
+        },
         "runtime": {
           "07BasucQuery.dll": {}
+        }
+      },
+      "ProductInfoLib/1.0.0": {
+        "runtime": {
+          "ProductInfoLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "07BasucQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductInfoLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

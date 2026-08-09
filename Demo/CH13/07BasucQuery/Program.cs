@@ -1,5 +1,6 @@
 ﻿using FunWithLinqExpressions;
 using System.ComponentModel.DataAnnotations;
+using System.Reflection.Metadata.Ecma335;
 
 Console.WriteLine("***** 體驗查詢表達式的威力 *****\n");
 
@@ -21,7 +22,19 @@ ProductInfo[] itemsInStock = new[]
 //Paging(itemsInStock);
 //RangeItem(itemsInStock);
 //ChunkItem(itemsInStock);
-ChunkDelayExec(itemsInStock);
+//ChunkDelayExec(itemsInStock);
+
+//var res = GetProductionTuple(itemsInStock);
+
+var res = GetProductionRecord(itemsInStock);
+Console.WriteLine("姓名長度大於15的數量: {0}", GetCount(itemsInStock));
+Console.WriteLine("Mac在名單中嗎? {0}", IsMacInStock(itemsInStock) ? "是" : "否");
+
+foreach (var item in res)
+{
+    Console.WriteLine(item.ToString());
+}
+
 
 static void AllItems(ProductInfo[] itemsInStock)
 {
@@ -103,3 +116,25 @@ static void ChunkDelayExec(IEnumerable<ProductInfo> itemsInStock)
         Console.WriteLine($"取得 chunk: [{string.Join(", ", chunk)}]");
     }
 }
+
+static IEnumerable<(string Name, string Description)> GetProductionTuple(ProductInfo[] itemsInStock)
+{
+    return from s in itemsInStock select (s.Name, s.Description);
+}
+
+static IEnumerable<ProductRecord> GetProductionRecord(ProductInfo[] itemsInStock)
+{
+    return itemsInStock.Select(s => new ProductRecord(s.Name, s.Description));
+}
+
+static int GetCount(ProductInfo[] itemsInStock)
+{
+    return itemsInStock.Count(s => s.Name.Length > 15); //計算姓名長度大於15的數量
+}
+static bool IsMacInStock(ProductInfo[] itemsInStock)
+{
+    return itemsInStock.Any(s => s.Name.Contains("Mac"));  //檢查是否有姓名包含Mac
+}
+
+public record ProductRecord(string Name, string Description);
+

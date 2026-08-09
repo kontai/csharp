@@ -1,0 +1,12 @@
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\bin\Debug\net10.0\ProductInfoLib.deps.json
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\bin\Debug\net10.0\ProductInfoLib.dll
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\bin\Debug\net10.0\ProductInfoLib.pdb
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\ProductInfoLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\ProductInfoLib.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\ProductInfoLib.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\ProductInfoLib.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\ProductInfoLib.sourcelink.json
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\ProductInfoLib.dll
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\refint\ProductInfoLib.dll
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\ProductInfoLib.pdb
+D:\workspace\csharp\Demo\CH13\ProductInfoLib\obj\Debug\net10.0\ref\ProductInfoLib.dll
