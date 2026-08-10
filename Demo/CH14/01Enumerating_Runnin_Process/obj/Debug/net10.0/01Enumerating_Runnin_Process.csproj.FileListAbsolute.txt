@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\bin\Debug\net10.0\01Enumerating_Runnin_Process.exe
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\bin\Debug\net10.0\01Enumerating_Runnin_Process.deps.json
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\bin\Debug\net10.0\01Enumerating_Runnin_Process.runtimeconfig.json
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\bin\Debug\net10.0\01Enumerating_Runnin_Process.dll
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\bin\Debug\net10.0\01Enumerating_Runnin_Process.pdb
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\01Enumerating_Runnin_Process.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\01Enumerating_Runnin_Process.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\01Enumerating_Runnin_Process.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\01Enumerating_Runnin_Process.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\01Enumerating_Runnin_Process.sourcelink.json
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\01Enumerating_Runnin_Process.dll
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\refint\01Enumerating_Runnin_Process.dll
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\01Enumerating_Runnin_Process.pdb
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\01Enumerating_Runnin_Process.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH14\01Enumerating_Runnin_Process\obj\Debug\net10.0\ref\01Enumerating_Runnin_Process.dll
