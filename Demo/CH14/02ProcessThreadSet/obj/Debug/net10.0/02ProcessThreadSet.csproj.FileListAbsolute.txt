@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\bin\Debug\net10.0\02ProcessThreadSet.exe
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\bin\Debug\net10.0\02ProcessThreadSet.deps.json
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\bin\Debug\net10.0\02ProcessThreadSet.runtimeconfig.json
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\bin\Debug\net10.0\02ProcessThreadSet.dll
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\bin\Debug\net10.0\02ProcessThreadSet.pdb
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\02ProcessThreadSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\02ProcessThreadSet.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\02ProcessThreadSet.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\02ProcessThreadSet.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\02ProcessThreadSet.sourcelink.json
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\02ProcessThreadSet.dll
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\refint\02ProcessThreadSet.dll
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\02ProcessThreadSet.pdb
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\02ProcessThreadSet.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH14\02ProcessThreadSet\obj\Debug\net10.0\ref\02ProcessThreadSet.dll

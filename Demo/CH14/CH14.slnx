@@ -1,3 +1,12 @@
 <Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
   <Project Path="01Enumerating_Runnin_Process/01Enumerating_Runnin_Process.csproj" />
+  <Project Path="02ProcessThreadSet/02ProcessThreadSet.csproj" Id="1c2c2b8a-a545-4009-9c5c-3616ed17c504" />
+  <Project Path="03StartKillProcess/03StartKillProcess.csproj" Id="61026328-3bc5-4543-ab06-235cf0b556ef" />
+  <Project Path="04VerbWithProcessStartInfo/04VerbWithProcessStartInfo.csproj" Id="b41589b4-f9f7-40fc-a927-5978c0c3455d" />
+  <Project Path="DemoCppProj/DemoCppProj.vcxproj" Id="db7eeb4a-96c1-4e12-892f-00b572f01f5c" />
 </Solution>

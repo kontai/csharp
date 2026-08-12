@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\bin\Debug\net10.0\04VerbWithProcessStartInfo.exe
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\bin\Debug\net10.0\04VerbWithProcessStartInfo.deps.json
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\bin\Debug\net10.0\04VerbWithProcessStartInfo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\bin\Debug\net10.0\04VerbWithProcessStartInfo.dll
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\bin\Debug\net10.0\04VerbWithProcessStartInfo.pdb
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\04VerbWithProcessStartInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\04VerbWithProcessStartInfo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\04VerbWithProcessStartInfo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\04VerbWithProcessStartInfo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\04VerbWithProcessStartInfo.sourcelink.json
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\04VerbWithProcessStartInfo.dll
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\refint\04VerbWithProcessStartInfo.dll
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\04VerbWithProcessStartInfo.pdb
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\04VerbWithProcessStartInfo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH14\04VerbWithProcessStartInfo\obj\Debug\net10.0\ref\04VerbWithProcessStartInfo.dll

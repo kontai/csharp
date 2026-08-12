@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\bin\Debug\net10.0\03StartKillProcess.exe
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\bin\Debug\net10.0\03StartKillProcess.deps.json
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\bin\Debug\net10.0\03StartKillProcess.runtimeconfig.json
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\bin\Debug\net10.0\03StartKillProcess.dll
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\bin\Debug\net10.0\03StartKillProcess.pdb
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\03StartKillProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\03StartKillProcess.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\03StartKillProcess.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\03StartKillProcess.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\03StartKillProcess.sourcelink.json
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\03StartKillProcess.dll
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\refint\03StartKillProcess.dll
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\03StartKillProcess.pdb
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\03StartKillProcess.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH14\03StartKillProcess\obj\Debug\net10.0\ref\03StartKillProcess.dll
