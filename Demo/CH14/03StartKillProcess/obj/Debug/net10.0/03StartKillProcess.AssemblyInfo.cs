@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03StartKillProcess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01f9d436108b77464763b9b16c193535bc55bf38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d669dd05fb65f6cc69173dbaf36810b2d34c5325")]
 [assembly: System.Reflection.AssemblyProductAttribute("03StartKillProcess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03StartKillProcess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

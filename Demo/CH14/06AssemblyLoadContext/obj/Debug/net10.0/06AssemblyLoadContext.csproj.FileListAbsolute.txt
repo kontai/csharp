@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\bin\Debug\net10.0\06AssemblyLoadContext.exe
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\bin\Debug\net10.0\06AssemblyLoadContext.deps.json
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\bin\Debug\net10.0\06AssemblyLoadContext.runtimeconfig.json
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\bin\Debug\net10.0\06AssemblyLoadContext.dll
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\bin\Debug\net10.0\06AssemblyLoadContext.pdb
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\06AssemblyLoadContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\06AssemblyLoadContext.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\06AssemblyLoadContext.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\06AssemblyLoadContext.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\06AssemblyLoadContext.sourcelink.json
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\06AssemblyLoadContext.dll
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\refint\06AssemblyLoadContext.dll
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\06AssemblyLoadContext.pdb
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\06AssemblyLoadContext.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH14\06AssemblyLoadContext\obj\Debug\net10.0\ref\06AssemblyLoadContext.dll

@@ -8,5 +8,8 @@
   <Project Path="02ProcessThreadSet/02ProcessThreadSet.csproj" Id="1c2c2b8a-a545-4009-9c5c-3616ed17c504" />
   <Project Path="03StartKillProcess/03StartKillProcess.csproj" Id="61026328-3bc5-4543-ab06-235cf0b556ef" />
   <Project Path="04VerbWithProcessStartInfo/04VerbWithProcessStartInfo.csproj" Id="b41589b4-f9f7-40fc-a927-5978c0c3455d" />
+  <Project Path="05AppDomain/05AppDomain.csproj" Id="b77103c9-1efe-432c-b174-7af0dfb0c1a2" />
+  <Project Path="06AssemblyLoadContext/06AssemblyLoadContext.csproj" Id="67dbe61d-9411-4ac0-b723-c695d4a5d4ef" />
+  <Project Path="Car/Car.csproj" Id="3b605f15-dbb9-4953-aeac-aa511166aa5a" />
   <Project Path="DemoCppProj/DemoCppProj.vcxproj" Id="db7eeb4a-96c1-4e12-892f-00b572f01f5c" />
 </Solution>

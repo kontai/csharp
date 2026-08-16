@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH14\05AppDomain\bin\Debug\net10.0\05AppDomain.exe
+D:\workspace\csharp\Demo\CH14\05AppDomain\bin\Debug\net10.0\05AppDomain.deps.json
+D:\workspace\csharp\Demo\CH14\05AppDomain\bin\Debug\net10.0\05AppDomain.runtimeconfig.json
+D:\workspace\csharp\Demo\CH14\05AppDomain\bin\Debug\net10.0\05AppDomain.dll
+D:\workspace\csharp\Demo\CH14\05AppDomain\bin\Debug\net10.0\05AppDomain.pdb
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\05AppDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\05AppDomain.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\05AppDomain.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\05AppDomain.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\05AppDomain.sourcelink.json
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\05AppDomain.dll
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\refint\05AppDomain.dll
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\05AppDomain.pdb
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\05AppDomain.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH14\05AppDomain\obj\Debug\net10.0\ref\05AppDomain.dll

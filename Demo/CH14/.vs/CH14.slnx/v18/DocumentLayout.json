@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B41589B4-F9F7-40FC-A927-5978C0C3455D}|04VerbWithProcessStartInfo\\04VerbWithProcessStartInfo.csproj|d:\\workspace\\csharp\\demo\\ch14\\04verbwithprocessstartinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B41589B4-F9F7-40FC-A927-5978C0C3455D}|04VerbWithProcessStartInfo\\04VerbWithProcessStartInfo.csproj|solutionrelative:04verbwithprocessstartinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61026328-3BC5-4543-AB06-235CF0B556EF}|03StartKillProcess\\03StartKillProcess.csproj|d:\\workspace\\csharp\\demo\\ch14\\03startkillprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61026328-3BC5-4543-AB06-235CF0B556EF}|03StartKillProcess\\03StartKillProcess.csproj|solutionrelative:03startkillprocess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67DBE61D-9411-4AC0-B723-C695D4A5D4EF}|06AssemblyLoadContext\\06AssemblyLoadContext.csproj|d:\\workspace\\csharp\\demo\\ch14\\06assemblyloadcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DBE61D-9411-4AC0-B723-C695D4A5D4EF}|06AssemblyLoadContext\\06AssemblyLoadContext.csproj|solutionrelative:06assemblyloadcontext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,26 +68,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH14\\04VerbWithProcessStartInfo\\Program.cs",
-              "RelativeDocumentMoniker": "04VerbWithProcessStartInfo\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH14\\04VerbWithProcessStartInfo\\Program.cs",
-              "RelativeToolTip": "04VerbWithProcessStartInfo\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAswBgAAAAdAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH14\\06AssemblyLoadContext\\Program.cs",
+              "RelativeDocumentMoniker": "06AssemblyLoadContext\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH14\\06AssemblyLoadContext\\Program.cs",
+              "RelativeToolTip": "06AssemblyLoadContext\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T03:05:55.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH14\\03StartKillProcess\\Program.cs",
-              "RelativeDocumentMoniker": "03StartKillProcess\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH14\\03StartKillProcess\\Program.cs",
-              "RelativeToolTip": "03StartKillProcess\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T01:15:45.266Z",
+              "WhenOpened": "2026-08-16T07:23:47.151Z",
               "EditorCaption": ""
             }
           ]
