@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="01Threading/01Threading.csproj" />
+  <Project Path="02ThreadStart/02ThreadStart.csproj" Id="0fdfbe26-c495-46a5-a5e3-d1ba2bce77e1" />
+  <Project Path="03ParameterizedThreadStart/03ParameterizedThreadStart.csproj" Id="ff23e970-3847-4547-bd42-608680b1d396" />
+  <Project Path="04BackgroundForeground/04BackgroundForeground.csproj" Id="d60b51be-2bad-422a-9752-99f1827a0029" />
+  <Project Path="06IssueOfConcurrency/06IssueOfConcurrency.csproj" Id="0eb68e75-0beb-49fd-83db-fd6b7e9fa5ec" />
+</Solution>

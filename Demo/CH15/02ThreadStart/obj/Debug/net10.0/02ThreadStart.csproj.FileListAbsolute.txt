@@ -1,0 +1,15 @@
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\bin\Debug\net10.0\02ThreadStart.exe
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\bin\Debug\net10.0\02ThreadStart.deps.json
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\bin\Debug\net10.0\02ThreadStart.runtimeconfig.json
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\bin\Debug\net10.0\02ThreadStart.dll
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\bin\Debug\net10.0\02ThreadStart.pdb
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\02ThreadStart.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\02ThreadStart.AssemblyInfoInputs.cache
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\02ThreadStart.AssemblyInfo.cs
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\02ThreadStart.csproj.CoreCompileInputs.cache
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\02ThreadStart.sourcelink.json
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\02ThreadStart.dll
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\refint\02ThreadStart.dll
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\02ThreadStart.pdb
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\02ThreadStart.genruntimeconfig.cache
+D:\workspace\CPlus\book\cpp_primer_5\CH15\02ThreadStart\obj\Debug\net10.0\ref\02ThreadStart.dll

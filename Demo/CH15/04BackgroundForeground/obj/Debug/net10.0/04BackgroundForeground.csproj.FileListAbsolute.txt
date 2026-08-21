@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\bin\Debug\net10.0\04BackgroundForeground.exe
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\bin\Debug\net10.0\04BackgroundForeground.deps.json
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\bin\Debug\net10.0\04BackgroundForeground.runtimeconfig.json
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\bin\Debug\net10.0\04BackgroundForeground.dll
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\bin\Debug\net10.0\04BackgroundForeground.pdb
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\04BackgroundForeground.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\04BackgroundForeground.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\04BackgroundForeground.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\04BackgroundForeground.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\04BackgroundForeground.sourcelink.json
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\04BackgroundForeground.dll
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\refint\04BackgroundForeground.dll
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\04BackgroundForeground.pdb
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\04BackgroundForeground.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH15\04BackgroundForeground\obj\Debug\net10.0\ref\04BackgroundForeground.dll

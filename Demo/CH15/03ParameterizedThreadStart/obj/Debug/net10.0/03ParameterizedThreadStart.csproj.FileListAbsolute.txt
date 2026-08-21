@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\bin\Debug\net10.0\03ParameterizedThreadStart.exe
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\bin\Debug\net10.0\03ParameterizedThreadStart.deps.json
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\bin\Debug\net10.0\03ParameterizedThreadStart.runtimeconfig.json
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\bin\Debug\net10.0\03ParameterizedThreadStart.dll
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\bin\Debug\net10.0\03ParameterizedThreadStart.pdb
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\03ParameterizedThreadStart.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\03ParameterizedThreadStart.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\03ParameterizedThreadStart.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\03ParameterizedThreadStart.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\03ParameterizedThreadStart.sourcelink.json
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\03ParameterizedThreadStart.dll
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\refint\03ParameterizedThreadStart.dll
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\03ParameterizedThreadStart.pdb
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\03ParameterizedThreadStart.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH15\03ParameterizedThreadStart\obj\Debug\net10.0\ref\03ParameterizedThreadStart.dll
