@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\bin\Debug\net10.0\05IssueOfConcurrency.exe
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\bin\Debug\net10.0\05IssueOfConcurrency.deps.json
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\bin\Debug\net10.0\05IssueOfConcurrency.runtimeconfig.json
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\bin\Debug\net10.0\05IssueOfConcurrency.dll
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\bin\Debug\net10.0\05IssueOfConcurrency.pdb
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\05IssueOfConcurrency.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\05IssueOfConcurrency.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\05IssueOfConcurrency.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\05IssueOfConcurrency.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\05IssueOfConcurrency.sourcelink.json
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\05IssueOfConcurrency.dll
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\refint\05IssueOfConcurrency.dll
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\05IssueOfConcurrency.pdb
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\05IssueOfConcurrency.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH15\06IssueOfConcurrency\obj\Debug\net10.0\ref\05IssueOfConcurrency.dll
