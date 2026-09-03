@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH15\10PLINQ\bin\Debug\net10.0\10PLINQ.exe
+D:\workspace\csharp\Demo\CH15\10PLINQ\bin\Debug\net10.0\10PLINQ.deps.json
+D:\workspace\csharp\Demo\CH15\10PLINQ\bin\Debug\net10.0\10PLINQ.runtimeconfig.json
+D:\workspace\csharp\Demo\CH15\10PLINQ\bin\Debug\net10.0\10PLINQ.dll
+D:\workspace\csharp\Demo\CH15\10PLINQ\bin\Debug\net10.0\10PLINQ.pdb
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\10PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\10PLINQ.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\10PLINQ.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\10PLINQ.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\10PLINQ.sourcelink.json
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\10PLINQ.dll
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\refint\10PLINQ.dll
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\10PLINQ.pdb
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\10PLINQ.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH15\10PLINQ\obj\Debug\net10.0\ref\10PLINQ.dll

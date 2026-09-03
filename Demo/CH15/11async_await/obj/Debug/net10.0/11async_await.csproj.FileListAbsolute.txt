@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\11async_await.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\11async_await.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\11async_await.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\11async_await.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\11async_await.sourcelink.json
+D:\workspace\csharp\Demo\CH15\11async_await\bin\Debug\net10.0\11async_await.exe
+D:\workspace\csharp\Demo\CH15\11async_await\bin\Debug\net10.0\11async_await.deps.json
+D:\workspace\csharp\Demo\CH15\11async_await\bin\Debug\net10.0\11async_await.runtimeconfig.json
+D:\workspace\csharp\Demo\CH15\11async_await\bin\Debug\net10.0\11async_await.dll
+D:\workspace\csharp\Demo\CH15\11async_await\bin\Debug\net10.0\11async_await.pdb
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\11async_await.dll
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\refint\11async_await.dll
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\11async_await.pdb
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\11async_await.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH15\11async_await\obj\Debug\net10.0\ref\11async_await.dll
