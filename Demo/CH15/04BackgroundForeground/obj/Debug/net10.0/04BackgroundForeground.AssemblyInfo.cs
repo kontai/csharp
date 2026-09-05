@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04BackgroundForeground")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe6879f901558272614fd07f653d5b03227c2fa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eefd584a7c46ec44762d5bfc112ac8fe6db471df")]
 [assembly: System.Reflection.AssemblyProductAttribute("04BackgroundForeground")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04BackgroundForeground")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

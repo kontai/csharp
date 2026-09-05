@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\bin\Debug\net10.0\08TimerCallbackks.exe
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\bin\Debug\net10.0\08TimerCallbackks.deps.json
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\bin\Debug\net10.0\08TimerCallbackks.runtimeconfig.json
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\bin\Debug\net10.0\08TimerCallbackks.dll
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\bin\Debug\net10.0\08TimerCallbackks.pdb
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\08TimerCallbackks.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\08TimerCallbackks.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\08TimerCallbackks.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\08TimerCallbackks.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\08TimerCallbackks.sourcelink.json
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\08TimerCallbackks.dll
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\refint\08TimerCallbackks.dll
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\08TimerCallbackks.pdb
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\08TimerCallbackks.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH15\08TimerCallbackks\obj\Debug\net10.0\ref\08TimerCallbackks.dll

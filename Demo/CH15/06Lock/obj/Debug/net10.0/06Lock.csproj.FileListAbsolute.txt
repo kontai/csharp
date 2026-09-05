@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH15\06Lock\bin\Debug\net10.0\06Lock.exe
+D:\workspace\csharp\Demo\CH15\06Lock\bin\Debug\net10.0\06Lock.deps.json
+D:\workspace\csharp\Demo\CH15\06Lock\bin\Debug\net10.0\06Lock.runtimeconfig.json
+D:\workspace\csharp\Demo\CH15\06Lock\bin\Debug\net10.0\06Lock.dll
+D:\workspace\csharp\Demo\CH15\06Lock\bin\Debug\net10.0\06Lock.pdb
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\06Lock.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\06Lock.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\06Lock.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\06Lock.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\06Lock.sourcelink.json
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\06Lock.dll
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\refint\06Lock.dll
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\06Lock.pdb
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\06Lock.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH15\06Lock\obj\Debug\net10.0\ref\06Lock.dll
