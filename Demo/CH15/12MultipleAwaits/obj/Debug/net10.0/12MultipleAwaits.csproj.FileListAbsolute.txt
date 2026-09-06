@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\bin\Debug\net10.0\12MultipleAwaits.exe
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\bin\Debug\net10.0\12MultipleAwaits.deps.json
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\bin\Debug\net10.0\12MultipleAwaits.runtimeconfig.json
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\bin\Debug\net10.0\12MultipleAwaits.dll
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\bin\Debug\net10.0\12MultipleAwaits.pdb
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\12MultipleAwaits.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\12MultipleAwaits.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\12MultipleAwaits.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\12MultipleAwaits.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\12MultipleAwaits.sourcelink.json
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\12MultipleAwaits.dll
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\refint\12MultipleAwaits.dll
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\12MultipleAwaits.pdb
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\12MultipleAwaits.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH15\12MultipleAwaits\obj\Debug\net10.0\ref\12MultipleAwaits.dll

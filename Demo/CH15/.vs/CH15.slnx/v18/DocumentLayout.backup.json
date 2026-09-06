@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH15\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{224651F3-B199-47B9-86A3-177207DE6E91}|12MultipleAwaits\\12MultipleAwaits.csproj|d:\\workspace\\csharp\\demo\\ch15\\12multipleawaits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224651F3-B199-47B9-86A3-177207DE6E91}|12MultipleAwaits\\12MultipleAwaits.csproj|solutionrelative:12multipleawaits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +59,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH15\\12MultipleAwaits\\Program.cs",
+              "RelativeDocumentMoniker": "12MultipleAwaits\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH15\\12MultipleAwaits\\Program.cs",
+              "RelativeToolTip": "12MultipleAwaits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T06:49:08.14Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02FunWithLocalFunctions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94cf706141b71b8c6d5caac7aec0a04cba5110c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+705d993b3d5e37a9e5a8582328b2547bde431a95")]
 [assembly: System.Reflection.AssemblyProductAttribute("02FunWithLocalFunctions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02FunWithLocalFunctions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

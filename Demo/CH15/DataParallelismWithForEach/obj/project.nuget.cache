@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "jM/4FxfREUE=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\Demo\\CH15\\DataParallelismWithForEach\\DataParallelismWithForEach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kontai\\.nuget\\packages\\system.drawing.common\\10.0.11\\system.drawing.common.10.0.11.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "將不會剪除 PackageReference System.Drawing.Common。此套件會自動提供，因此不需要明確參考。請移除 PackageReference 項目。",
+      "projectPath": "D:\\workspace\\csharp\\Demo\\CH15\\DataParallelismWithForEach\\DataParallelismWithForEach.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\workspace\\csharp\\Demo\\CH15\\DataParallelismWithForEach\\DataParallelismWithForEach.csproj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}

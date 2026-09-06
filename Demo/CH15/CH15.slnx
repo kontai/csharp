@@ -7,4 +7,9 @@
   <Project Path="06Lock/06Lock.csproj" Id="87988883-36de-4db8-a86e-39164fba76ea" />
   <Project Path="07Interlocked/07Interlocked.csproj" Id="1f809860-291d-4a30-b617-b912bae7acf2" />
   <Project Path="08TimerCallbackks/08TimerCallbackks.csproj" Id="ce6fc399-769f-4e3d-9176-d6fa244f9cba" />
+  <Project Path="09ParallelFor/09ParallelFor.csproj" Id="29094a03-8115-460e-96b9-7a51c162fdbe" />
+  <Project Path="10PLINQ/10PLINQ.csproj" Id="e8d698a7-8968-4bc5-8302-51f40aaf08a7" />
+  <Project Path="11async_await/11async_await.csproj" Id="9d85235b-547c-4397-bebc-08d58786eea5" />
+  <Project Path="12MultipleAwaits/12MultipleAwaits.csproj" Id="224651f3-b199-47b9-86a3-177207de6e91" />
+  <Project Path="DataParallelismWithForEach/DataParallelismWithForEach.csproj" />
 </Solution>

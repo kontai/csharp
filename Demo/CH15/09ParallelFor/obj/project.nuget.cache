@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "weipKMPtGLY=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\Demo\\CH15\\09ParallelFor\\09ParallelFor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.11\\microsoft.win32.systemevents.10.0.11.nupkg.sha512",
+    "C:\\Users\\kontai\\.nuget\\packages\\system.drawing.common\\10.0.11\\system.drawing.common.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

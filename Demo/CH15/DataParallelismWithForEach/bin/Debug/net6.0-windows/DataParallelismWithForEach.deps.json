@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataParallelismWithForEach/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "10.0.11"
+        },
+        "runtime": {
+          "DataParallelismWithForEach.dll": {}
+        }
+      },
+      "System.Drawing.Common/10.0.11": {
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1126.37416"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataParallelismWithForEach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Drawing.Common/10.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Schxw0FzXMAwa+If/oVxqjrmmiyUbw9KUAeqJOPnjsdAzkmUZXSZWNRLHZye2boFYlbMRkeBY6dba5hs8Mu4OQ==",
+      "path": "system.drawing.common/10.0.11",
+      "hashPath": "system.drawing.common.10.0.11.nupkg.sha512"
+    }
+  }
+}
