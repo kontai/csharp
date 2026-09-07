@@ -1,0 +1,14 @@
+{
+  "eval_id": 0,
+  "eval_name": "react-useeffect-cleanup",
+  "prompt": "看不懂這段 React 官方文件在講什麼,可以幫我看一下嗎?\n\n---\nCleaning up an Effect\n\nImagine a ChatRoom component that needs to connect to a chat server whenever it's visible on the screen. You're given an API to connect and disconnect from a chat room with the `createConnection()` object. Whenever the component re-renders, React first runs the cleanup function (if you provided one) with the old props and state, and then runs your Effect with the new props and state. Forgetting to clean up can cause your app to open a new connection every time the component re-renders without ever closing the old one, leaking sockets and memory over time.\n\n```jsx\nimport { useEffect } from 'react';\nimport { createConnection } from './chat.js';\n\nfunction ChatRoom({ roomId }) {\n  useEffect(() => {\n    const connection = createConnection(roomId);\n    connection.connect();\n    return () => {\n      connection.disconnect();\n    };\n  }, [roomId]);\n  // ...\n}\n```\n\nIn development, React will run your Effect and clean it up one extra time before running the Effect again. This is a stress-test that verifies your cleanup logic mirrors your setup logic. If you see connect() and disconnect() called in pairs as many times as you'd expect, your logic is correct.\n---",
+  "assertions": [
+    "輸出包含全部五個區塊標題:【技術脈絡】【完整示例代碼】【中文文件譯文】【核心技術拆解】【最佳實踐與地雷提示】(若判斷為地雷提示標題文字略有出入也算過)",
+    "程式碼區塊逐字保留原文所有程式碼行,包含 import 語句、useEffect、createConnection(roomId)、connection.connect()、connection.disconnect()、依賴陣列 [roomId],未被刪減或用註解帶過",
+    "程式碼區塊中沒有新增額外的省略標記(如「// ... 略」或「// output here」)取代原有程式碼",
+    "【核心技術拆解】以條列式呈現,且提及依賴陣列([roomId])的作用與 cleanup 函式的執行時機",
+    "【核心技術拆解】或內文提及 React 開發模式下會多執行一次 effect+cleanup 這個特性",
+    "【最佳實踐與地雷提示】具體提到忘記清理會導致連線/記憶體洩漏(而非空泛的「請注意效能」)",
+    "說明文字讀起來通順自然,是繁體中文而非簡體字或簡轉繁的生硬翻譯"
+  ]
+}

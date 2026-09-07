@@ -1,0 +1,13 @@
+{
+  "eval_id": 1,
+  "eval_name": "rust-ownership-lifetimes",
+  "prompt": "幫我看一下這份 Rust 文件,我看不太懂借用檢查器在幹嘛:\n\n---\nBorrowing and Lifetimes\n\nRust's borrow checker ensures that references do not outlive the data they point to. A struct that holds a reference must be annotated with a lifetime parameter so the compiler can verify this at compile time, with zero runtime cost.\n\n```rust\nstruct Excerpt<'a> {\n    part: &'a str,\n}\n\nimpl<'a> Excerpt<'a> {\n    fn announce_and_return_part(&self, announcement: &str) -> &str {\n        println!(\"Attention please: {}\", announcement);\n        self.part\n    }\n}\n\nfn main() {\n    let novel = String::from(\"Call me Ishmael. Some years ago...\");\n    let first_sentence = novel.split('.').next().expect(\"Could not find a '.'\");\n    let excerpt = Excerpt { part: first_sentence };\n    println!(\"{}\", excerpt.announce_and_return_part(\"here is an excerpt\"));\n}\n```\n\nBecause `Excerpt` borrows from `novel`, the compiler will reject any code that lets `novel` go out of scope while an `Excerpt` referencing it is still alive. This prevents the classic dangling pointer bug found in languages like C and C++ without needing a garbage collector.",
+  "assertions": [
+    "輸出包含全部五個區塊標題:【技術脈絡】【完整示例代碼】【中文文件譯文】【核心技術拆解】【最佳實踐與地雷提示】(標題文字略有出入也算過)",
+    "程式碼區塊逐字保留原文所有程式碼,包含 struct Excerpt<'a>、impl<'a> Excerpt<'a> 區塊、announce_and_return_part 函式、main 函式內的 novel/first_sentence/excerpt 變數與兩個 println!,未被刪減或用註解帶過",
+    "println! 巨集與字串內容維持英文原樣(這是程式碼的一部分,不應被翻譯),只有原本沒有的地方新增中文註解",
+    "【核心技術拆解】以條列式呈現,且解釋生命週期參數 'a 的作用與借用檢查器如何在編譯期防止懸空指標",
+    "【最佳實踐與地雷提示】提到具體的生命週期標註誤用情境或常見錯誤,而非空泛帶過",
+    "說明文字是流暢的繁體中文(台灣用語),非簡體字或生硬直譯"
+  ]
+}

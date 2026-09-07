@@ -1,0 +1,15 @@
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\bin\Debug\net10.0\15AsynchronousStreams.exe
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\bin\Debug\net10.0\15AsynchronousStreams.deps.json
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\bin\Debug\net10.0\15AsynchronousStreams.runtimeconfig.json
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\bin\Debug\net10.0\15AsynchronousStreams.dll
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\bin\Debug\net10.0\15AsynchronousStreams.pdb
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\15AsynchronousStreams.GeneratedMSBuildEditorConfig.editorconfig
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\15AsynchronousStreams.AssemblyInfoInputs.cache
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\15AsynchronousStreams.AssemblyInfo.cs
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\15AsynchronousStreams.csproj.CoreCompileInputs.cache
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\15AsynchronousStreams.sourcelink.json
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\15AsynchronousStreams.dll
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\refint\15AsynchronousStreams.dll
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\15AsynchronousStreams.pdb
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\15AsynchronousStreams.genruntimeconfig.cache
+d:\workspace\csharp\Demo\CH15\15AsynchronousStreams\obj\Debug\net10.0\ref\15AsynchronousStreams.dll

@@ -1,0 +1,45 @@
+{
+  "expectations": [
+    {
+      "text": "輸出包含全部五個區塊標題",
+      "passed": true,
+      "evidence": "【技術脈絡】【完整示例代碼】【中文文件譯文】【核心技術拆解】【最佳實踐與地雷提示】五個標題全部存在，順序正確"
+    },
+    {
+      "text": "程式碼區塊逐字保留原文所有程式碼行",
+      "passed": true,
+      "evidence": "import、useEffect、createConnection(roomId)、connect()/disconnect()、[roomId] 依賴陣列皆完整保留，含原有的 `// ...`"
+    },
+    {
+      "text": "程式碼區塊中沒有新增額外的省略標記",
+      "passed": true,
+      "evidence": "未發現任何新增的「略」或「output here」等省略標記"
+    },
+    {
+      "text": "【核心技術拆解】以條列式呈現並說明依賴陣列與 cleanup 執行時機",
+      "passed": true,
+      "evidence": "條列說明了依賴陣列作用、清理函式觸發規則、先清理後建立的順序"
+    },
+    {
+      "text": "提及開發模式雙重呼叫特性",
+      "passed": true,
+      "evidence": "獨立條列說明 Strict Mode 效應與 connect→disconnect→connect 順序"
+    },
+    {
+      "text": "地雷提示具體提到記憶體/連線洩漏",
+      "passed": true,
+      "evidence": "明確指出忘記清理會導致 socket 洩漏、記憶體洩漏、伺服器端連線數暴增，並延伸提到 stale closure、race condition 等具體地雷"
+    },
+    {
+      "text": "翻譯通順、為繁體中文台灣用語",
+      "passed": true,
+      "evidence": "全文為流暢繁體中文，用詞自然"
+    }
+  ],
+  "summary": {
+    "pass_rate": 1.0,
+    "passed": 7,
+    "failed": 0,
+    "total": 7
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "expectations": [
+    {
+      "text": "輸出包含全部五個區塊標題",
+      "passed": false,
+      "evidence": "沒有使用【技術脈絡】/【完整示例代碼】等固定標題，而是自由格式的「這段在講什麼」「拆解這段程式碼」等小標"
+    },
+    {
+      "text": "程式碼區塊逐字保留原文所有程式碼行",
+      "passed": true,
+      "evidence": "程式碼區塊完整保留"
+    },
+    {
+      "text": "沒有新增額外的省略標記",
+      "passed": true,
+      "evidence": "未發現省略標記"
+    },
+    {
+      "text": "以條列式呈現依賴陣列與 cleanup 執行時機",
+      "passed": true,
+      "evidence": "有條列拆解程式碼，也用編號列表說明切換 roomId 時的執行順序，但沒有獨立的「核心技術拆解」段落，內容和譯文交錯在一起"
+    },
+    {
+      "text": "提及開發模式雙重呼叫特性",
+      "passed": true,
+      "evidence": "有說明 StrictMode 的 connect→disconnect→connect 順序"
+    },
+    {
+      "text": "地雷提示具體提到記憶體/連線洩漏",
+      "passed": true,
+      "evidence": "提到 socket 洩漏、記憶體洩漏，但沒有像 with_skill 版本延伸到 stale closure、race condition 等生產環境地雷"
+    },
+    {
+      "text": "翻譯通順為台灣用語",
+      "passed": true,
+      "evidence": "語氣自然，但這是「用自己的話講解」而非「逐句翻譯原文」，跟技能要求的『翻譯+拆解』分離的形式不同"
+    }
+  ],
+  "summary": {
+    "pass_rate": 0.8571,
+    "passed": 6,
+    "failed": 1,
+    "total": 7
+  }
+}

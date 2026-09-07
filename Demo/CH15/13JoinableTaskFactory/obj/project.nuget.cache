@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8gnjW511Vw=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\Demo\\CH15\\13JoinableTaskFactory\\13JoinableTaskFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.visualstudio.threading\\18.7.23\\microsoft.visualstudio.threading.18.7.23.nupkg.sha512",
+    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.visualstudio.threading.analyzers\\18.7.23\\microsoft.visualstudio.threading.analyzers.18.7.23.nupkg.sha512",
+    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.visualstudio.threading.only\\18.7.23\\microsoft.visualstudio.threading.only.18.7.23.nupkg.sha512",
+    "C:\\Users\\kontai\\.nuget\\packages\\microsoft.visualstudio.validation\\17.13.22\\microsoft.visualstudio.validation.17.13.22.nupkg.sha512"
+  ],
+  "logs": []
+}

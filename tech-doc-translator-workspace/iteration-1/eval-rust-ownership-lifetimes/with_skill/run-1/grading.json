@@ -1,0 +1,40 @@
+{
+  "expectations": [
+    {
+      "text": "輸出包含全部五個區塊標題",
+      "passed": true,
+      "evidence": "五個標題全部存在，順序正確"
+    },
+    {
+      "text": "程式碼逐字保留（struct/impl/main/println!）",
+      "passed": true,
+      "evidence": "struct Excerpt<'a>、impl<'a> Excerpt<'a>、announce_and_return_part、main 內三個變數與兩個 println! 全部保留"
+    },
+    {
+      "text": "println! 巨集與字串內容維持英文原樣",
+      "passed": true,
+      "evidence": "\"Attention please: {}\" 與格式化字串未被翻譯，符合程式碼應保持原樣的要求"
+    },
+    {
+      "text": "核心技術拆解解釋生命週期參數與借用檢查器防止懸空指標",
+      "passed": true,
+      "evidence": "條列解釋了 'a 的意義、struct 標註原因、生命週期省略規則、main 中的資料流向與借用檢查器判斷邏輯"
+    },
+    {
+      "text": "最佳實踐提到具體生命週期誤用情境",
+      "passed": true,
+      "evidence": "具體舉例「借用生命週期不足」的編譯錯誤情境、濫用 'static 的反模式、多生命週期參數過度收斂的問題"
+    },
+    {
+      "text": "翻譯流暢為台灣用語",
+      "passed": true,
+      "evidence": "全文流暢繁體中文，技術詞彙精準（借用檢查器、生命週期參數、懸空指標等）"
+    }
+  ],
+  "summary": {
+    "pass_rate": 1.0,
+    "passed": 6,
+    "failed": 0,
+    "total": 6
+  }
+}
