@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>03CarLibrary</id>
+    <version>1.0.4</version>
+    <title>myCarLib</title>
+    <authors>kontai</authors>
+    <description>This is an awesome library for cars.</description>
+    <copyright>Copyright 2026</copyright>
+    <repository type="git" commit="d57c618ba6277db546257643aba9169022472d87" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\workspace\csharp\Demo\CH16\03CarLibrary\bin\Debug\net10.0\03CarLibrary.dll" target="lib\net10.0\03CarLibrary.dll" />
+  </files>
+</package>

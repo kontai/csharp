@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH16\01Namespace\bin\Debug\net10.0\01Namespace.exe
+D:\workspace\csharp\Demo\CH16\01Namespace\bin\Debug\net10.0\01Namespace.deps.json
+D:\workspace\csharp\Demo\CH16\01Namespace\bin\Debug\net10.0\01Namespace.runtimeconfig.json
+D:\workspace\csharp\Demo\CH16\01Namespace\bin\Debug\net10.0\01Namespace.dll
+D:\workspace\csharp\Demo\CH16\01Namespace\bin\Debug\net10.0\01Namespace.pdb
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\01Namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\01Namespace.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\01Namespace.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\01Namespace.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\01Namespace.sourcelink.json
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\01Namespace.dll
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\refint\01Namespace.dll
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\01Namespace.pdb
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\01Namespace.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH16\01Namespace\obj\Debug\net10.0\ref\01Namespace.dll

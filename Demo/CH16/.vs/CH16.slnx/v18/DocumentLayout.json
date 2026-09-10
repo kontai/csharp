@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3857248A-4065-4118-80CC-23A206D50B3B}|01Namespace\\01Namespace.csproj|d:\\workspace\\csharp\\demo\\ch16\\01namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3857248A-4065-4118-80CC-23A206D50B3B}|01Namespace\\01Namespace.csproj|solutionrelative:01namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19538CBA-DDC6-89DD-A1DB-B526BACECF2C}|05ProbingPaths\\05ProbingPaths.csproj|d:\\workspace\\csharp\\demo\\ch16\\05probingpaths\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19538CBA-DDC6-89DD-A1DB-B526BACECF2C}|05ProbingPaths\\05ProbingPaths.csproj|solutionrelative:05probingpaths\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3857248A-4065-4118-80CC-23A206D50B3B}|01Namespace\\01Namespace.csproj|d:\\workspace\\csharp\\demo\\ch16\\01namespace\\myshapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3857248A-4065-4118-80CC-23A206D50B3B}|01Namespace\\01Namespace.csproj|solutionrelative:01namespace\\myshapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19538CBA-DDC6-89DD-A1DB-B526BACECF2C}|05ProbingPaths\\05ProbingPaths.csproj|d:\\workspace\\csharp\\demo\\ch16\\05probingpaths\\05probingpaths.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19538CBA-DDC6-89DD-A1DB-B526BACECF2C}|05ProbingPaths\\05ProbingPaths.csproj|solutionrelative:05probingpaths\\05probingpaths.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3857248A-4065-4118-80CC-23A206D50B3B}|01Namespace\\01Namespace.csproj|d:\\workspace\\csharp\\demo\\ch16\\01namespace\\myshapes\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3857248A-4065-4118-80CC-23A206D50B3B}|01Namespace\\01Namespace.csproj|solutionrelative:01namespace\\myshapes\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02114EB1-0AAF-50F7-77BE-8C0A48E64314}|04CSharpClient\\04CSharpClient.csproj|d:\\workspace\\csharp\\demo\\ch16\\04csharpclient\\04csharpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02114EB1-0AAF-50F7-77BE-8C0A48E64314}|04CSharpClient\\04CSharpClient.csproj|solutionrelative:04csharpclient\\04csharpclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3857248A-4065-4118-80CC-23A206D50B3B}|01Namespace\\01Namespace.csproj|d:\\workspace\\csharp\\demo\\ch16\\01namespace\\myshapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3857248A-4065-4118-80CC-23A206D50B3B}|01Namespace\\01Namespace.csproj|solutionrelative:01namespace\\myshapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch16\\03carlibrary\\03carlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|solutionrelative:03carlibrary\\03carlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch16\\03carlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|solutionrelative:03carlibrary\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch16\\03carlibrary\\myinternalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|solutionrelative:03carlibrary\\myinternalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02114EB1-0AAF-50F7-77BE-8C0A48E64314}|04CSharpClient\\04CSharpClient.csproj|d:\\workspace\\csharp\\demo\\ch16\\04csharpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02114EB1-0AAF-50F7-77BE-8C0A48E64314}|04CSharpClient\\04CSharpClient.csproj|solutionrelative:04csharpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch16\\03carlibrary\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|solutionrelative:03carlibrary\\minivan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch16\\03carlibrary\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|solutionrelative:03carlibrary\\sportscar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch16\\03carlibrary\\enginestateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|solutionrelative:03carlibrary\\enginestateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch16\\03carlibrary\\musicmediaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|solutionrelative:03carlibrary\\musicmediaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,54 +102,144 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Square.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\MyShapes\\Square.cs",
-              "RelativeDocumentMoniker": "01Namespace\\MyShapes\\Square.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\MyShapes\\Square.cs",
-              "RelativeToolTip": "01Namespace\\MyShapes\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\05ProbingPaths\\Program.cs",
+              "RelativeDocumentMoniker": "05ProbingPaths\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\05ProbingPaths\\Program.cs",
+              "RelativeToolTip": "05ProbingPaths\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T23:58:08.378Z",
+              "WhenOpened": "2026-09-10T03:19:29.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05ProbingPaths",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\05ProbingPaths\\05ProbingPaths.csproj",
+              "RelativeDocumentMoniker": "05ProbingPaths\\05ProbingPaths.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\05ProbingPaths\\05ProbingPaths.csproj",
+              "RelativeToolTip": "05ProbingPaths\\05ProbingPaths.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T03:19:24.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Hexagon.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\MyShapes\\Hexagon.cs",
-              "RelativeDocumentMoniker": "01Namespace\\MyShapes\\Hexagon.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\MyShapes\\Hexagon.cs",
-              "RelativeToolTip": "01Namespace\\MyShapes\\Hexagon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T23:56:34.049Z",
+              "Title": "04CSharpClient.csproj",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\04CSharpClient\\04CSharpClient.csproj",
+              "RelativeDocumentMoniker": "04CSharpClient\\04CSharpClient.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\04CSharpClient\\04CSharpClient.csproj",
+              "RelativeToolTip": "04CSharpClient\\04CSharpClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T03:03:00.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Circle.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\MyShapes\\Circle.cs",
-              "RelativeDocumentMoniker": "01Namespace\\MyShapes\\Circle.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\MyShapes\\Circle.cs",
-              "RelativeToolTip": "01Namespace\\MyShapes\\Circle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Title": "03CarLibrary.csproj",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\03CarLibrary.csproj",
+              "RelativeDocumentMoniker": "03CarLibrary\\03CarLibrary.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\03CarLibrary.csproj",
+              "RelativeToolTip": "03CarLibrary\\03CarLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-10T01:01:14.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyInternalClass.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\MyInternalClass.cs",
+              "RelativeDocumentMoniker": "03CarLibrary\\MyInternalClass.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\MyInternalClass.cs",
+              "RelativeToolTip": "03CarLibrary\\MyInternalClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T23:55:22.156Z",
+              "WhenOpened": "2026-09-09T14:27:38.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\Program.cs",
-              "RelativeDocumentMoniker": "01Namespace\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\Program.cs",
-              "RelativeToolTip": "01Namespace\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\04CSharpClient\\Program.cs",
+              "RelativeDocumentMoniker": "04CSharpClient\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\04CSharpClient\\Program.cs",
+              "RelativeToolTip": "04CSharpClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-06T23:54:26.783Z",
+              "WhenOpened": "2026-09-09T13:25:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniVan.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\MiniVan.cs",
+              "RelativeDocumentMoniker": "03CarLibrary\\MiniVan.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\MiniVan.cs",
+              "RelativeToolTip": "03CarLibrary\\MiniVan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T10:15:58.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SportsCar.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\SportsCar.cs",
+              "RelativeDocumentMoniker": "03CarLibrary\\SportsCar.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\SportsCar.cs",
+              "RelativeToolTip": "03CarLibrary\\SportsCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T10:15:47.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\Car.cs",
+              "RelativeDocumentMoniker": "03CarLibrary\\Car.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\Car.cs",
+              "RelativeToolTip": "03CarLibrary\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T10:15:24.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EngineStateEnum.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\EngineStateEnum.cs",
+              "RelativeDocumentMoniker": "03CarLibrary\\EngineStateEnum.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\EngineStateEnum.cs",
+              "RelativeToolTip": "03CarLibrary\\EngineStateEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T10:15:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MusicMediaEnum.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\MusicMediaEnum.cs",
+              "RelativeDocumentMoniker": "03CarLibrary\\MusicMediaEnum.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\03CarLibrary\\MusicMediaEnum.cs",
+              "RelativeToolTip": "03CarLibrary\\MusicMediaEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T10:14:40.139Z",
               "EditorCaption": ""
             }
           ]

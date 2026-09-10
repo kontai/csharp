@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "04CSharpClient/1.0.0": {
+        "dependencies": {
+          "03CarLibrary": "1.0.3"
+        },
+        "runtime": {
+          "04CSharpClient.dll": {}
+        }
+      },
+      "03CarLibrary/1.0.3": {
+        "runtime": {
+          "03CarLibrary.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04CSharpClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03CarLibrary/1.0.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
