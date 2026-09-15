@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="01TypeIntro/01TypeIntro.csproj" />
+  <Project Path="02MyTypeViewer/02MyTypeViewer.csproj" Id="2e712b5d-f41a-46c5-b2c1-95fc61324f40" />
+  <Project Path="03ExternalAssemblyReflector/03ExternalAssemblyReflector.csproj" Id="06017ffc-163d-4db9-a2d1-fd903c19acbe" />
+  <Project Path="04FrameworkAssemblyViewer/04FrameworkAssemblyViewer.csproj" />
+</Solution>

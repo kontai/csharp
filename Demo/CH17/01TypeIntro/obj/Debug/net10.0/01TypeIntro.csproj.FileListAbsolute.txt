@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH17\01TypeIntro\bin\Debug\net10.0\01TypeIntro.exe
+D:\workspace\csharp\Demo\CH17\01TypeIntro\bin\Debug\net10.0\01TypeIntro.deps.json
+D:\workspace\csharp\Demo\CH17\01TypeIntro\bin\Debug\net10.0\01TypeIntro.runtimeconfig.json
+D:\workspace\csharp\Demo\CH17\01TypeIntro\bin\Debug\net10.0\01TypeIntro.dll
+D:\workspace\csharp\Demo\CH17\01TypeIntro\bin\Debug\net10.0\01TypeIntro.pdb
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIntro.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIntro.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIntro.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIntro.sourcelink.json
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIntro.dll
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\refint\01TypeIntro.dll
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIntro.pdb
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIntro.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\ref\01TypeIntro.dll
+D:\workspace\csharp\Demo\CH17\01TypeIntro\obj\Debug\net10.0\01TypeIn.36F82513.Up2Date

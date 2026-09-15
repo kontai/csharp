@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\bin\Debug\net10.0\c_lock.exe
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\bin\Debug\net10.0\c_lock.deps.json
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\bin\Debug\net10.0\c_lock.runtimeconfig.json
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\bin\Debug\net10.0\c_lock.dll
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\bin\Debug\net10.0\c_lock.pdb
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\c_lock.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\c_lock.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\c_lock.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\c_lock.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\c_lock.sourcelink.json
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\c_lock.dll
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\refint\c_lock.dll
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\c_lock.pdb
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\c_lock.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\CH15Thead\c_lock\obj\Debug\net10.0\ref\c_lock.dll

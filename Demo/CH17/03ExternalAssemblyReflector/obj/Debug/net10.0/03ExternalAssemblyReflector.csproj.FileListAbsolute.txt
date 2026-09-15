@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\bin\Debug\net10.0\03ExternalAssemblyReflector.exe
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\bin\Debug\net10.0\03ExternalAssemblyReflector.deps.json
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\bin\Debug\net10.0\03ExternalAssemblyReflector.runtimeconfig.json
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\bin\Debug\net10.0\03ExternalAssemblyReflector.dll
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\bin\Debug\net10.0\03ExternalAssemblyReflector.pdb
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.sourcelink.json
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.dll
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\refint\03ExternalAssemblyReflector.dll
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.pdb
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\ref\03ExternalAssemblyReflector.dll
+D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03Extern.F5D1BF86.Up2Date

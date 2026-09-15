@@ -1,5 +1,5 @@
 ﻿DataParallelismWithForEach
-
+1.0.0.0
 
 winexe
 C#
@@ -12,8 +12,8 @@ TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_O
 D:\workspace\csharp\Demo\CH15\DataParallelismWithForEach\App.xaml
 11407045341
 
-4987446152
-206890450207
+61811166584
+206-381443163
 MainWindow.xaml;
 
 True
