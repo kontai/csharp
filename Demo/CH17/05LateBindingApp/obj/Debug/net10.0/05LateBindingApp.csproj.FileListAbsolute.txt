@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\bin\Debug\net10.0\05LateBindingApp.exe
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\bin\Debug\net10.0\05LateBindingApp.deps.json
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\bin\Debug\net10.0\05LateBindingApp.runtimeconfig.json
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\bin\Debug\net10.0\05LateBindingApp.dll
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\bin\Debug\net10.0\05LateBindingApp.pdb
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\05LateBindingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\05LateBindingApp.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\05LateBindingApp.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\05LateBindingApp.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\05LateBindingApp.sourcelink.json
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\05LateBindingApp.dll
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\refint\05LateBindingApp.dll
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\05LateBindingApp.pdb
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\05LateBindingApp.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH17\05LateBindingApp\obj\Debug\net10.0\ref\05LateBindingApp.dll

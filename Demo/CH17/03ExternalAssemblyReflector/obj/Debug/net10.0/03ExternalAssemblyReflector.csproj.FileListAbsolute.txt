@@ -13,4 +13,3 @@ D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\refi
 D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.pdb
 D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03ExternalAssemblyReflector.genruntimeconfig.cache
 D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\ref\03ExternalAssemblyReflector.dll
-D:\workspace\csharp\Demo\CH17\03ExternalAssemblyReflector\obj\Debug\net10.0\03Extern.F5D1BF86.Up2Date

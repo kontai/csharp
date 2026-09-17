@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("d_PLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7df7bd1c614c1a87c55cead3641d7676318b3675")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1a6250324a3b5fd4a6463ecdd10e8928a32d2ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("d_PLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("d_PLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

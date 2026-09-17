@@ -13,4 +13,3 @@ D:\workspace\csharp\Demo\CH17\02MyTypeViewer\obj\Debug\net10.0\refint\02MyTypeVi
 D:\workspace\csharp\Demo\CH17\02MyTypeViewer\obj\Debug\net10.0\02MyTypeViewer.pdb
 D:\workspace\csharp\Demo\CH17\02MyTypeViewer\obj\Debug\net10.0\02MyTypeViewer.genruntimeconfig.cache
 D:\workspace\csharp\Demo\CH17\02MyTypeViewer\obj\Debug\net10.0\ref\02MyTypeViewer.dll
-D:\workspace\csharp\Demo\CH17\02MyTypeViewer\obj\Debug\net10.0\02MyType.469FC088.Up2Date
