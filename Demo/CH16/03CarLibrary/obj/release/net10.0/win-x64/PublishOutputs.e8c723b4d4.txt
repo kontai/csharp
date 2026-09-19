@@ -1,0 +1,3 @@
+D:\workspace\csharp\Demo\CH16\03CarLibrary\singlefilefinal\03CarLibrary.dll
+D:\workspace\csharp\Demo\CH16\03CarLibrary\singlefilefinal\03CarLibrary.deps.json
+D:\workspace\csharp\Demo\CH16\03CarLibrary\singlefilefinal\03CarLibrary.pdb

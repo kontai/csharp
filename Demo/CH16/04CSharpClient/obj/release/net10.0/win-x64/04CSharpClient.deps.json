@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {},
+    ".NETCoreApp,Version=v10.0/win-x64": {
+      "04CSharpClient/1.0.0": {
+        "dependencies": {
+          "03CarLibrary": "1.0.4",
+          "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "10.0.12"
+        },
+        "runtime": {
+          "04CSharpClient.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/10.0.12": {
+        "runtime": {
+          "System.Collections.Concurrent.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Collections.Immutable.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Console.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Diagnostics.StackTrace.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.Compression.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.IO.MemoryMappedFiles.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Private.CoreLib.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "System.Reflection.Metadata.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        }
+      },
+      "03CarLibrary/1.0.4": {
+        "runtime": {
+          "lib/net10.0/03CarLibrary.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "04CSharpClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/10.0.12": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "03CarLibrary/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Bm0SbVbGipvSyB55QEViqT4TW3C95TnJV7iv/DFq77ixe5ofTdaW5d8oGvseQ0YLp2lA85V4K/GPNkuOZdE+iQ==",
+      "path": "03carlibrary/1.0.4",
+      "hashPath": "03carlibrary.1.0.4.nupkg.sha512"
+    }
+  },
+  "runtimes": {
+    "win-x64": [
+      "win",
+      "any",
+      "base"
+    ]
+  }
+}

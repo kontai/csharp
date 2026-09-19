@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>_03CarLibrary</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Copyright>Copyright 2026</Copyright>
+    <Authors>kontai</Authors>
+    <Company>HomeSit</Company>
+    <Description>This is an awesome library for cars.</Description>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.2</FileVersion>
+    <Version>1.0.4</Version>
+    <Product>Test</Product>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Title>myCarLib</Title>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <PackageOutputPath>./Publish</PackageOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- 公開internal class給其它組件-->
+    <AssemblyAttribute Include="System.Runtime.CompilerServices.InternalsVisibleToAttribute">
+      <_Parameter1>04CSharpClient</_Parameter1>
+    </AssemblyAttribute>
+  </ItemGroup>
+</Project>

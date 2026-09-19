@@ -1,0 +1,12 @@
+D:\workspace\csharp\Demo\CH16\03CarLibrary\bin\release\net10.0\03CarLibrary.deps.json
+D:\workspace\csharp\Demo\CH16\03CarLibrary\bin\release\net10.0\03CarLibrary.dll
+D:\workspace\csharp\Demo\CH16\03CarLibrary\bin\release\net10.0\03CarLibrary.pdb
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\03CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\03CarLibrary.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\03CarLibrary.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\03CarLibrary.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\03CarLibrary.sourcelink.json
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\03CarLibrary.dll
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\refint\03CarLibrary.dll
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\03CarLibrary.pdb
+D:\workspace\csharp\Demo\CH16\03CarLibrary\obj\release\net10.0\ref\03CarLibrary.dll

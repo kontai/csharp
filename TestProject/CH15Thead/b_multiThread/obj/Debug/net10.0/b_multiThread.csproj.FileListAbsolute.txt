@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\bin\Debug\net10.0\b_multiThread.exe
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\bin\Debug\net10.0\b_multiThread.deps.json
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\bin\Debug\net10.0\b_multiThread.runtimeconfig.json
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\bin\Debug\net10.0\b_multiThread.dll
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\bin\Debug\net10.0\b_multiThread.pdb
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\b_multiThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\b_multiThread.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\b_multiThread.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\b_multiThread.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\b_multiThread.sourcelink.json
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\b_multiThread.dll
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\refint\b_multiThread.dll
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\b_multiThread.pdb
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\b_multiThread.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\CH15Thead\b_multiThread\obj\Debug\net10.0\ref\b_multiThread.dll

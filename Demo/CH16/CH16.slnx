@@ -1,3 +1,7 @@
 <Solution>
   <Project Path="01Namespace/01Namespace.csproj" />
+  <Project Path="02FunWithConfiguration/02FunWithConfiguration.csproj" />
+  <Project Path="03CarLibrary/03CarLibrary.csproj" />
+  <Project Path="04CSharpClient/04CSharpClient.csproj" />
+  <Project Path="05ProbingPaths/05ProbingPaths.csproj" />
 </Solution>

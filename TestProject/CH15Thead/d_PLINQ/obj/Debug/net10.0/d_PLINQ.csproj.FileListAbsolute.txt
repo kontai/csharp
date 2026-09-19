@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\d_PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\d_PLINQ.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\d_PLINQ.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\d_PLINQ.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\d_PLINQ.sourcelink.json
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\bin\Debug\net10.0\d_PLINQ.exe
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\bin\Debug\net10.0\d_PLINQ.deps.json
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\bin\Debug\net10.0\d_PLINQ.runtimeconfig.json
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\bin\Debug\net10.0\d_PLINQ.dll
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\bin\Debug\net10.0\d_PLINQ.pdb
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\d_PLINQ.dll
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\refint\d_PLINQ.dll
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\d_PLINQ.pdb
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\d_PLINQ.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\CH15Thead\d_PLINQ\obj\Debug\net10.0\ref\d_PLINQ.dll
