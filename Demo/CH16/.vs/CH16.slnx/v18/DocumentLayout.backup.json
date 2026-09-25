@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH16\\",
   "Documents": [
     {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{2B9FD29E-F1B9-DF25-6651-3311BABD9480}|01Namespace\\01Namespace.csproj|d:\\workspace\\csharp\\demo\\ch16\\01namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9FD29E-F1B9-DF25-6651-3311BABD9480}|01Namespace\\01Namespace.csproj|solutionrelative:01namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9FD29E-F1B9-DF25-6651-3311BABD9480}|01Namespace\\01Namespace.csproj|d:\\workspace\\csharp\\demo\\ch16\\01namespace\\myshapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9FD29E-F1B9-DF25-6651-3311BABD9480}|01Namespace\\01Namespace.csproj|solutionrelative:01namespace\\myshapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9FD29E-F1B9-DF25-6651-3311BABD9480}|01Namespace\\01Namespace.csproj|d:\\workspace\\csharp\\demo\\ch16\\01namespace\\myshapes\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9FD29E-F1B9-DF25-6651-3311BABD9480}|01Namespace\\01Namespace.csproj|solutionrelative:01namespace\\myshapes\\hexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B9FD29E-F1B9-DF25-6651-3311BABD9480}|01Namespace\\01Namespace.csproj|d:\\workspace\\csharp\\demo\\ch16\\01namespace\\myshapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B9FD29E-F1B9-DF25-6651-3311BABD9480}|01Namespace\\01Namespace.csproj|solutionrelative:01namespace\\myshapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
       "AbsoluteMoniker": "D:0:0:{19538CBA-DDC6-89DD-A1DB-B526BACECF2C}|05ProbingPaths\\05ProbingPaths.csproj|d:\\workspace\\csharp\\demo\\ch16\\05probingpaths\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19538CBA-DDC6-89DD-A1DB-B526BACECF2C}|05ProbingPaths\\05ProbingPaths.csproj|solutionrelative:05probingpaths\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,6 +61,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch16\\03carlibrary\\musicmediaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6E925AE-06C0-613C-5656-68235E7827D5}|03CarLibrary\\03CarLibrary.csproj|solutionrelative:03carlibrary\\musicmediaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 0f3e0fc27c7dcf465c64ab0a2b36eeb754f37a17
     }
   ],
   "DocumentGroupContainers": [
@@ -54,28 +71,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
+<<<<<<< HEAD
+          "SelectedChildIndex": 16,
+=======
           "SelectedChildIndex": 11,
+>>>>>>> 0f3e0fc27c7dcf465c64ab0a2b36eeb754f37a17
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
@@ -90,6 +91,26 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
@@ -101,6 +122,14 @@
               "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -110,6 +139,9 @@
               "RelativeToolTip": "05ProbingPaths\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2026-09-06T23:58:08.378Z"
+=======
               "WhenOpened": "2026-09-10T03:19:29.218Z",
               "EditorCaption": ""
             },
@@ -125,10 +157,21 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-10T03:19:24.487Z",
               "EditorCaption": ""
+>>>>>>> 0f3e0fc27c7dcf465c64ab0a2b36eeb754f37a17
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
+              "Title": "Hexagon.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\MyShapes\\Hexagon.cs",
+              "RelativeDocumentMoniker": "01Namespace\\MyShapes\\Hexagon.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH16\\01Namespace\\MyShapes\\Hexagon.cs",
+              "RelativeToolTip": "01Namespace\\MyShapes\\Hexagon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T23:56:34.049Z"
+=======
               "Title": "04CSharpClient.csproj",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH16\\04CSharpClient\\04CSharpClient.csproj",
               "RelativeDocumentMoniker": "04CSharpClient\\04CSharpClient.csproj",
@@ -138,6 +181,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-09-10T03:03:00.25Z",
               "EditorCaption": ""
+>>>>>>> 0f3e0fc27c7dcf465c64ab0a2b36eeb754f37a17
             },
             {
               "$type": "Document",
@@ -161,8 +205,12 @@
               "RelativeToolTip": "03CarLibrary\\MyInternalClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2026-09-06T23:55:22.156Z"
+=======
               "WhenOpened": "2026-09-09T14:27:38.537Z",
               "EditorCaption": ""
+>>>>>>> 0f3e0fc27c7dcf465c64ab0a2b36eeb754f37a17
             },
             {
               "$type": "Document",
@@ -248,6 +296,10 @@
           "DockedWidth": 408,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0c720079-b2d5-4f29-840e-382783199460}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
