@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\06ApplyingAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\06ApplyingAttributes.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\06ApplyingAttributes.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\06ApplyingAttributes.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\06ApplyingAttributes.sourcelink.json
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\bin\Debug\net10.0\06ApplyingAttributes.exe
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\bin\Debug\net10.0\06ApplyingAttributes.deps.json
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\bin\Debug\net10.0\06ApplyingAttributes.runtimeconfig.json
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\bin\Debug\net10.0\06ApplyingAttributes.dll
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\bin\Debug\net10.0\06ApplyingAttributes.pdb
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\06ApplyingAttributes.dll
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\refint\06ApplyingAttributes.dll
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\06ApplyingAttributes.pdb
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\06ApplyingAttributes.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH17\06ApplyingAttributes\obj\Debug\net10.0\ref\06ApplyingAttributes.dll

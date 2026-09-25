@@ -4,4 +4,8 @@
   <Project Path="03ExternalAssemblyReflector/03ExternalAssemblyReflector.csproj" Id="06017ffc-163d-4db9-a2d1-fd903c19acbe" />
   <Project Path="04FrameworkAssemblyViewer/04FrameworkAssemblyViewer.csproj" />
   <Project Path="05LateBindingApp/05LateBindingApp.csproj" />
+  <Project Path="06ApplyingAttributes/06ApplyingAttributes.csproj" />
+  <Project Path="07VehicleDescriptionAttributeReader/07VehicleDescriptionAttributeReader.csproj" />
+  <Project Path="08VehicleDescriptionAttributeReaderLateBinding/08VehicleDescriptionAttributeReaderLateBinding.csproj" />
+  <Project Path="AttributedCarLibrary/AttributedCarLibrary.csproj" />
 </Solution>

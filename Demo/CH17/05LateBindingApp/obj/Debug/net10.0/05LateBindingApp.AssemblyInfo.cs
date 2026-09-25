@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05LateBindingApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1a6250324a3b5fd4a6463ecdd10e8928a32d2ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f3e0fc27c7dcf465c64ab0a2b36eeb754f37a17")]
 [assembly: System.Reflection.AssemblyProductAttribute("05LateBindingApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05LateBindingApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

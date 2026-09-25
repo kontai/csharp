@@ -1,0 +1,12 @@
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\AttributedCarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\AttributedCarLibrary.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\AttributedCarLibrary.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\AttributedCarLibrary.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\AttributedCarLibrary.sourcelink.json
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\bin\Debug\net10.0\AttributedCarLibrary.deps.json
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\bin\Debug\net10.0\AttributedCarLibrary.dll
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\bin\Debug\net10.0\AttributedCarLibrary.pdb
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\AttributedCarLibrary.dll
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\refint\AttributedCarLibrary.dll
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\AttributedCarLibrary.pdb
+D:\workspace\csharp\Demo\CH17\AttributedCarLibrary\obj\Debug\net10.0\ref\AttributedCarLibrary.dll
