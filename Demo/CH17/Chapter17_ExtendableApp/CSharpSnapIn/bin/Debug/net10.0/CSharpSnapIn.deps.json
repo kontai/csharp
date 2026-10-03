@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CSharpSnapIn/1.0.0": {
+        "dependencies": {
+          "CommonSnappableTypes": "1.0.0"
+        },
+        "runtime": {
+          "CSharpSnapIn.dll": {}
+        }
+      },
+      "CommonSnappableTypes/1.0.0": {
+        "runtime": {
+          "CommonSnappableTypes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpSnapIn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonSnappableTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

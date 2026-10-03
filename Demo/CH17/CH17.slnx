@@ -7,5 +7,8 @@
   <Project Path="06ApplyingAttributes/06ApplyingAttributes.csproj" />
   <Project Path="07VehicleDescriptionAttributeReader/07VehicleDescriptionAttributeReader.csproj" />
   <Project Path="08VehicleDescriptionAttributeReaderLateBinding/08VehicleDescriptionAttributeReaderLateBinding.csproj" />
+  <Project Path="09DynamicKeyword/09DynamicKeyword.csproj" Id="f24d9728-5ef4-49a6-a857-e06a005f197e" />
+  <Project Path="10LateBindingWithDynamic/10LateBindingWithDynamic.csproj" Id="72c28a40-12d1-4171-85e3-e9805ad2108e" />
   <Project Path="AttributedCarLibrary/AttributedCarLibrary.csproj" />
+  <Project Path="MathLibrary/MathLibrary.csproj" Id="4ccd273a-3a27-4875-af2c-88205908d6fe" />
 </Solution>

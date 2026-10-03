@@ -1,0 +1,13 @@
+D:\workspace\csharp\Demo\CH17\MathLibrary\bin\Debug\net10.0\MathLibrary.deps.json
+D:\workspace\csharp\Demo\CH17\MathLibrary\bin\Debug\net10.0\MathLibrary.dll
+D:\workspace\csharp\Demo\CH17\MathLibrary\bin\Debug\net10.0\MathLibrary.pdb
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\MathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\MathLibrary.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\MathLibrary.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\MathLibrary.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\MathLibrary.sourcelink.json
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\MathLibrary.dll
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\refint\MathLibrary.dll
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\MathLibrary.pdb
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\ref\MathLibrary.dll
+D:\workspace\csharp\Demo\CH17\MathLibrary\obj\Debug\net10.0\MathLibr.CBCFBE5D.Up2Date
