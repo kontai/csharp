@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\bin\Debug\net10.0\10LateBindingWithDynamic.exe
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\bin\Debug\net10.0\10LateBindingWithDynamic.deps.json
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\bin\Debug\net10.0\10LateBindingWithDynamic.runtimeconfig.json
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\bin\Debug\net10.0\10LateBindingWithDynamic.dll
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\bin\Debug\net10.0\10LateBindingWithDynamic.pdb
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBindingWithDynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBindingWithDynamic.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBindingWithDynamic.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBindingWithDynamic.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBindingWithDynamic.sourcelink.json
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBindingWithDynamic.dll
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\refint\10LateBindingWithDynamic.dll
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBindingWithDynamic.pdb
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBindingWithDynamic.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\ref\10LateBindingWithDynamic.dll
+D:\workspace\csharp\Demo\CH17\10LateBindingWithDynamic\obj\Debug\net10.0\10LateBi.0B23A0F3.Up2Date

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CommonSnappableTypes/CommonSnappableTypes.csproj" />
+  <Project Path="CSharpSnapIn/CSharpSnapIn.csproj" />
+  <Project Path="MyExtendableApp/MyExtendableApp.csproj" />
+  <Project Path="VBSnapIn/VBSnapIn.vbproj" />
+</Solution>

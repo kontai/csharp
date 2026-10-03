@@ -1,0 +1,13 @@
+D:\workspace\csharp\Demo\CommonSnappableTypes\bin\Debug\net10.0\CommonSnappableTypes.deps.json
+D:\workspace\csharp\Demo\CommonSnappableTypes\bin\Debug\net10.0\CommonSnappableTypes.dll
+D:\workspace\csharp\Demo\CommonSnappableTypes\bin\Debug\net10.0\CommonSnappableTypes.pdb
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\CommonSnappableTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\CommonSnappableTypes.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\CommonSnappableTypes.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\CommonSnappableTypes.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\CommonSnappableTypes.sourcelink.json
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\CommonSnappableTypes.dll
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\refint\CommonSnappableTypes.dll
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\CommonSnappableTypes.pdb
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\ref\CommonSnappableTypes.dll
+D:\workspace\csharp\Demo\CommonSnappableTypes\obj\Debug\net10.0\CommonSn.7E44AA19.Up2Date

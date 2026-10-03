@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH17\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch17\\attributedcarlibrary\\vehicledescriptionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|solutionrelative:attributedcarlibrary\\vehicledescriptionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72C28A40-12D1-4171-85E3-E9805AD2108E}|10LateBindingWithDynamic\\10LateBindingWithDynamic.csproj|d:\\workspace\\csharp\\demo\\ch17\\10latebindingwithdynamic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C28A40-12D1-4171-85E3-E9805AD2108E}|10LateBindingWithDynamic\\10LateBindingWithDynamic.csproj|solutionrelative:10latebindingwithdynamic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch17\\attributedcarlibrary\\attributedcarlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|solutionrelative:attributedcarlibrary\\attributedcarlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4CCD273A-3A27-4875-AF2C-88205908D6FE}|MathLibrary\\MathLibrary.csproj|d:\\workspace\\csharp\\demo\\ch17\\mathlibrary\\mathlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CCD273A-3A27-4875-AF2C-88205908D6FE}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\mathlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch17\\attributedcarlibrary\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|solutionrelative:attributedcarlibrary\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CCD273A-3A27-4875-AF2C-88205908D6FE}|MathLibrary\\MathLibrary.csproj|d:\\workspace\\csharp\\demo\\ch17\\mathlibrary\\simplemath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCD273A-3A27-4875-AF2C-88205908D6FE}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\simplemath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch17\\attributedcarlibrary\\horseandbuggy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|solutionrelative:attributedcarlibrary\\horseandbuggy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F24D9728-5EF4-49A6-A857-E06A005F197E}|09DynamicKeyword\\09DynamicKeyword.csproj|d:\\workspace\\csharp\\demo\\ch17\\09dynamickeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24D9728-5EF4-49A6-A857-E06A005F197E}|09DynamicKeyword\\09DynamicKeyword.csproj|solutionrelative:09dynamickeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|d:\\workspace\\csharp\\demo\\ch17\\attributedcarlibrary\\winnebago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96DA939B-8CDB-7859-F68F-998D0183B7AD}|AttributedCarLibrary\\AttributedCarLibrary.csproj|solutionrelative:attributedcarlibrary\\winnebago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F24D9728-5EF4-49A6-A857-E06A005F197E}|09DynamicKeyword\\09DynamicKeyword.csproj|d:\\workspace\\csharp\\demo\\ch17\\09dynamickeyword\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24D9728-5EF4-49A6-A857-E06A005F197E}|09DynamicKeyword\\09DynamicKeyword.csproj|solutionrelative:09dynamickeyword\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,67 +82,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HorseAndBuggy.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\HorseAndBuggy.cs",
-              "RelativeDocumentMoniker": "AttributedCarLibrary\\HorseAndBuggy.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\HorseAndBuggy.cs",
-              "RelativeToolTip": "AttributedCarLibrary\\HorseAndBuggy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T09:31:51.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Winnebago.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\Winnebago.cs",
-              "RelativeDocumentMoniker": "AttributedCarLibrary\\Winnebago.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\Winnebago.cs",
-              "RelativeToolTip": "AttributedCarLibrary\\Winnebago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T09:31:31.664Z",
+              "DocumentIndex": 1,
+              "Title": "MathLibrary",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\MathLibrary\\MathLibrary.csproj",
+              "RelativeDocumentMoniker": "MathLibrary\\MathLibrary.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\MathLibrary\\MathLibrary.csproj",
+              "RelativeToolTip": "MathLibrary\\MathLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-29T03:00:24.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Motorcycle.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\Motorcycle.cs",
-              "RelativeDocumentMoniker": "AttributedCarLibrary\\Motorcycle.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\Motorcycle.cs",
-              "RelativeToolTip": "AttributedCarLibrary\\Motorcycle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "SimpleMath.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\MathLibrary\\SimpleMath.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\SimpleMath.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\MathLibrary\\SimpleMath.cs",
+              "RelativeToolTip": "MathLibrary\\SimpleMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T09:30:57.381Z",
+              "WhenOpened": "2026-09-29T02:58:08.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VehicleDescriptionAttribute.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\VehicleDescriptionAttribute.cs",
-              "RelativeDocumentMoniker": "AttributedCarLibrary\\VehicleDescriptionAttribute.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\VehicleDescriptionAttribute.cs",
-              "RelativeToolTip": "AttributedCarLibrary\\VehicleDescriptionAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\10LateBindingWithDynamic\\Program.cs",
+              "RelativeDocumentMoniker": "10LateBindingWithDynamic\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\10LateBindingWithDynamic\\Program.cs*",
+              "RelativeToolTip": "10LateBindingWithDynamic\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-20T09:18:58.396Z",
+              "WhenOpened": "2026-09-29T02:57:30.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AttributedCarLibrary",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\AttributedCarLibrary.csproj",
-              "RelativeDocumentMoniker": "AttributedCarLibrary\\AttributedCarLibrary.csproj",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\AttributedCarLibrary\\AttributedCarLibrary.csproj",
-              "RelativeToolTip": "AttributedCarLibrary\\AttributedCarLibrary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-20T09:18:54.602Z",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\09DynamicKeyword\\Person.cs",
+              "RelativeDocumentMoniker": "09DynamicKeyword\\Person.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\09DynamicKeyword\\Person.cs",
+              "RelativeToolTip": "09DynamicKeyword\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T01:02:43.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH17\\09DynamicKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "09DynamicKeyword\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH17\\09DynamicKeyword\\Program.cs",
+              "RelativeToolTip": "09DynamicKeyword\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T01:02:06.227Z",
               "EditorCaption": ""
             }
           ]

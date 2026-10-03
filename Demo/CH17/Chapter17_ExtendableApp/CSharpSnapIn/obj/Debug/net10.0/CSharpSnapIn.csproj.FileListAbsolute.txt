@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CSharpSnapIn\bin\Debug\net10.0\CSharpSnapIn.deps.json
+D:\workspace\csharp\Demo\CSharpSnapIn\bin\Debug\net10.0\CSharpSnapIn.dll
+D:\workspace\csharp\Demo\CSharpSnapIn\bin\Debug\net10.0\CSharpSnapIn.pdb
+D:\workspace\csharp\Demo\CSharpSnapIn\bin\Debug\net10.0\CommonSnappableTypes.dll
+D:\workspace\csharp\Demo\CSharpSnapIn\bin\Debug\net10.0\CommonSnappableTypes.pdb
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSnapIn.csproj.AssemblyReference.cache
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSnapIn.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSnapIn.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSnapIn.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSnapIn.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSnapIn.sourcelink.json
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSn.CDE5820E.Up2Date
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSnapIn.dll
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\refint\CSharpSnapIn.dll
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\CSharpSnapIn.pdb
+D:\workspace\csharp\Demo\CSharpSnapIn\obj\Debug\net10.0\ref\CSharpSnapIn.dll

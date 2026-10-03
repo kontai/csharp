@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=545c835a_002D1d9b_002D16ca_002D1ab3_002D24cb372c7ba3_002301TypeIntro/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=2e712b5d_002Df41a_002D46c5_002Db2c1_002D95fc61324f40_002302MyTypeViewer/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=06017ffc_002D163d_002D4db9_002Da2d1_002Dfd903c19acbe_002303ExternalAssemblyReflector/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=9e705ba7_002Ddc20_002D6a99_002De0df_002Dee1d17dc2daa_002304FrameworkAssemblyViewer/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=a79558f0_002Dcdfc_002Ddf8c_002D91bb_002D319577e6d9c2_002305LateBindingApp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=3a49b56b_002Dde78_002D1810_002D20ee_002D826851e19aca_002306ApplyingAttributes/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=41d508ac_002D2c59_002D1e7d_002D6279_002De54b23cbdd0a_002307VehicleDescriptionAttributeReader/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=8bb683b9_002D28ea_002De7f7_002Dfab6_002Ded5e84f78ba5_002308VehicleDescriptionAttributeReaderLateBinding/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=f24d9728_002D5ef4_002D49a6_002Da857_002De06a005f197e_002309DynamicKeyword/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=72c28a40_002D12d1_002D4171_002D85e3_002De9805ad2108e_002310LateBindingWithDynamic/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=96da939b_002D8cdb_002D7859_002Df68f_002D998d0183b7ad_0023AttributedCarLibrary/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=4ccd273a_002D3a27_002D4875_002Daf2c_002D88205908d6fe_0023MathLibrary/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9683D3E3-F1A9-7A99-77D4-881CA36F6793}|CommonSnappableTypes\\CommonSnappableTypes.csproj|d:\\workspace\\csharp\\demo\\commonsnappabletypes\\companyinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9683D3E3-F1A9-7A99-77D4-881CA36F6793}|CommonSnappableTypes\\CommonSnappableTypes.csproj|solutionrelative:commonsnappabletypes\\companyinfoattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5607E899-EFAC-20FF-A59F-B87E582D1519}|MyExtendableApp\\MyExtendableApp.csproj|d:\\workspace\\csharp\\demo\\myextendableapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5607E899-EFAC-20FF-A59F-B87E582D1519}|MyExtendableApp\\MyExtendableApp.csproj|solutionrelative:myextendableapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF5E798-5DC9-4EA6-4CD6-0341E9525ECF}|VBSnapIn\\VBSnapIn.vbproj|d:\\workspace\\csharp\\demo\\vbsnapin\\vbsnapin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6CF5E798-5DC9-4EA6-4CD6-0341E9525ECF}|VBSnapIn\\VBSnapIn.vbproj|solutionrelative:vbsnapin\\vbsnapin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE675E9C-1F24-570E-CD90-EDD77E37595C}|CSharpSnapIn\\CSharpSnapIn.csproj|d:\\workspace\\csharp\\demo\\csharpsnapin\\csharpmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE675E9C-1F24-570E-CD90-EDD77E37595C}|CSharpSnapIn\\CSharpSnapIn.csproj|solutionrelative:csharpsnapin\\csharpmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9683D3E3-F1A9-7A99-77D4-881CA36F6793}|CommonSnappableTypes\\CommonSnappableTypes.csproj|d:\\workspace\\csharp\\demo\\commonsnappabletypes\\iappfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9683D3E3-F1A9-7A99-77D4-881CA36F6793}|CommonSnappableTypes\\CommonSnappableTypes.csproj|solutionrelative:commonsnappabletypes\\iappfunctionality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE675E9C-1F24-570E-CD90-EDD77E37595C}|CSharpSnapIn\\CSharpSnapIn.csproj|d:\\workspace\\csharp\\demo\\csharpsnapin\\csharpsnapin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE675E9C-1F24-570E-CD90-EDD77E37595C}|CSharpSnapIn\\CSharpSnapIn.csproj|solutionrelative:csharpsnapin\\csharpsnapin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE675E9C-1F24-570E-CD90-EDD77E37595C}|CSharpSnapIn\\CSharpSnapIn.csproj|d:\\workspace\\csharp\\demo\\csharpsnapin\\csharpsnapin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CE675E9C-1F24-570E-CD90-EDD77E37595C}|CSharpSnapIn\\CSharpSnapIn.csproj|solutionrelative:csharpsnapin\\csharpsnapin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF5E798-5DC9-4EA6-4CD6-0341E9525ECF}|VBSnapIn\\VBSnapIn.vbproj|d:\\workspace\\csharp\\demo\\vbsnapin\\vbsnapin.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CF5E798-5DC9-4EA6-4CD6-0341E9525ECF}|VBSnapIn\\VBSnapIn.vbproj|solutionrelative:vbsnapin\\vbsnapin.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 408,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{8cb354a4-e1cd-4b5a-94f4-2295842d03bf}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\MyExtendableApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyExtendableApp\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\MyExtendableApp\\Program.cs",
+              "RelativeToolTip": "MyExtendableApp\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wDMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:46:53.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VBSnapIn.vb",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\VBSnapIn\\VBSnapIn.vb",
+              "RelativeDocumentMoniker": "VBSnapIn\\VBSnapIn.vb",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\VBSnapIn\\VBSnapIn.vb",
+              "RelativeToolTip": "VBSnapIn\\VBSnapIn.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-27T08:46:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSharpModule.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CSharpSnapIn\\CSharpModule.cs",
+              "RelativeDocumentMoniker": "CSharpSnapIn\\CSharpModule.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CSharpSnapIn\\CSharpModule.cs",
+              "RelativeToolTip": "CSharpSnapIn\\CSharpModule.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:26:48.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyInfoAttribute.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CommonSnappableTypes\\CompanyInfoAttribute.cs",
+              "RelativeDocumentMoniker": "CommonSnappableTypes\\CompanyInfoAttribute.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CommonSnappableTypes\\CompanyInfoAttribute.cs",
+              "RelativeToolTip": "CommonSnappableTypes\\CompanyInfoAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:23:13.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAppFunctionality.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CommonSnappableTypes\\IAppFunctionality.cs",
+              "RelativeDocumentMoniker": "CommonSnappableTypes\\IAppFunctionality.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CommonSnappableTypes\\IAppFunctionality.cs",
+              "RelativeToolTip": "CommonSnappableTypes\\IAppFunctionality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:22:06.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CSharpSnapIn",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CSharpSnapIn\\CSharpSnapIn.csproj",
+              "RelativeDocumentMoniker": "CSharpSnapIn\\CSharpSnapIn.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CSharpSnapIn\\CSharpSnapIn.csproj",
+              "RelativeToolTip": "CSharpSnapIn\\CSharpSnapIn.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T08:09:25.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VBSnapIn.vbproj",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\VBSnapIn\\VBSnapIn.vbproj",
+              "RelativeDocumentMoniker": "VBSnapIn\\VBSnapIn.vbproj",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\VBSnapIn\\VBSnapIn.vbproj",
+              "RelativeToolTip": "VBSnapIn\\VBSnapIn.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2026-09-27T08:05:38.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CSharpSnapIn.csproj",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CSharpSnapIn\\CSharpSnapIn.csproj",
+              "RelativeDocumentMoniker": "CSharpSnapIn\\CSharpSnapIn.csproj",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CSharpSnapIn\\CSharpSnapIn.csproj",
+              "RelativeToolTip": "CSharpSnapIn\\CSharpSnapIn.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T07:59:11.994Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 408,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

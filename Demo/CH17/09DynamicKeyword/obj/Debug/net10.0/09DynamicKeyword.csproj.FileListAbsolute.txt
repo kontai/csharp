@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\bin\Debug\net10.0\09DynamicKeyword.exe
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\bin\Debug\net10.0\09DynamicKeyword.deps.json
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\bin\Debug\net10.0\09DynamicKeyword.runtimeconfig.json
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\bin\Debug\net10.0\09DynamicKeyword.dll
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\bin\Debug\net10.0\09DynamicKeyword.pdb
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09DynamicKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09DynamicKeyword.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09DynamicKeyword.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09DynamicKeyword.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09DynamicKeyword.sourcelink.json
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09DynamicKeyword.dll
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\refint\09DynamicKeyword.dll
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09DynamicKeyword.pdb
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09DynamicKeyword.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\ref\09DynamicKeyword.dll
+D:\workspace\csharp\Demo\CH17\09DynamicKeyword\obj\Debug\net10.0\09Dynami.9551BC75.Up2Date
