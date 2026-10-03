@@ -1,4 +1,6 @@
 ﻿using System.Reflection;
+using System.Runtime.Loader;
+
 Console.WriteLine("***** Value of VehicleDescriptionAttribute *****\n");
 ReflectAttributesUsingLateBinding();
 Console.ReadLine();
@@ -31,6 +33,7 @@ static void ReflectAttributesUsingLateBinding()
     }
     catch (Exception ex)
     {
+        
         Console.WriteLine(ex.Message);
     }
 }
