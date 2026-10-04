@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\bin\Debug\net10.0\03DriveInfoApp.exe
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\bin\Debug\net10.0\03DriveInfoApp.deps.json
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\bin\Debug\net10.0\03DriveInfoApp.runtimeconfig.json
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\bin\Debug\net10.0\03DriveInfoApp.dll
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\bin\Debug\net10.0\03DriveInfoApp.pdb
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\03DriveInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\03DriveInfoApp.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\03DriveInfoApp.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\03DriveInfoApp.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\03DriveInfoApp.sourcelink.json
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\03DriveInfoApp.dll
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\refint\03DriveInfoApp.dll
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\03DriveInfoApp.pdb
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\03DriveInfoApp.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH18\03DriveInfoApp\obj\Debug\net10.0\ref\03DriveInfoApp.dll

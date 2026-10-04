@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH18\02Directory\bin\Debug\net10.0\02Directory.exe
+D:\workspace\csharp\Demo\CH18\02Directory\bin\Debug\net10.0\02Directory.deps.json
+D:\workspace\csharp\Demo\CH18\02Directory\bin\Debug\net10.0\02Directory.runtimeconfig.json
+D:\workspace\csharp\Demo\CH18\02Directory\bin\Debug\net10.0\02Directory.dll
+D:\workspace\csharp\Demo\CH18\02Directory\bin\Debug\net10.0\02Directory.pdb
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\02Directory.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\02Directory.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\02Directory.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\02Directory.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\02Directory.sourcelink.json
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\02Directory.dll
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\refint\02Directory.dll
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\02Directory.pdb
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\02Directory.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH18\02Directory\obj\Debug\net10.0\ref\02Directory.dll
