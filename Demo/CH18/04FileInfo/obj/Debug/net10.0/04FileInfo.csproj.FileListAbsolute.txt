@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH18\04FileInfo\bin\Debug\net10.0\04FileInfo.exe
+D:\workspace\csharp\Demo\CH18\04FileInfo\bin\Debug\net10.0\04FileInfo.deps.json
+D:\workspace\csharp\Demo\CH18\04FileInfo\bin\Debug\net10.0\04FileInfo.runtimeconfig.json
+D:\workspace\csharp\Demo\CH18\04FileInfo\bin\Debug\net10.0\04FileInfo.dll
+D:\workspace\csharp\Demo\CH18\04FileInfo\bin\Debug\net10.0\04FileInfo.pdb
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\04FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\04FileInfo.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\04FileInfo.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\04FileInfo.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\04FileInfo.sourcelink.json
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\04FileInfo.dll
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\refint\04FileInfo.dll
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\04FileInfo.pdb
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\04FileInfo.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH18\04FileInfo\obj\Debug\net10.0\ref\04FileInfo.dll
