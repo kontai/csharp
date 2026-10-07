@@ -59,6 +59,7 @@ static void ShowWallpaperDirectory(DirectoryInfo dir)
         Console.WriteLine("Creation: {0}", f.CreationTime);
         Console.WriteLine("Attributes: {0}", f.Attributes);
         Console.WriteLine("***************************\n"); 
+        
     }
 
     Console.WriteLine("tatoal {0} files.",files.Count());

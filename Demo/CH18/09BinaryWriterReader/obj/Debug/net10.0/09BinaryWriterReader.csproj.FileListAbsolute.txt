@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\bin\Debug\net10.0\09BinaryWriterReader.exe
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\bin\Debug\net10.0\09BinaryWriterReader.deps.json
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\bin\Debug\net10.0\09BinaryWriterReader.runtimeconfig.json
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\bin\Debug\net10.0\09BinaryWriterReader.dll
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\bin\Debug\net10.0\09BinaryWriterReader.pdb
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09BinaryWriterReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09BinaryWriterReader.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09BinaryWriterReader.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09BinaryWriterReader.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09BinaryWriterReader.sourcelink.json
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09BinaryWriterReader.dll
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\refint\09BinaryWriterReader.dll
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09BinaryWriterReader.pdb
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09BinaryWriterReader.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\ref\09BinaryWriterReader.dll
+D:\workspace\csharp\Demo\CH18\09BinaryWriterReader\obj\Debug\net10.0\09Binary.1485DFB8.Up2Date

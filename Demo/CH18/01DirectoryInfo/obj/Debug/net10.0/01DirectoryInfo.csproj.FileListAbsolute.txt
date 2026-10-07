@@ -13,3 +13,4 @@ D:\workspace\csharp\Demo\CH18\01DirectoryInfo\obj\Debug\net10.0\refint\01Directo
 D:\workspace\csharp\Demo\CH18\01DirectoryInfo\obj\Debug\net10.0\01DirectoryInfo.pdb
 D:\workspace\csharp\Demo\CH18\01DirectoryInfo\obj\Debug\net10.0\01DirectoryInfo.genruntimeconfig.cache
 D:\workspace\csharp\Demo\CH18\01DirectoryInfo\obj\Debug\net10.0\ref\01DirectoryInfo.dll
+D:\workspace\csharp\Demo\CH18\01DirectoryInfo\obj\Debug\net10.0\01Direct.256D8079.Up2Date

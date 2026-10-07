@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\bin\Debug\net10.0\07StreamWriterReaderApp.exe
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\bin\Debug\net10.0\07StreamWriterReaderApp.deps.json
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\bin\Debug\net10.0\07StreamWriterReaderApp.runtimeconfig.json
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\bin\Debug\net10.0\07StreamWriterReaderApp.dll
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\bin\Debug\net10.0\07StreamWriterReaderApp.pdb
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07StreamWriterReaderApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07StreamWriterReaderApp.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07StreamWriterReaderApp.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07StreamWriterReaderApp.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07StreamWriterReaderApp.sourcelink.json
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07StreamWriterReaderApp.dll
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\refint\07StreamWriterReaderApp.dll
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07StreamWriterReaderApp.pdb
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07StreamWriterReaderApp.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\ref\07StreamWriterReaderApp.dll
+D:\workspace\csharp\Demo\CH18\07StreamWriterReaderApp\obj\Debug\net10.0\07Stream.58BF3C7B.Up2Date

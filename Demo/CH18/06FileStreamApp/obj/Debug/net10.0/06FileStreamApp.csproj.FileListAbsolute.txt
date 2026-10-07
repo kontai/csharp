@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\bin\Debug\net10.0\06FileStreamApp.exe
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\bin\Debug\net10.0\06FileStreamApp.deps.json
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\bin\Debug\net10.0\06FileStreamApp.runtimeconfig.json
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\bin\Debug\net10.0\06FileStreamApp.dll
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\bin\Debug\net10.0\06FileStreamApp.pdb
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileStreamApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileStreamApp.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileStreamApp.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileStreamApp.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileStreamApp.sourcelink.json
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileStreamApp.dll
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\refint\06FileStreamApp.dll
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileStreamApp.pdb
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileStreamApp.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\ref\06FileStreamApp.dll
+D:\workspace\csharp\Demo\CH18\06FileStreamApp\obj\Debug\net10.0\06FileSt.B7C09401.Up2Date
