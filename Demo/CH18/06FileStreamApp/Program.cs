@@ -35,5 +35,4 @@ await using (
     Console.WriteLine(Encoding.UTF8.GetString(byteFromFile));
     Console.WriteLine("一共讀取到 {0}個位元.", byteFromFile.Length);
     MemoryStream memoryStream = new MemoryStream();
-
 }

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA39809E-F4F4-45B3-8A43-A28FA339B923}|09BinaryWriterReader\\09BinaryWriterReader.csproj|d:\\workspace\\csharp\\demo\\ch18\\09binarywriterreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA39809E-F4F4-45B3-8A43-A28FA339B923}|09BinaryWriterReader\\09BinaryWriterReader.csproj|solutionrelative:09binarywriterreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|d:\\workspace\\csharp\\demo\\ch18\\11simpleserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|solutionrelative:11simpleserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|d:\\workspace\\csharp\\demo\\ch18\\11simpleserialize\\bin\\debug\\net10.0\\cardata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|solutionrelative:11simpleserialize\\bin\\debug\\net10.0\\cardata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|d:\\workspace\\csharp\\demo\\ch18\\11simpleserialize\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|solutionrelative:11simpleserialize\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|d:\\workspace\\csharp\\demo\\ch18\\11simpleserialize\\jamesbondcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|solutionrelative:11simpleserialize\\jamesbondcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|d:\\workspace\\csharp\\demo\\ch18\\11simpleserialize\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|solutionrelative:11simpleserialize\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|d:\\workspace\\csharp\\demo\\ch18\\11simpleserialize\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCA270AC-083F-4897-9B9E-310427A87CF0}|11SimpleSerialize\\11SimpleSerialize.csproj|solutionrelative:11simpleserialize\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 408,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,15 +82,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarData.json",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\bin\\Debug\\net10.0\\CarData.json",
+              "RelativeDocumentMoniker": "11SimpleSerialize\\bin\\Debug\\net10.0\\CarData.json",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\bin\\Debug\\net10.0\\CarData.json",
+              "RelativeToolTip": "11SimpleSerialize\\bin\\Debug\\net10.0\\CarData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-09T12:12:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\Person.cs",
+              "RelativeDocumentMoniker": "11SimpleSerialize\\Person.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\Person.cs",
+              "RelativeToolTip": "11SimpleSerialize\\Person.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:18:02.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JamesBondCar.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\JamesBondCar.cs",
+              "RelativeDocumentMoniker": "11SimpleSerialize\\JamesBondCar.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\JamesBondCar.cs",
+              "RelativeToolTip": "11SimpleSerialize\\JamesBondCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:17:19.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\Car.cs",
+              "RelativeDocumentMoniker": "11SimpleSerialize\\Car.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\Car.cs",
+              "RelativeToolTip": "11SimpleSerialize\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:16:41.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\Radio.cs",
+              "RelativeDocumentMoniker": "11SimpleSerialize\\Radio.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\Radio.cs",
+              "RelativeToolTip": "11SimpleSerialize\\Radio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:16:11.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH18\\09BinaryWriterReader\\Program.cs",
-              "RelativeDocumentMoniker": "09BinaryWriterReader\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH18\\09BinaryWriterReader\\Program.cs",
-              "RelativeToolTip": "09BinaryWriterReader\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBoAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\Program.cs",
+              "RelativeDocumentMoniker": "11SimpleSerialize\\Program.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH18\\11SimpleSerialize\\Program.cs",
+              "RelativeToolTip": "11SimpleSerialize\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T03:11:51.047Z",
+              "WhenOpened": "2026-10-09T05:15:28.561Z",
               "EditorCaption": ""
             }
           ]

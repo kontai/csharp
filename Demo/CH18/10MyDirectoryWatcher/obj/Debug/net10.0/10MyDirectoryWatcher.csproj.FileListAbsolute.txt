@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\bin\Debug\net10.0\10MyDirectoryWatcher.exe
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\bin\Debug\net10.0\10MyDirectoryWatcher.deps.json
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\bin\Debug\net10.0\10MyDirectoryWatcher.runtimeconfig.json
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\bin\Debug\net10.0\10MyDirectoryWatcher.dll
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\bin\Debug\net10.0\10MyDirectoryWatcher.pdb
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDirectoryWatcher.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDirectoryWatcher.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDirectoryWatcher.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDirectoryWatcher.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDirectoryWatcher.sourcelink.json
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDirectoryWatcher.dll
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\refint\10MyDirectoryWatcher.dll
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDirectoryWatcher.pdb
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDirectoryWatcher.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\ref\10MyDirectoryWatcher.dll
+D:\workspace\csharp\Demo\CH18\10MyDirectoryWatcher\obj\Debug\net10.0\10MyDire.0D472B97.Up2Date

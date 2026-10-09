@@ -13,3 +13,4 @@ D:\workspace\csharp\Demo\CH18\05File\obj\Debug\net10.0\refint\05File.dll
 D:\workspace\csharp\Demo\CH18\05File\obj\Debug\net10.0\05File.pdb
 D:\workspace\csharp\Demo\CH18\05File\obj\Debug\net10.0\05File.genruntimeconfig.cache
 D:\workspace\csharp\Demo\CH18\05File\obj\Debug\net10.0\ref\05File.dll
+D:\workspace\csharp\Demo\CH18\05File\obj\Debug\net10.0\05File.csproj.Up2Date

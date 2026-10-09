@@ -1,0 +1,16 @@
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\bin\Debug\net10.0\11SimpleSerialize.exe
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\bin\Debug\net10.0\11SimpleSerialize.deps.json
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\bin\Debug\net10.0\11SimpleSerialize.runtimeconfig.json
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\bin\Debug\net10.0\11SimpleSerialize.dll
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\bin\Debug\net10.0\11SimpleSerialize.pdb
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11SimpleSerialize.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11SimpleSerialize.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11SimpleSerialize.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11SimpleSerialize.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11SimpleSerialize.sourcelink.json
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11SimpleSerialize.dll
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\refint\11SimpleSerialize.dll
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11SimpleSerialize.pdb
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11SimpleSerialize.genruntimeconfig.cache
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\ref\11SimpleSerialize.dll
+D:\workspace\csharp\Demo\CH18\11SimpleSerialize\obj\Debug\net10.0\11Simple.F21E7C8A.Up2Date
