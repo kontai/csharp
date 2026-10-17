@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\bin\Debug\net10.0\SimpleThread.exe
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\bin\Debug\net10.0\SimpleThread.deps.json
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\bin\Debug\net10.0\SimpleThread.runtimeconfig.json
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\bin\Debug\net10.0\SimpleThread.dll
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\bin\Debug\net10.0\SimpleThread.pdb
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\SimpleThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\SimpleThread.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\SimpleThread.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\SimpleThread.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\SimpleThread.sourcelink.json
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\SimpleThread.dll
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\refint\SimpleThread.dll
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\SimpleThread.pdb
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\SimpleThread.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\CH15Thread\SimpleThread\SimpleThread\obj\Debug\net10.0\ref\SimpleThread.dll

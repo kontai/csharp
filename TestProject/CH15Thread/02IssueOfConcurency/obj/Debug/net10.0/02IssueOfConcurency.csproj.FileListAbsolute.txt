@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\bin\Debug\net10.0\02IssueOfConcurency.exe
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\bin\Debug\net10.0\02IssueOfConcurency.deps.json
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\bin\Debug\net10.0\02IssueOfConcurency.runtimeconfig.json
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\bin\Debug\net10.0\02IssueOfConcurency.dll
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\bin\Debug\net10.0\02IssueOfConcurency.pdb
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\02IssueOfConcurency.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\02IssueOfConcurency.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\02IssueOfConcurency.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\02IssueOfConcurency.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\02IssueOfConcurency.sourcelink.json
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\02IssueOfConcurency.dll
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\refint\02IssueOfConcurency.dll
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\02IssueOfConcurency.pdb
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\02IssueOfConcurency.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\CH15Thread\02IssueOfConcurency\obj\Debug\net10.0\ref\02IssueOfConcurency.dll

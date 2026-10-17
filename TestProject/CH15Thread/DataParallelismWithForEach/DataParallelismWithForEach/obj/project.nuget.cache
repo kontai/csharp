@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0AbrGjwYus=",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\TestProject\\CH15Thread\\DataParallelismWithForEach\\DataParallelismWithForEach\\DataParallelismWithForEach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kontai\\.nuget\\packages\\system.drawing.common\\10.0.12\\system.drawing.common.10.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference System.Drawing.Common will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "D:\\workspace\\csharp\\TestProject\\CH15Thread\\DataParallelismWithForEach\\DataParallelismWithForEach\\DataParallelismWithForEach.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\workspace\\csharp\\TestProject\\CH15Thread\\DataParallelismWithForEach\\DataParallelismWithForEach\\DataParallelismWithForEach.csproj",
+      "libraryId": "System.Drawing.Common",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}

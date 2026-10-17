@@ -73,30 +73,6 @@ foreach (var item in savedCars)
     Console.WriteLine("Car:\t {0}", item.ToString());
 }
 
-//Json序列化
-JsonSerializerOptions options = new()
-{
-    // 反序列化時,屬性名稱不區分大小寫
-    PropertyNameCaseInsensitive = true,
-    //PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
-    // null 表示保留原本的 PascalCase 名稱,不轉成 camelCase (Jsom預設是camelCase)
-    PropertyNamingPolicy = null,
-    // 預設只處理屬性;設為 true 才會包含公開欄位(本範例的類別多為欄位)
-    IncludeFields = true,
-    // 輸出縮排格式,方便閱讀
-    WriteIndented = true,
-    // 數字寫出時轉成字串,讀入時允許從字串解析數字
-    NumberHandling = JsonNumberHandling.AllowReadingFromString | JsonNumberHandling.WriteAsString,
-};
-SaveAsJsonFormat(options, jbc, "CarData.json");
-Console.WriteLine("=> Saved car in JSON format!");
-SaveAsJsonFormat(options, p, "PersonData.json");
-Console.WriteLine("=> Saved person in JSON format!");
-
-// 將物件序列化為 JSON 字串並寫入檔案
-static void SaveAsJsonFormat<T>(JsonSerializerOptions options, T objGraph, string fileName) =>
-    File.WriteAllText(fileName, System.Text.Json.JsonSerializer.Serialize(objGraph, options));
-
 // 將物件序列化為 XML 並寫入檔案(FileMode.Create:檔案存在則覆寫)
 static void SaveAsXmlFormat<T>(T obj, string fileName)
 {
@@ -120,6 +96,43 @@ static T ReadAsXmlFormat<T>(string fileName)
         return obj;
     }
 }
+
+//Json序列化
+JsonSerializerOptions options = new()
+{
+    // 反序列化時,屬性名稱不區分大小寫
+    PropertyNameCaseInsensitive = true,
+    //PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
+    // null 表示保留原本的 PascalCase 名稱,不轉成 camelCase (Jsom預設是camelCase)
+    PropertyNamingPolicy = null,
+    // 預設只處理屬性;設為 true 才會包含公開欄位(本範例的類別多為欄位)
+    IncludeFields = true,
+    // 輸出縮排格式,方便閱讀(預設為 false,能減少檔案大小)
+    WriteIndented = true,
+    // 數字寫出時轉成字串,讀入時允許從字串解析數字
+    NumberHandling = JsonNumberHandling.AllowReadingFromString | JsonNumberHandling.WriteAsString,
+};
+
+SaveAsJsonFormat(options, jbc, "CarData.json");
+Console.WriteLine("=> Saved car in JSON format!");
+SaveAsJsonFormat(options, p, "PersonData.json");
+Console.WriteLine("=> Saved person in JSON format!");
+
+SaveAsJsonFormat(options, myCars, "CarCollection.json");
+
+JamesBondCar savedJsonCar = ReadAsJsonFormat<JamesBondCar>(options, "CarData.json");
+Console.WriteLine("Read Car: {0}", savedJsonCar.ToString());
+List<JamesBondCar> savedJsonCars = ReadAsJsonFormat<List<JamesBondCar>>(
+    options,
+    "CarCollection.json"
+);
+Console.WriteLine("Read Car: {0}", savedJsonCar.ToString());
+
+HandleNullStrings();
+
+// 將物件序列化為 JSON 字串並寫入檔案
+static void SaveAsJsonFormat<T>(JsonSerializerOptions options, T objGraph, string fileName) =>
+    File.WriteAllText(fileName, System.Text.Json.JsonSerializer.Serialize(objGraph, options));
 
 // 以下為非同步 JSON 序列化範例(目前 Program 並未呼叫)
 
@@ -154,4 +167,31 @@ static async void DeserializeAsync()
         Console.Write(item);
     }
     Console.WriteLine();
+}
+
+static T ReadAsJsonFormat<T>(JsonSerializerOptions options, string fileName) =>
+    System.Text.Json.JsonSerializer.Deserialize<T>(File.ReadAllText(fileName), options);
+
+//自訂過濾器
+static void HandleNullStrings()
+{
+    Console.WriteLine("Handling Null Strings");
+    var options = new JsonSerializerOptions
+    {
+        PropertyNameCaseInsensitive = true,
+        PropertyNamingPolicy = null,
+        IncludeFields = true,
+        WriteIndented = true,
+        Converters = { new JsonStringNullToEmptyConverter() },
+    };
+    //建立一個帶有 null 字串的新物件
+    var radio = new Radio
+    {
+        HasSubWoofers = true,
+        HasTweeters = true,
+        RadioId = null,
+    };
+    //把物件序列化成 JSON
+    var json = JsonSerializer.Serialize(radio, options);
+    Console.WriteLine(json);
 }

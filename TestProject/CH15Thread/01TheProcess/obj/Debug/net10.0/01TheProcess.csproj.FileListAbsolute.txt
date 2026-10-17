@@ -1,0 +1,15 @@
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\bin\Debug\net10.0\01TheProcess.exe
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\bin\Debug\net10.0\01TheProcess.deps.json
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\bin\Debug\net10.0\01TheProcess.runtimeconfig.json
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\bin\Debug\net10.0\01TheProcess.dll
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\bin\Debug\net10.0\01TheProcess.pdb
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\01TheProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\01TheProcess.AssemblyInfoInputs.cache
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\01TheProcess.AssemblyInfo.cs
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\01TheProcess.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\01TheProcess.sourcelink.json
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\01TheProcess.dll
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\refint\01TheProcess.dll
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\01TheProcess.pdb
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\01TheProcess.genruntimeconfig.cache
+D:\workspace\csharp\TestProject\CH15Thread\01TheProcess\obj\Debug\net10.0\ref\01TheProcess.dll

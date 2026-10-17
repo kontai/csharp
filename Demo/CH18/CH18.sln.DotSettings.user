@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=58ae7d09_002D7472_002D455e_002D9047_002D19797791bd46_002301DirectoryInfo/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=162dd9f1_002D4c58_002D47d8_002Dade5_002D13a3d89437fb_002302Directory/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=a9447644_002D92a5_002D4d4b_002Db993_002D3365e023b0cb_002303DriveInfoApp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=fe64f29d_002D8754_002D4471_002Daa9e_002D0870a3ae436c_002304FileInfo/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=feef66e8_002Dd9b5_002D40df_002D8d30_002D4fbf274ec152_002305File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=cb7d93bc_002D44b6_002D4a5c_002Da305_002Dcf35537d2aa0_002306FileStreamApp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=ee9688ee_002De332_002D49a7_002Dabb6_002D82186bbb2ea2_002307StreamWriterReaderApp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=289238e1_002D62c8_002D436c_002Dbd4a_002D421bc843c559_002308StringReaderWriterApp/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=ba39809e_002Df4f4_002D45b3_002D8a43_002Da28fa339b923_002309BinaryWriterReader/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=88bcbbf1_002Dd027_002D4f12_002D83b8_002D8e9a2866f866_002310MyDirectoryWatcher/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=dca270ac_002D083f_002D4897_002D9b9e_002D310427a87cf0_002311SimpleSerialize/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
