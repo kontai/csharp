@@ -1,0 +1,13 @@
+﻿<Application x:Class="Panel_Script.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Panel_Script"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+      <!-- 全域 TextBox 樣式 - 所有 TextBox 都會自動全選 -->
+        <Style TargetType="TextBox">
+            <Setter Property="local:TextBoxBehavior.SelectAllOnFocus" Value="True"/>
+        </Style>
+
+    </Application.Resources>
+</Application>

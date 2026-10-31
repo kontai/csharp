@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="01SimpleConnect/01SimpleConnect.csproj" />
+  <Project Path="02DataProviderFactory/02DataProviderFactory.csproj" Id="af690264-6de3-479f-9fb5-c13c19f4e711" />
+</Solution>

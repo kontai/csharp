@@ -11,4 +11,5 @@ internal class Program
             .Build();
         Console.WriteLine(iconfig["Carname"]);
     }
+ if(OperatingSystem.IsWindows())   
 }
