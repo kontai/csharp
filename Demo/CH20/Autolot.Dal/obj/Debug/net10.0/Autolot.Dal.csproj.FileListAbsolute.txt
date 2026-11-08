@@ -1,0 +1,15 @@
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\bin\Debug\net10.0\Autolot.Dal.deps.json
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\bin\Debug\net10.0\Autolot.Dal.dll
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\bin\Debug\net10.0\Autolot.Dal.pdb
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot.Dal.csproj.AssemblyReference.cache
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot.Dal.AssemblyInfoInputs.cache
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot.Dal.AssemblyInfo.cs
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot.Dal.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot.Dal.sourcelink.json
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot.Dal.dll
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\refint\Autolot.Dal.dll
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot.Dal.pdb
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\ref\Autolot.Dal.dll
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\obj\Debug\net10.0\Autolot..ABD53D6B.Up2Date
+D:\workspace\csharp\Demo\CH20\Autolot.Dal\bin\Debug\net10.0\appsettings.json

@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="01SimpleConnect/01SimpleConnect.csproj" />
   <Project Path="02DataProviderFactory/02DataProviderFactory.csproj" Id="af690264-6de3-479f-9fb5-c13c19f4e711" />
+  <Project Path="03AutoLotDataReader/03AutoLotDataReader.csproj" Id="63227579-f425-41a7-a8c2-02d100e41729" />
+  <Project Path="Autolot.Client/Autolot.Client.csproj" />
+  <Project Path="Autolot.Dal/Autolot.Dal.csproj" Id="f17dda1f-b45d-4ba6-a7e7-eed1b5e5d602" />
 </Solution>

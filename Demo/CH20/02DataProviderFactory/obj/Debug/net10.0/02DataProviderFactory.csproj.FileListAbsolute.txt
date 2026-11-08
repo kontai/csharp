@@ -72,3 +72,4 @@ D:\workspace\csharp\Demo\CH20\02DataProviderFactory\obj\Debug\net10.0\02DataProv
 D:\workspace\csharp\Demo\CH20\02DataProviderFactory\obj\Debug\net10.0\02DataProviderFactory.genruntimeconfig.cache
 D:\workspace\csharp\Demo\CH20\02DataProviderFactory\obj\Debug\net10.0\ref\02DataProviderFactory.dll
 D:\workspace\csharp\Demo\CH20\02DataProviderFactory\bin\Debug\net10.0\appsettings.json
+D:\workspace\csharp\Demo\CH20\02DataProviderFactory\bin\Debug\net10.0\Microsoft.Extensions.Configuration.UserSecrets.dll

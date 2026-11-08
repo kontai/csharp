@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01SimpleConnect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb17733a71b54760f753cc54acaf3a64fb9769a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20f1e98de409067126b465fc7710e162bf515e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("01SimpleConnect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01SimpleConnect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,8 +15,20 @@ DbProviderFactory factory = GetDbProviderFactory(provider);
 using DbConnection connection =
     factory.CreateConnection() ?? throw new InvalidOperationException("工廠無法建立連線物件");
 Console.WriteLine($"Your connection object is a: {connection.GetType().Name}");
+
 connection.ConnectionString = connectionString;
 connection.Open();
+
+if (connection is SqlConnection sqlConn)
+{
+    // 只有 SQL Server 才有的功能：開啟連線統計
+    sqlConn.StatisticsEnabled = true;
+}
+else if (connection is NpgsqlConnection npgConn)
+{
+    // 只有 PostgreSQL 才有的資訊
+    Console.WriteLine($"PostgreSql版本: {npgConn.PostgreSqlVersion}");
+}
 
 // 命令物件也要 using 釋放（原書沒有寫）
 using DbCommand command =
@@ -55,9 +67,11 @@ static (DataProviderEnum Provider, string ConnectionString) GetProviderFromConfi
     IConfiguration config = new ConfigurationBuilder()
         .SetBasePath(AppContext.BaseDirectory) // 用 exe 所在的資料夾找設定檔
         .AddJsonFile("appsettings.json", optional: false) // 找不到檔案就直接報錯
+        .AddUserSecrets<Program>()
         .Build();
 
     string? providerName = config["ProviderName"];
+    string? pass = config["Postgresql:password"];
 
     // ignoreCase: true → "sqlserver" 也能接受
     // Enum.IsDefined → 擋掉 "99" 這種數字字串（TryParse 會把它當成合法值）
@@ -69,6 +83,14 @@ static (DataProviderEnum Provider, string ConnectionString) GetProviderFromConfi
         string connStr =
             config[$"{provider}:ConnectionString"]
             ?? throw new InvalidOperationException($"找不到 {provider} 的連線字串");
+        // 連線字串的參數分隔符號是分號 ; 不是逗號
+        if (!string.IsNullOrEmpty(pass))
+        {
+            connStr = connStr.TrimEnd(';') + $";Password={pass}";
+        }
+        // 不要印出含密碼的連線字串
+        Console.WriteLine($"使用資料提供者：{provider}");
+
         return (provider, connStr);
     }
     throw new InvalidOperationException($"無效的資料提供者設定值：{providerName}");
