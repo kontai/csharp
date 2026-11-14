@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\workspace\\csharp\\Demo\\CH20\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F17DDA1F-B45D-4BA6-A7E7-EED1B5E5D602}|Autolot.Dal\\Autolot.Dal.csproj|d:\\workspace\\csharp\\demo\\ch20\\autolot.dal\\dataoperations\\inventorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17DDA1F-B45D-4BA6-A7E7-EED1B5E5D602}|Autolot.Dal\\Autolot.Dal.csproj|solutionrelative:autolot.dal\\dataoperations\\inventorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6EC379FA-6C25-A89C-5E90-E92BB811089C}|Autolot.Client\\Autolot.Client.csproj|d:\\workspace\\csharp\\demo\\ch20\\autolot.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EC379FA-6C25-A89C-5E90-E92BB811089C}|Autolot.Client\\Autolot.Client.csproj|solutionrelative:autolot.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F17DDA1F-B45D-4BA6-A7E7-EED1B5E5D602}|Autolot.Dal\\Autolot.Dal.csproj|d:\\workspace\\csharp\\demo\\ch20\\autolot.dal\\dataoperations\\inventorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F17DDA1F-B45D-4BA6-A7E7-EED1B5E5D602}|Autolot.Dal\\Autolot.Dal.csproj|solutionrelative:autolot.dal\\dataoperations\\inventorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F17DDA1F-B45D-4BA6-A7E7-EED1B5E5D602}|Autolot.Dal\\Autolot.Dal.csproj|d:\\workspace\\csharp\\demo\\ch20\\autolot.dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F17DDA1F-B45D-4BA6-A7E7-EED1B5E5D602}|Autolot.Dal\\Autolot.Dal.csproj|solutionrelative:autolot.dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F17DDA1F-B45D-4BA6-A7E7-EED1B5E5D602}|Autolot.Dal\\Autolot.Dal.csproj|d:\\workspace\\csharp\\demo\\ch20\\autolot.dal\\models\\carviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -32,19 +36,6 @@
           "DockedWidth": 408,
           "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventoryDal.cs",
-              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\DataOperations\\InventoryDal.cs",
-              "RelativeDocumentMoniker": "Autolot.Dal\\DataOperations\\InventoryDal.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\DataOperations\\InventoryDal.cs",
-              "RelativeToolTip": "Autolot.Dal\\DataOperations\\InventoryDal.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAywHYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T01:33:26.452Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -91,28 +82,54 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{64fd5247-be44-48f4-a94e-5dc856646501}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{64fd5247-be44-48f4-a94e-5dc856646501}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\appsettings.json",
+              "RelativeDocumentMoniker": "Autolot.Dal\\appsettings.json",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\appsettings.json",
+              "RelativeToolTip": "Autolot.Dal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-09T00:33:01.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventoryDal.cs",
+              "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\DataOperations\\InventoryDal.cs",
+              "RelativeDocumentMoniker": "Autolot.Dal\\DataOperations\\InventoryDal.cs",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\DataOperations\\InventoryDal.cs*",
+              "RelativeToolTip": "Autolot.Dal\\DataOperations\\InventoryDal.cs*",
+              "ViewState": "AgIAAIYAAAAAAAAAAAArwJQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T01:33:26.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Client\\Program.cs",
               "RelativeDocumentMoniker": "Autolot.Client\\Program.cs",
-              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Client\\Program.cs*",
-              "RelativeToolTip": "Autolot.Client\\Program.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAEAAAAAaAAAAAAAAAA==",
+              "ToolTip": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Client\\Program.cs",
+              "RelativeToolTip": "Autolot.Client\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA1wFcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-03T03:32:21.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Autolot.Dal\\GlobalUsings.cs",
@@ -120,12 +137,11 @@
               "RelativeToolTip": "Autolot.Dal\\GlobalUsings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T00:59:29.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T00:59:29.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CarViewModel.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\Models\\CarViewModel.cs",
               "RelativeDocumentMoniker": "Autolot.Dal\\Models\\CarViewModel.cs",
@@ -133,12 +149,11 @@
               "RelativeToolTip": "Autolot.Dal\\Models\\CarViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T01:27:06.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T01:27:06.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\workspace\\csharp\\Demo\\CH20\\Autolot.Dal\\Models\\Car.cs",
               "RelativeDocumentMoniker": "Autolot.Dal\\Models\\Car.cs",
@@ -146,8 +161,7 @@
               "RelativeToolTip": "Autolot.Dal\\Models\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T01:26:51.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T01:26:51.344Z"
             }
           ]
         },

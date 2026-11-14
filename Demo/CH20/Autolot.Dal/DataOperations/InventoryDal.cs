@@ -104,20 +104,18 @@ public class InventoryDal
         catch (PostgresException ex) when (ex.SqlState == PostgresErrorCodes.ForeignKeyViolation)
         {
             throw new InvalidOperationException($"車子 {id} 已有訂單，無法刪除。", ex);
-            return false;
         }
         catch (PostgresException ex)
         {
             // 其他資料庫端錯誤
             Console.WriteLine($"Postgres 錯誤 [{ex.SqlState}]: {ex.MessageText}");
-            return false;
         }
         catch (NpgsqlException ex)
         {
             // 網路中斷、連線超時等非資料庫回傳的連線層級錯誤
             Console.WriteLine($"網路或連線層錯誤: {ex.Message}");
-            return false;
         }
+        return false;
     }
 
     public void UpdateCarPetName(int id, string newPetName)
@@ -134,5 +132,12 @@ public class InventoryDal
         command.Parameters.Add(new NpgsqlParameter<int>("id", id));
         command.Parameters.Add(new NpgsqlParameter<string>("newPetName", newPetName));
         command.ExecuteNonQuery();
+    }
+
+    public string LookUpPetName(int carId)
+    {
+        var command = _dataSource.CreateCommand("CALL getpetname(@carId, NULL)");
+        command.Parameters.Add(new NpgsqlParameter<int>("carId", carId));
+        return command.ExecuteScalar() as string ?? "(查無此車)";
     }
 }

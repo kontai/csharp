@@ -2,111 +2,88 @@
 using AutoLot.Dal.Models;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
+// using AutoLot.Dal.BulkImport;   // 本章後面才會建立，先註解掉
 using Npgsql;
 
-//建立連線
-
-//讀取設定檔
-
-// 連線字串和密碼從設定檔 + 環境變數讀取（上兩回學的做法）
+// 讀取 appsettings.json + 環境變數（密碼放在環境變數 Postgres__Password 或 SqlServer__Password）
 var config = new ConfigurationBuilder()
     .SetBasePath(AppContext.BaseDirectory)
     .AddJsonFile("appsettings.json", optional: false)
     .AddEnvironmentVariables()
     .Build();
 
-string? password =
-    config["Postgresql:Password"] ?? throw new InvalidOperationException("無法取得密碼.");
-var csb = new NpgsqlConnectionStringBuilder()
+InventoryDal dal = CreateDal(config);
+
+// ① 列出所有車
+List<CarViewModel> list = dal.GetAllInventory();
+Console.WriteLine(" ************** All Cars ************** ");
+Console.WriteLine($"{"Id", -4}{"Make", -8}{"Color", -10}Pet Name"); // 用對齊格式取代 \t
+foreach (var itm in list)
 {
-    Host = "127.0.0.1",
-    Port = 15432,
-    Username = "tai",
-    Database = "autolot",
-    Password = password,
-};
+    Console.WriteLine($"{itm.Id, -4}{itm.Make, -8}{itm.Color, -10}{itm.PetName}");
+}
+Console.WriteLine();
 
-//建立單獨的連線,所有的資料操作都透過這個連線
-await using NpgsqlDataSource _dataSource = NpgsqlDataSource.Create(csb.ConnectionString);
-
-/*
-using var dbSource = NpgsqlDataSource.Create(connBuiler.ConnectionString);
-using var conn = dbSource.CreateConnection();
-conn.Open();
-using var cmd = new NpgsqlCommand(
-    "UPDATE inventory SET color = @newColor WHERE color = @oldColor",
-    conn
-);
-
-cmd.Parameters.AddWithValue("newColor", "Midnight Black");
-cmd.Parameters.AddWithValue("oldColor", "Black");
-Console.WriteLine($"更新了 {cmd.ExecuteNonQuery()} 筆");
-
-using var cmd2 = new NpgsqlCommand(
-    "UPDATE inventory SET color = @newColor WHERE color = @oldColor",
-    conn
-);
-
-cmd2.Parameters.AddWithValue("newColor", "Black");
-cmd2.Parameters.AddWithValue("oldColor", "Midnight Black");
-Console.WriteLine($"還原了 {cmd2.ExecuteNonQuery()} 筆");
-*/
-
-var Mydal = new InventoryDal(_dataSource);
-
-InsertCarsFunc(Mydal);
-
-//Mydal.DeleteCar(1);
-
-// 新增一台測試車 → 改名 → 刪除
-int testId = Mydal.InsertAuto(
-    new Car
-    {
-        MakeId = 1,
-        Color = "Gray",
-        PetName = "TestCar",
-    }
-);
-Mydal.UpdateCarPetName(testId, "Renamed");
-Console.WriteLine($"改名後：{Mydal.GetCar(testId)?.PetName}"); // Renamed
-Mydal.DeleteCar(testId);
-Console.WriteLine($"刪除後：{Mydal.GetCar(testId)?.PetName ?? "找不到了"}");
-
-void InsertCarsFunc(InventoryDal dal)
+// ② 找顏色排第一的車；顏色相同時再依 Id 排序，結果才固定
+int firstId = list.OrderBy(x => x.Color).ThenBy(x => x.Id).Select(x => x.Id).First();
+CarViewModel? car = dal.GetCar(firstId);
+if (car is null)
 {
-    // 新增：暱稱有單引號也沒問題了
-    int newId = dal.InsertAuto(
-        new Car
-        {
-            MakeId = 1,
-            Color = "Red",
-            PetName = "O'Malley",
-        }
-    );
-    Console.WriteLine($"新增成功，新車 Id = {newId}");
+    Console.WriteLine($"找不到 Id = {firstId} 的車");
+    return;
+}
+Console.WriteLine(" ************** First Car By Color ************** ");
+Console.WriteLine($"{car.Id, -4}{car.Make, -8}{car.Color, -10}{car.PetName}");
 
-    // 查詢單筆
-    CarViewModel? car = dal.GetCar(newId);
-    Console.WriteLine(car is null ? "找不到" : $"{car.PetName} 是一台 {car.Color} 的 {car.Make}");
-
-    // 查詢全部
-    foreach (var c in dal.GetAllInventory())
-        Console.WriteLine($"#{c.Id} {c.Make, -6} {c.Color, -8} {c.PetName}");
+// ③ 刪除 5 號車：應該會失敗（Orders 有相關資料）
+try
+{
+    dal.DeleteCar(5);
+    Console.WriteLine("Car deleted.");
+}
+catch (Exception ex)
+{
+    Console.WriteLine($"An exception occurred: {ex.Message}");
 }
 
-void DeleteCarsFun(InventoryDal da, int id)
+// ④ 新增：InsertAuto 直接傳回新 Id，不必再用暱稱回頭找
+int newId = dal.InsertAuto(
+    new Car
+    {
+        Color = "Blue",
+        MakeId = 5,
+        PetName = "TowMonster",
+    }
+);
+CarViewModel? newCar = dal.GetCar(newId);
+Console.WriteLine(" ************** New Car ************** ");
+Console.WriteLine($"{newCar?.Id, -4}{newCar?.Make, -8}{newCar?.Color, -10}{newCar?.PetName}");
+
+// ⑤ 刪掉剛新增的測試車，資料庫恢復原狀
+dal.DeleteCar(newId);
+
+// ⑥ 呼叫預存程序查暱稱
+var petName = dal.LookUpPetName(car.Id);
+Console.WriteLine(" ************** Look Up Pet Name ************** ");
+Console.WriteLine($"Car pet name: {petName}");
+Console.Write("Press enter to continue...");
+
+// 依照你的 DAL 版本選擇其中一種寫法：
+static InventoryDal CreateDal(IConfiguration config)
 {
-    try
+    // ── PostgreSQL 版 DAL（建構函式接受連線字串）──
+    var csb = new Npgsql.NpgsqlConnectionStringBuilder(config["Postgres:ConnectionString"])
     {
-        if (da.DeleteCar(id)) { }
-        {
-            Console.WriteLine("刪除成功");
-        }
-    }
-    catch (PostgresException ex)
-    {
-        Console.WriteLine("主程式catch");
-        Console.WriteLine($"刪除失敗，找不到 Id = {id} 的車");
-        Console.WriteLine(ex.SqlState, ex.Message);
-    }
+        Password = config["Postgres:Password"],
+    };
+    //return new InventoryDal(csb.ConnectionString);
+
+    // ── 如果你的 PostgreSQL 版 DAL 改成接受 NpgsqlDataSource（Npgsql 7 以上）──
+    var dataSource = Npgsql.NpgsqlDataSource.Create(csb.ConnectionString);
+    return new InventoryDal(dataSource); // dataSource 整個程式只建立一次
+
+    //── SQL Server 版 DAL ──
+    //var csb = new Microsoft.Data.SqlClient.SqlConnectionStringBuilder(config["SqlServer:ConnectionString"])
+    //{ Password = config["SqlServer:Password"] };
+    //return new InventoryDal(csb.ConnectionString);
 }

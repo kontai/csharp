@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03AutoLotDataReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e20f1e98de409067126b465fc7710e162bf515e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec4c56dae28e4b40fa55bcdd389eee1830a2389a")]
 [assembly: System.Reflection.AssemblyProductAttribute("03AutoLotDataReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03AutoLotDataReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
